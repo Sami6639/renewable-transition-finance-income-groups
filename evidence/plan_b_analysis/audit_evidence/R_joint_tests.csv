@@ -1,0 +1,5 @@
+"model","test","restrictions","HTZ_F","HTZ_df1","HTZ_df2","p_value"
+"annual_CRE_absolute","within_equals_between_FD;RQ;lnGDP;lnPop;Trade;Inflation",6,2.31137491217859,6,25.2106055244592,0.0648527161371812
+"annual_CRE_absolute","within_equals_between_FD",1,0.553626149026931,1,18.8048734554315,0.466036404066347
+"annual_CRE_absolute","within_equals_between_RQ",1,4.16478126707157,1,47.9881266253065,0.0467942908349039
+

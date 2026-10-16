@@ -1,0 +1,6 @@
+model,hypothesis,restrictions,draws,valid_draws,seed,weights,null,studentization,observed_Wald_F,p_wild_restricted,Monte_Carlo_SE,p_Holm_5_declared_bootstrap_tests
+Primary RQ interaction,FD × RQ zero,1,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,0.4916251511333073,0.4801,0.0049960383305174,1.0
+Primary Income interaction,Income interactions jointly zero,3,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,0.3565426932083448,0.7592,0.0042756912891367,1.0
+Primary Income interaction,Lower middle income minus low-income slope zero,1,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,0.1170288334419708,0.697,0.0045955521975057,1.0
+Primary Income interaction,Upper middle income minus low-income slope zero,1,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,0.7981122605029242,0.3741,0.0048388964651044,1.0
+Primary Income interaction,High income minus low-income slope zero,1,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,0.2232141757049281,0.6288,0.004831258221209,1.0

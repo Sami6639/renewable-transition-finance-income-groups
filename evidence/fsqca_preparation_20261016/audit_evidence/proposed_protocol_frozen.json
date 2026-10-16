@@ -1,0 +1,95 @@
+{
+  "status": "PROPOSED \u2014 NOT APPROVED",
+  "frozen_utc": "2026-10-16T11:05:52.705452+00:00",
+  "source": "Frozen IRENA Renewable Energy Statistics 2025 only",
+  "baseline": [
+    2018,
+    2019,
+    2020
+  ],
+  "outcome": [
+    2021,
+    2022,
+    2023
+  ],
+  "one_case": "one country/economy",
+  "primary_outcome": "financing_mean_per_capita_2021_2023",
+  "alternate_outcome": "financing_mean_musd2022_2021_2023",
+  "aggregation": "Require all 3 actual years; arithmetic condition means and mean annual per-capita ratios",
+  "anchors": [
+    {
+      "variable": "bank_depth_mean_2018_2020",
+      "set_name": "Deep banking intermediation",
+      "unit": "% GDP",
+      "full_out": 20.0,
+      "crossover": 50,
+      "full_in": 100,
+      "crossover_alternatives": [
+        40,
+        60
+      ],
+      "near_crossover_band": 5,
+      "rationale": "Credit stock equal to one-fifth, one-half and one year of GDP marks limited, intermediate and extensive banking depth. Researcher-proposed scale anchors, not official WB thresholds or financial-efficiency standards."
+    },
+    {
+      "variable": "RQ_mean_2018_2020",
+      "set_name": "Relatively strong Regulatory Quality",
+      "unit": "WGI governance-estimate units",
+      "full_out": -1,
+      "crossover": 0,
+      "full_in": 1,
+      "crossover_alternatives": [
+        -0.25,
+        0.25
+      ],
+      "near_crossover_band": 0.1,
+      "rationale": "Below-reference, near-reference and above-reference governance-estimate levels. Zero is a reference location, not an annually fixed world mean or proven policy adequacy boundary under revised WGI methods."
+    },
+    {
+      "variable": "real_GDP_pc_mean_2018_2020",
+      "set_name": "High domestic economic resource capacity",
+      "unit": "constant 2015 USD per person",
+      "full_out": 2000,
+      "crossover": 8000,
+      "full_in": 20000,
+      "crossover_alternatives": [
+        6000,
+        10000
+      ],
+      "near_crossover_band": 800,
+      "rationale": "Low per-person aggregate production capacity, intermediate resource availability and a substantial domestic resource base. Researcher-proposed resource-scale anchors; never substitute Atlas GNI or current-USD WB income cutoffs."
+    },
+    {
+      "variable": "financing_mean_per_capita_2021_2023",
+      "set_name": "High recorded public renewable-finance intensity",
+      "unit": "constant 2022 USD per resident per year",
+      "full_out": 1,
+      "crossover": 10,
+      "full_in": 50,
+      "crossover_alternatives": [
+        5,
+        20
+      ],
+      "near_crossover_band": 1,
+      "rationale": "Trivial, intermediate and substantial selected public commitment envelopes per resident. Primary outcome addresses intensity relative to population, avoiding an unconditioned country-size effect; these are proposed materiality judgments, not established policy standards."
+    },
+    {
+      "variable": "financing_mean_musd2022_2021_2023",
+      "set_name": "Large recorded public renewable-finance volume",
+      "unit": "million constant 2022 USD per year",
+      "full_out": 1,
+      "crossover": 25,
+      "full_in": 100,
+      "crossover_alternatives": [
+        10,
+        50
+      ],
+      "near_crossover_band": 2.5,
+      "rationale": "Small national ticket volume, intermediate multi-project funding envelope and sustained large-scale mobilization. Alternative absolute-volume estimand; not comparable to per-capita intensity and no universal institutional country threshold is asserted."
+    }
+  ],
+  "primary_calibration": "Piecewise logistic direct method on original units: expit(log(19)*(x-c)/(c-l)) below c; expit(log(19)*(x-c)/(u-c)) above c. Membership at l,c,u equals .05,.50,.95; no exact 0/1 clipping.",
+  "alternatives": "One-at-a-time predeclared crossover shifts; secondary log(x) distance interpolation for strictly positive depth/GDPpc and log1p(x/one stated currency unit) for nonnegative outcomes, holding raw-unit anchors fixed. Never pick a curve from solution attractiveness.",
+  "zero_missing_policy": "Published numerical zeros retained with rounding caution; unavailable financing stays missing.",
+  "prohibited": "No empirical truth tables/configuration occupancy, calibration of cases, minimization, necessity/sufficiency results or threshold optimization before approval"
+}

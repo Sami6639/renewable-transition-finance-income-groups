@@ -1,0 +1,111 @@
+model,income_group,n,clusters,years
+A matched baseline,Pooled,914,109,10
+A matched baseline,Low income,163,26,10
+A matched baseline,Lower middle income,328,44,10
+A matched baseline,Upper middle income,274,42,10
+A matched baseline,High income,149,26,10
+A primary,Pooled,914,109,10
+A primary,Low income,163,26,10
+A primary,Lower middle income,328,44,10
+A primary,Upper middle income,274,42,10
+A primary,High income,149,26,10
+B matched baseline,Pooled,1094,135,10
+B matched baseline,Low income,182,29,10
+B matched baseline,Lower middle income,397,55,10
+B matched baseline,Upper middle income,337,52,10
+B matched baseline,High income,178,34,10
+B primary,Pooled,1094,135,10
+B primary,Low income,182,29,10
+B primary,Lower middle income,397,55,10
+B primary,Upper middle income,337,52,10
+B primary,High income,178,34,10
+C matched baseline,Pooled,1094,136,10
+C matched baseline,Low income,182,29,10
+C matched baseline,Lower middle income,400,55,10
+C matched baseline,Upper middle income,334,52,10
+C matched baseline,High income,178,34,10
+C primary,Pooled,1094,136,10
+C primary,Low income,182,29,10
+C primary,Lower middle income,400,55,10
+C primary,Upper middle income,334,52,10
+C primary,High income,178,34,10
+A readiness interaction,Pooled,914,109,10
+A readiness interaction,Low income,163,26,10
+A readiness interaction,Lower middle income,328,44,10
+A readiness interaction,Upper middle income,274,42,10
+A readiness interaction,High income,149,26,10
+A asinh inflation baseline,Pooled,914,109,10
+A asinh inflation baseline,Low income,163,26,10
+A asinh inflation baseline,Lower middle income,328,44,10
+A asinh inflation baseline,Upper middle income,274,42,10
+A asinh inflation baseline,High income,149,26,10
+A asinh inflation,Pooled,914,109,10
+A asinh inflation,Low income,163,26,10
+A asinh inflation,Lower middle income,328,44,10
+A asinh inflation,Upper middle income,274,42,10
+A asinh inflation,High income,149,26,10
+A all-X lag baseline,Pooled,910,109,10
+A all-X lag baseline,Low income,162,26,10
+A all-X lag baseline,Lower middle income,327,44,10
+A all-X lag baseline,Upper middle income,273,42,10
+A all-X lag baseline,High income,148,25,10
+A all-X lag,Pooled,910,109,10
+A all-X lag,Low income,162,26,10
+A all-X lag,Lower middle income,327,44,10
+A all-X lag,Upper middle income,273,42,10
+A all-X lag,High income,148,25,10
+B asinh inflation baseline,Pooled,1094,135,10
+B asinh inflation baseline,Low income,182,29,10
+B asinh inflation baseline,Lower middle income,397,55,10
+B asinh inflation baseline,Upper middle income,337,52,10
+B asinh inflation baseline,High income,178,34,10
+B asinh inflation,Pooled,1094,135,10
+B asinh inflation,Low income,182,29,10
+B asinh inflation,Lower middle income,397,55,10
+B asinh inflation,Upper middle income,337,52,10
+B asinh inflation,High income,178,34,10
+B all-X lag baseline,Pooled,1088,135,10
+B all-X lag baseline,Low income,180,29,10
+B all-X lag baseline,Lower middle income,395,55,10
+B all-X lag baseline,Upper middle income,336,52,10
+B all-X lag baseline,High income,177,33,10
+B all-X lag,Pooled,1088,135,10
+B all-X lag,Low income,180,29,10
+B all-X lag,Lower middle income,395,55,10
+B all-X lag,Upper middle income,336,52,10
+B all-X lag,High income,177,33,10
+C asinh inflation baseline,Pooled,1094,136,10
+C asinh inflation baseline,Low income,182,29,10
+C asinh inflation baseline,Lower middle income,400,55,10
+C asinh inflation baseline,Upper middle income,334,52,10
+C asinh inflation baseline,High income,178,34,10
+C asinh inflation,Pooled,1094,136,10
+C asinh inflation,Low income,182,29,10
+C asinh inflation,Lower middle income,400,55,10
+C asinh inflation,Upper middle income,334,52,10
+C asinh inflation,High income,178,34,10
+C all-X lag baseline,Pooled,1089,136,10
+C all-X lag baseline,Low income,180,29,10
+C all-X lag baseline,Lower middle income,399,55,10
+C all-X lag baseline,Upper middle income,333,52,10
+C all-X lag baseline,High income,177,33,10
+C all-X lag,Pooled,1089,136,10
+C all-X lag,Low income,180,29,10
+C all-X lag,Lower middle income,399,55,10
+C all-X lag,Upper middle income,333,52,10
+C all-X lag,High income,177,33,10
+B asinh signed FDI,Pooled,1094,135,10
+B asinh signed FDI,Low income,182,29,10
+B asinh signed FDI,Lower middle income,397,55,10
+B asinh signed FDI,Upper middle income,337,52,10
+B asinh signed FDI,High income,178,34,10
+Voice and accountability benchmark,Pooled,1104,137,10
+Voice and accountability benchmark,Low income,182,29,10
+Voice and accountability benchmark,Lower middle income,405,56,10
+Voice and accountability benchmark,Upper middle income,339,53,10
+Voice and accountability benchmark,High income,178,34,10
+Political stability benchmark,Pooled,1104,137,10
+Political stability benchmark,Low income,182,29,10
+Political stability benchmark,Lower middle income,405,56,10
+Political stability benchmark,Upper middle income,339,53,10
+Political stability benchmark,High income,178,34,10

@@ -1,0 +1,5 @@
+model,hypothesis,restrictions,draws,valid_draws,seed,weights,null,studentization,observed_Wald_F,p_wild_restricted,Monte_Carlo_SE,p_wild_Holm_primary3
+A primary,RISE zero,1,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,0.0849981714073638,0.7695,0.00421152881979929,1.0
+B primary,FDI zero,1,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,0.4157749934359628,0.5161,0.0049974072277532075,1.0
+C primary,Deficit zero,1,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,0.017095551145868353,0.8977,0.00303042422772786,1.0
+A readiness interaction,RQ_x_RISE zero,1,9999,9999,20261016,Rademacher,Restricted OLS null imposed,Re-estimated CR2 Wald/q each draw,2.6645675989156437,0.0901,0.002863249727145713,

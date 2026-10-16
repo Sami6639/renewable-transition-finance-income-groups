@@ -1,0 +1,301 @@
+model,income_group,rows,clusters,years
+AB matched: Bank depth: Baseline,Pooled,922,114,10
+AB matched: Bank depth: Baseline,Low income,134,21,10
+AB matched: Bank depth: Baseline,Lower middle income,315,42,10
+AB matched: Bank depth: Baseline,Upper middle income,299,46,10
+AB matched: Bank depth: Baseline,High income,174,32,10
+AB matched: Bank depth: RQ interaction,Pooled,922,114,10
+AB matched: Bank depth: RQ interaction,Low income,134,21,10
+AB matched: Bank depth: RQ interaction,Lower middle income,315,42,10
+AB matched: Bank depth: RQ interaction,Upper middle income,299,46,10
+AB matched: Bank depth: RQ interaction,High income,174,32,10
+AB matched: Bank depth: Income interaction,Pooled,922,114,10
+AB matched: Bank depth: Income interaction,Low income,134,21,10
+AB matched: Bank depth: Income interaction,Lower middle income,315,42,10
+AB matched: Bank depth: Income interaction,Upper middle income,299,46,10
+AB matched: Bank depth: Income interaction,High income,174,32,10
+AB matched: FinData: Baseline,Pooled,922,114,10
+AB matched: FinData: Baseline,Low income,134,21,10
+AB matched: FinData: Baseline,Lower middle income,315,42,10
+AB matched: FinData: Baseline,Upper middle income,299,46,10
+AB matched: FinData: Baseline,High income,174,32,10
+AB matched: FinData: RQ interaction,Pooled,922,114,10
+AB matched: FinData: RQ interaction,Low income,134,21,10
+AB matched: FinData: RQ interaction,Lower middle income,315,42,10
+AB matched: FinData: RQ interaction,Upper middle income,299,46,10
+AB matched: FinData: RQ interaction,High income,174,32,10
+AB matched: FinData: Income interaction,Pooled,922,114,10
+AB matched: FinData: Income interaction,Low income,134,21,10
+AB matched: FinData: Income interaction,Lower middle income,315,42,10
+AB matched: FinData: Income interaction,Upper middle income,299,46,10
+AB matched: FinData: Income interaction,High income,174,32,10
+AC matched: FinData: Baseline,Pooled,631,108,7
+AC matched: FinData: Baseline,Low income,104,20,7
+AC matched: FinData: Baseline,Lower middle income,217,41,7
+AC matched: FinData: Baseline,Upper middle income,197,40,7
+AC matched: FinData: Baseline,High income,113,28,7
+AC matched: FinData: RQ interaction,Pooled,631,108,7
+AC matched: FinData: RQ interaction,Low income,104,20,7
+AC matched: FinData: RQ interaction,Lower middle income,217,41,7
+AC matched: FinData: RQ interaction,Upper middle income,197,40,7
+AC matched: FinData: RQ interaction,High income,113,28,7
+AC matched: FinData: Income interaction,Pooled,631,108,7
+AC matched: FinData: Income interaction,Low income,104,20,7
+AC matched: FinData: Income interaction,Lower middle income,217,41,7
+AC matched: FinData: Income interaction,Upper middle income,197,40,7
+AC matched: FinData: Income interaction,High income,113,28,7
+AC matched: IMF: Baseline,Pooled,631,108,7
+AC matched: IMF: Baseline,Low income,104,20,7
+AC matched: IMF: Baseline,Lower middle income,217,41,7
+AC matched: IMF: Baseline,Upper middle income,197,40,7
+AC matched: IMF: Baseline,High income,113,28,7
+AC matched: IMF: RQ interaction,Pooled,631,108,7
+AC matched: IMF: RQ interaction,Low income,104,20,7
+AC matched: IMF: RQ interaction,Lower middle income,217,41,7
+AC matched: IMF: RQ interaction,Upper middle income,197,40,7
+AC matched: IMF: RQ interaction,High income,113,28,7
+AC matched: IMF: Income interaction,Pooled,631,108,7
+AC matched: IMF: Income interaction,Low income,104,20,7
+AC matched: IMF: Income interaction,Lower middle income,217,41,7
+AC matched: IMF: Income interaction,Upper middle income,197,40,7
+AC matched: IMF: Income interaction,High income,113,28,7
+BC matched: Bank depth: Baseline,Pooled,740,128,7
+BC matched: Bank depth: Baseline,Low income,137,27,7
+BC matched: Bank depth: Baseline,Lower middle income,267,51,7
+BC matched: Bank depth: Baseline,Upper middle income,219,46,7
+BC matched: Bank depth: Baseline,High income,117,30,7
+BC matched: Bank depth: RQ interaction,Pooled,740,128,7
+BC matched: Bank depth: RQ interaction,Low income,137,27,7
+BC matched: Bank depth: RQ interaction,Lower middle income,267,51,7
+BC matched: Bank depth: RQ interaction,Upper middle income,219,46,7
+BC matched: Bank depth: RQ interaction,High income,117,30,7
+BC matched: Bank depth: Income interaction,Pooled,740,128,7
+BC matched: Bank depth: Income interaction,Low income,137,27,7
+BC matched: Bank depth: Income interaction,Lower middle income,267,51,7
+BC matched: Bank depth: Income interaction,Upper middle income,219,46,7
+BC matched: Bank depth: Income interaction,High income,117,30,7
+BC matched: IMF: Baseline,Pooled,740,128,7
+BC matched: IMF: Baseline,Low income,137,27,7
+BC matched: IMF: Baseline,Lower middle income,267,51,7
+BC matched: IMF: Baseline,Upper middle income,219,46,7
+BC matched: IMF: Baseline,High income,117,30,7
+BC matched: IMF: RQ interaction,Pooled,740,128,7
+BC matched: IMF: RQ interaction,Low income,137,27,7
+BC matched: IMF: RQ interaction,Lower middle income,267,51,7
+BC matched: IMF: RQ interaction,Upper middle income,219,46,7
+BC matched: IMF: RQ interaction,High income,117,30,7
+BC matched: IMF: Income interaction,Pooled,740,128,7
+BC matched: IMF: Income interaction,Low income,137,27,7
+BC matched: IMF: Income interaction,Lower middle income,267,51,7
+BC matched: IMF: Income interaction,Upper middle income,219,46,7
+BC matched: IMF: Income interaction,High income,117,30,7
+ABC matched: Bank depth: Baseline,Pooled,613,106,7
+ABC matched: Bank depth: Baseline,Low income,97,19,7
+ABC matched: Bank depth: Baseline,Lower middle income,212,40,7
+ABC matched: Bank depth: Baseline,Upper middle income,191,40,7
+ABC matched: Bank depth: Baseline,High income,113,28,7
+ABC matched: Bank depth: RQ interaction,Pooled,613,106,7
+ABC matched: Bank depth: RQ interaction,Low income,97,19,7
+ABC matched: Bank depth: RQ interaction,Lower middle income,212,40,7
+ABC matched: Bank depth: RQ interaction,Upper middle income,191,40,7
+ABC matched: Bank depth: RQ interaction,High income,113,28,7
+ABC matched: Bank depth: Income interaction,Pooled,613,106,7
+ABC matched: Bank depth: Income interaction,Low income,97,19,7
+ABC matched: Bank depth: Income interaction,Lower middle income,212,40,7
+ABC matched: Bank depth: Income interaction,Upper middle income,191,40,7
+ABC matched: Bank depth: Income interaction,High income,113,28,7
+ABC matched: FinData: Baseline,Pooled,613,106,7
+ABC matched: FinData: Baseline,Low income,97,19,7
+ABC matched: FinData: Baseline,Lower middle income,212,40,7
+ABC matched: FinData: Baseline,Upper middle income,191,40,7
+ABC matched: FinData: Baseline,High income,113,28,7
+ABC matched: FinData: RQ interaction,Pooled,613,106,7
+ABC matched: FinData: RQ interaction,Low income,97,19,7
+ABC matched: FinData: RQ interaction,Lower middle income,212,40,7
+ABC matched: FinData: RQ interaction,Upper middle income,191,40,7
+ABC matched: FinData: RQ interaction,High income,113,28,7
+ABC matched: FinData: Income interaction,Pooled,613,106,7
+ABC matched: FinData: Income interaction,Low income,97,19,7
+ABC matched: FinData: Income interaction,Lower middle income,212,40,7
+ABC matched: FinData: Income interaction,Upper middle income,191,40,7
+ABC matched: FinData: Income interaction,High income,113,28,7
+ABC matched: IMF: Baseline,Pooled,613,106,7
+ABC matched: IMF: Baseline,Low income,97,19,7
+ABC matched: IMF: Baseline,Lower middle income,212,40,7
+ABC matched: IMF: Baseline,Upper middle income,191,40,7
+ABC matched: IMF: Baseline,High income,113,28,7
+ABC matched: IMF: RQ interaction,Pooled,613,106,7
+ABC matched: IMF: RQ interaction,Low income,97,19,7
+ABC matched: IMF: RQ interaction,Lower middle income,212,40,7
+ABC matched: IMF: RQ interaction,Upper middle income,191,40,7
+ABC matched: IMF: RQ interaction,High income,113,28,7
+ABC matched: IMF: Income interaction,Pooled,613,106,7
+ABC matched: IMF: Income interaction,Low income,97,19,7
+ABC matched: IMF: Income interaction,Lower middle income,212,40,7
+ABC matched: IMF: Income interaction,Upper middle income,191,40,7
+ABC matched: IMF: Income interaction,High income,113,28,7
+Primary Baseline,Pooled,1104,137,10
+Primary Baseline,Low income,182,29,10
+Primary Baseline,Lower middle income,405,56,10
+Primary Baseline,Upper middle income,339,53,10
+Primary Baseline,High income,178,34,10
+Primary RQ interaction,Pooled,1104,137,10
+Primary RQ interaction,Low income,182,29,10
+Primary RQ interaction,Lower middle income,405,56,10
+Primary RQ interaction,Upper middle income,339,53,10
+Primary RQ interaction,High income,178,34,10
+Primary Income interaction,Pooled,1104,137,10
+Primary Income interaction,Low income,182,29,10
+Primary Income interaction,Lower middle income,405,56,10
+Primary Income interaction,Upper middle income,339,53,10
+Primary Income interaction,High income,178,34,10
+Primary Combined,Pooled,1104,137,10
+Primary Combined,Low income,182,29,10
+Primary Combined,Lower middle income,405,56,10
+Primary Combined,Upper middle income,339,53,10
+Primary Combined,High income,178,34,10
+FinData native Baseline,Pooled,956,116,10
+FinData native Baseline,Low income,144,22,10
+FinData native Baseline,Lower middle income,331,45,10
+FinData native Baseline,Upper middle income,307,46,10
+FinData native Baseline,High income,174,32,10
+FinData native RQ interaction,Pooled,956,116,10
+FinData native RQ interaction,Low income,144,22,10
+FinData native RQ interaction,Lower middle income,331,45,10
+FinData native RQ interaction,Upper middle income,307,46,10
+FinData native RQ interaction,High income,174,32,10
+FinData native Income interaction,Pooled,956,116,10
+FinData native Income interaction,Low income,144,22,10
+FinData native Income interaction,Lower middle income,331,45,10
+FinData native Income interaction,Upper middle income,307,46,10
+FinData native Income interaction,High income,174,32,10
+IMF native Baseline,Pooled,763,131,7
+IMF native Baseline,Low income,144,28,7
+IMF native Baseline,Lower middle income,277,53,7
+IMF native Baseline,Upper middle income,225,46,7
+IMF native Baseline,High income,117,30,7
+IMF native RQ interaction,Pooled,763,131,7
+IMF native RQ interaction,Low income,144,28,7
+IMF native RQ interaction,Lower middle income,277,53,7
+IMF native RQ interaction,Upper middle income,225,46,7
+IMF native RQ interaction,High income,117,30,7
+IMF native Income interaction,Pooled,763,131,7
+IMF native Income interaction,Low income,144,28,7
+IMF native Income interaction,Lower middle income,277,53,7
+IMF native Income interaction,Upper middle income,225,46,7
+IMF native Income interaction,High income,117,30,7
+Lagged Baseline,Pooled,1114,138,10
+Lagged Baseline,Low income,186,30,10
+Lagged Baseline,Lower middle income,411,56,10
+Lagged Baseline,Upper middle income,340,53,10
+Lagged Baseline,High income,177,33,10
+Lagged RQ interaction,Pooled,1114,138,10
+Lagged RQ interaction,Low income,186,30,10
+Lagged RQ interaction,Lower middle income,411,56,10
+Lagged RQ interaction,Upper middle income,340,53,10
+Lagged RQ interaction,High income,177,33,10
+Lagged Income interaction,Pooled,1114,138,10
+Lagged Income interaction,Low income,186,30,10
+Lagged Income interaction,Lower middle income,411,56,10
+Lagged Income interaction,Upper middle income,340,53,10
+Lagged Income interaction,High income,177,33,10
+Current matched lag,Pooled,1099,137,10
+Current matched lag,Low income,180,29,10
+Current matched lag,Lower middle income,404,56,10
+Current matched lag,Upper middle income,338,53,10
+Current matched lag,High income,177,33,10
+Lag matched current,Pooled,1099,137,10
+Lag matched current,Low income,180,29,10
+Lag matched current,Lower middle income,404,56,10
+Lag matched current,Upper middle income,338,53,10
+Lag matched current,High income,177,33,10
+Government effectiveness Baseline,Pooled,1104,137,10
+Government effectiveness Baseline,Low income,182,29,10
+Government effectiveness Baseline,Lower middle income,405,56,10
+Government effectiveness Baseline,Upper middle income,339,53,10
+Government effectiveness Baseline,High income,178,34,10
+Government effectiveness RQ interaction,Pooled,1104,137,10
+Government effectiveness RQ interaction,Low income,182,29,10
+Government effectiveness RQ interaction,Lower middle income,405,56,10
+Government effectiveness RQ interaction,Upper middle income,339,53,10
+Government effectiveness RQ interaction,High income,178,34,10
+Rule of law Baseline,Pooled,1104,137,10
+Rule of law Baseline,Low income,182,29,10
+Rule of law Baseline,Lower middle income,405,56,10
+Rule of law Baseline,Upper middle income,339,53,10
+Rule of law Baseline,High income,178,34,10
+Rule of law RQ interaction,Pooled,1104,137,10
+Rule of law RQ interaction,Low income,182,29,10
+Rule of law RQ interaction,Lower middle income,405,56,10
+Rule of law RQ interaction,Upper middle income,339,53,10
+Rule of law RQ interaction,High income,178,34,10
+Control of corruption Baseline,Pooled,1104,137,10
+Control of corruption Baseline,Low income,182,29,10
+Control of corruption Baseline,Lower middle income,405,56,10
+Control of corruption Baseline,Upper middle income,339,53,10
+Control of corruption Baseline,High income,178,34,10
+Control of corruption RQ interaction,Pooled,1104,137,10
+Control of corruption RQ interaction,Low income,182,29,10
+Control of corruption RQ interaction,Lower middle income,405,56,10
+Control of corruption RQ interaction,Upper middle income,339,53,10
+Control of corruption RQ interaction,High income,178,34,10
+Sovereign scope Baseline,Pooled,1094,136,10
+Sovereign scope Baseline,Low income,182,29,10
+Sovereign scope Baseline,Lower middle income,400,55,10
+Sovereign scope Baseline,Upper middle income,334,52,10
+Sovereign scope Baseline,High income,178,34,10
+Sovereign scope RQ interaction,Pooled,1094,136,10
+Sovereign scope RQ interaction,Low income,182,29,10
+Sovereign scope RQ interaction,Lower middle income,400,55,10
+Sovereign scope RQ interaction,Upper middle income,334,52,10
+Sovereign scope RQ interaction,High income,178,34,10
+Sovereign scope Income interaction,Pooled,1094,136,10
+Sovereign scope Income interaction,Low income,182,29,10
+Sovereign scope Income interaction,Lower middle income,400,55,10
+Sovereign scope Income interaction,Upper middle income,334,52,10
+Sovereign scope Income interaction,High income,178,34,10
+Stable income Baseline,Pooled,765,96,10
+Stable income Baseline,Low income,125,15,10
+Stable income Baseline,Lower middle income,238,27,10
+Stable income Baseline,Upper middle income,244,28,10
+Stable income Baseline,High income,158,26,10
+Stable income RQ interaction,Pooled,765,96,10
+Stable income RQ interaction,Low income,125,15,10
+Stable income RQ interaction,Lower middle income,238,27,10
+Stable income RQ interaction,Upper middle income,244,28,10
+Stable income RQ interaction,High income,158,26,10
+Stable income Income interaction,Pooled,765,96,10
+Stable income Income interaction,Low income,125,15,10
+Stable income Income interaction,Lower middle income,238,27,10
+Stable income Income interaction,Upper middle income,244,28,10
+Stable income Income interaction,High income,158,26,10
+Fixed 2014 income,Pooled,1104,137,10
+Fixed 2014 income,Low income,231,26,10
+Fixed 2014 income,Lower middle income,376,42,10
+Fixed 2014 income,Upper middle income,334,42,10
+Fixed 2014 income,High income,163,27,10
+Positive only Baseline,Pooled,1090,137,10
+Positive only Baseline,Low income,179,29,10
+Positive only Baseline,Lower middle income,398,56,10
+Positive only Baseline,Upper middle income,335,53,10
+Positive only Baseline,High income,178,34,10
+Positive only RQ interaction,Pooled,1090,137,10
+Positive only RQ interaction,Low income,179,29,10
+Positive only RQ interaction,Lower middle income,398,56,10
+Positive only RQ interaction,Upper middle income,335,53,10
+Positive only RQ interaction,High income,178,34,10
+Positive only Income interaction,Pooled,1090,137,10
+Positive only Income interaction,Low income,179,29,10
+Positive only Income interaction,Lower middle income,398,56,10
+Positive only Income interaction,Upper middle income,335,53,10
+Positive only Income interaction,High income,178,34,10
+log1p in USD,Pooled,1104,137,10
+log1p in USD,Low income,182,29,10
+log1p in USD,Lower middle income,405,56,10
+log1p in USD,Upper middle income,339,53,10
+log1p in USD,High income,178,34,10
+log1p in billion USD,Pooled,1104,137,10
+log1p in billion USD,Low income,182,29,10
+log1p in billion USD,Lower middle income,405,56,10
+log1p in billion USD,Upper middle income,339,53,10
+log1p in billion USD,High income,178,34,10

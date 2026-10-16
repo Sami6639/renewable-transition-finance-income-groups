@@ -1,0 +1,1011 @@
+model,term1,term2,covariance_CR2
+A matched baseline,FD,FD,5.602289401603624e-05
+A matched baseline,FD,Governance,0.0002786993066475606
+A matched baseline,FD,log_real_GDP_pc,-0.001141443349149623
+A matched baseline,FD,log_population,-0.004329854100581327
+A matched baseline,FD,trade_GDP,-1.02552304423376e-05
+A matched baseline,FD,inflation,3.8402278766472317e-08
+A matched baseline,Governance,FD,0.0002786993066475606
+A matched baseline,Governance,Governance,0.3344178693399282
+A matched baseline,Governance,log_real_GDP_pc,-0.020559899360296608
+A matched baseline,Governance,log_population,-0.022388497500518835
+A matched baseline,Governance,trade_GDP,0.00017890196587340605
+A matched baseline,Governance,inflation,0.00023090743425936407
+A matched baseline,log_real_GDP_pc,FD,-0.001141443349149623
+A matched baseline,log_real_GDP_pc,Governance,-0.020559899360296608
+A matched baseline,log_real_GDP_pc,log_real_GDP_pc,1.3714879900027506
+A matched baseline,log_real_GDP_pc,log_population,0.5551126465821329
+A matched baseline,log_real_GDP_pc,trade_GDP,-0.0035324849951261705
+A matched baseline,log_real_GDP_pc,inflation,0.0002827742646619255
+A matched baseline,log_population,FD,-0.004329854100581327
+A matched baseline,log_population,Governance,-0.022388497500518835
+A matched baseline,log_population,log_real_GDP_pc,0.5551126465821329
+A matched baseline,log_population,log_population,3.5372866759607313
+A matched baseline,log_population,trade_GDP,0.004144619817203531
+A matched baseline,log_population,inflation,-0.00012777706951963048
+A matched baseline,trade_GDP,FD,-1.02552304423376e-05
+A matched baseline,trade_GDP,Governance,0.00017890196587340605
+A matched baseline,trade_GDP,log_real_GDP_pc,-0.0035324849951261705
+A matched baseline,trade_GDP,log_population,0.004144619817203531
+A matched baseline,trade_GDP,trade_GDP,6.348957026206129e-05
+A matched baseline,trade_GDP,inflation,-2.6445485245804385e-07
+A matched baseline,inflation,FD,3.8402278766472317e-08
+A matched baseline,inflation,Governance,0.00023090743425936407
+A matched baseline,inflation,log_real_GDP_pc,0.0002827742646619255
+A matched baseline,inflation,log_population,-0.00012777706951963048
+A matched baseline,inflation,trade_GDP,-2.6445485245804385e-07
+A matched baseline,inflation,inflation,6.162368960529732e-06
+A primary,FD,FD,5.543972350035429e-05
+A primary,FD,Governance,0.00026859856610356094
+A primary,FD,log_real_GDP_pc,-0.0011636432232780165
+A primary,FD,log_population,-0.004289491154997892
+A primary,FD,trade_GDP,-1.0528412976475904e-05
+A primary,FD,inflation,1.1630253243987922e-07
+A primary,FD,RISE,2.4623819489969413e-06
+A primary,Governance,FD,0.00026859856610356094
+A primary,Governance,Governance,0.33901413490967813
+A primary,Governance,log_real_GDP_pc,-0.022397844688573983
+A primary,Governance,log_population,-0.03841650204078896
+A primary,Governance,trade_GDP,0.00020454895841794536
+A primary,Governance,inflation,0.00023114775046455534
+A primary,Governance,RISE,-0.000931227879576634
+A primary,log_real_GDP_pc,FD,-0.0011636432232780165
+A primary,log_real_GDP_pc,Governance,-0.022397844688573983
+A primary,log_real_GDP_pc,log_real_GDP_pc,1.3639554764854238
+A primary,log_real_GDP_pc,log_population,0.5588147834334914
+A primary,log_real_GDP_pc,trade_GDP,-0.003568672065092535
+A primary,log_real_GDP_pc,inflation,0.0002872538384551576
+A primary,log_real_GDP_pc,RISE,0.0007719524134006459
+A primary,log_population,FD,-0.004289491154997892
+A primary,log_population,Governance,-0.03841650204078896
+A primary,log_population,log_real_GDP_pc,0.5588147834334914
+A primary,log_population,log_population,3.5926824146610516
+A primary,log_population,trade_GDP,0.004112180279039848
+A primary,log_population,inflation,-0.00014220879593722783
+A primary,log_population,RISE,0.0013752731391827907
+A primary,trade_GDP,FD,-1.0528412976475904e-05
+A primary,trade_GDP,Governance,0.00020454895841794536
+A primary,trade_GDP,log_real_GDP_pc,-0.003568672065092535
+A primary,trade_GDP,log_population,0.004112180279039848
+A primary,trade_GDP,trade_GDP,6.328077275127416e-05
+A primary,trade_GDP,inflation,-3.149988593641506e-07
+A primary,trade_GDP,RISE,-1.5963666945321861e-06
+A primary,inflation,FD,1.1630253243987922e-07
+A primary,inflation,Governance,0.00023114775046455534
+A primary,inflation,log_real_GDP_pc,0.0002872538384551576
+A primary,inflation,log_population,-0.00014220879593722783
+A primary,inflation,trade_GDP,-3.149988593641506e-07
+A primary,inflation,inflation,6.16381882134925e-06
+A primary,inflation,RISE,-3.383108844527733e-07
+A primary,RISE,FD,2.4623819489969413e-06
+A primary,RISE,Governance,-0.000931227879576634
+A primary,RISE,log_real_GDP_pc,0.0007719524134006459
+A primary,RISE,log_population,0.0013752731391827907
+A primary,RISE,trade_GDP,-1.5963666945321861e-06
+A primary,RISE,inflation,-3.383108844527733e-07
+A primary,RISE,RISE,7.660089189499023e-05
+B matched baseline,FD,FD,4.921386553856673e-05
+B matched baseline,FD,Governance,5.5338152343276724e-05
+B matched baseline,FD,log_real_GDP_pc,-0.00043860657663747754
+B matched baseline,FD,log_population,-0.002479503869791196
+B matched baseline,FD,trade_GDP,4.297026815793758e-06
+B matched baseline,FD,inflation,4.7610096089161306e-07
+B matched baseline,Governance,FD,5.5338152343276724e-05
+B matched baseline,Governance,Governance,0.33480342061706064
+B matched baseline,Governance,log_real_GDP_pc,0.04172741564555563
+B matched baseline,Governance,log_population,0.09274437795413276
+B matched baseline,Governance,trade_GDP,0.0003538230300381493
+B matched baseline,Governance,inflation,0.00018290842025454375
+B matched baseline,log_real_GDP_pc,FD,-0.00043860657663747754
+B matched baseline,log_real_GDP_pc,Governance,0.04172741564555563
+B matched baseline,log_real_GDP_pc,log_real_GDP_pc,0.9477401662169299
+B matched baseline,log_real_GDP_pc,log_population,0.38379718872637403
+B matched baseline,log_real_GDP_pc,trade_GDP,-0.0029618668248387104
+B matched baseline,log_real_GDP_pc,inflation,0.0002105948033896678
+B matched baseline,log_population,FD,-0.002479503869791196
+B matched baseline,log_population,Governance,0.09274437795413276
+B matched baseline,log_population,log_real_GDP_pc,0.38379718872637403
+B matched baseline,log_population,log_population,3.009311729909512
+B matched baseline,log_population,trade_GDP,0.002085192535852612
+B matched baseline,log_population,inflation,-0.00014056218764174508
+B matched baseline,trade_GDP,FD,4.297026815793758e-06
+B matched baseline,trade_GDP,Governance,0.0003538230300381493
+B matched baseline,trade_GDP,log_real_GDP_pc,-0.0029618668248387104
+B matched baseline,trade_GDP,log_population,0.002085192535852612
+B matched baseline,trade_GDP,trade_GDP,5.816408426235057e-05
+B matched baseline,trade_GDP,inflation,2.8787809069438026e-07
+B matched baseline,inflation,FD,4.7610096089161306e-07
+B matched baseline,inflation,Governance,0.00018290842025454375
+B matched baseline,inflation,log_real_GDP_pc,0.0002105948033896678
+B matched baseline,inflation,log_population,-0.00014056218764174508
+B matched baseline,inflation,trade_GDP,2.8787809069438026e-07
+B matched baseline,inflation,inflation,5.160249901785167e-06
+B primary,FD,FD,5.218819138691831e-05
+B primary,FD,Governance,-9.649066999118732e-05
+B primary,FD,log_real_GDP_pc,-0.0006881539590552497
+B primary,FD,log_population,-0.0023572093246444163
+B primary,FD,trade_GDP,1.9911305616906373e-06
+B primary,FD,inflation,7.079035926629359e-07
+B primary,FD,FDI,5.29384399869306e-06
+B primary,FD,growth,1.6844183622942613e-05
+B primary,Governance,FD,-9.649066999118732e-05
+B primary,Governance,Governance,0.3345953240889661
+B primary,Governance,log_real_GDP_pc,0.06340000586738785
+B primary,Governance,log_population,0.08769812962079107
+B primary,Governance,trade_GDP,0.0004698426192216811
+B primary,Governance,inflation,0.00014883687191470538
+B primary,Governance,FDI,-0.0015978409929010295
+B primary,Governance,growth,-0.0011320782652627039
+B primary,log_real_GDP_pc,FD,-0.0006881539590552497
+B primary,log_real_GDP_pc,Governance,0.06340000586738785
+B primary,log_real_GDP_pc,log_real_GDP_pc,0.9512423732945909
+B primary,log_real_GDP_pc,log_population,0.3915711029000771
+B primary,log_real_GDP_pc,trade_GDP,-0.00278148051936266
+B primary,log_real_GDP_pc,inflation,0.0001593319889276747
+B primary,log_real_GDP_pc,FDI,0.0028302868076289776
+B primary,log_real_GDP_pc,growth,-0.002608538972093633
+B primary,log_population,FD,-0.0023572093246444163
+B primary,log_population,Governance,0.08769812962079107
+B primary,log_population,log_real_GDP_pc,0.3915711029000771
+B primary,log_population,log_population,2.8987236643557006
+B primary,log_population,trade_GDP,0.0021876687416403275
+B primary,log_population,inflation,-0.0001078349941418045
+B primary,log_population,FDI,-8.762595573153116e-05
+B primary,log_population,growth,-0.0029281087289141365
+B primary,trade_GDP,FD,1.9911305616906373e-06
+B primary,trade_GDP,Governance,0.0004698426192216811
+B primary,trade_GDP,log_real_GDP_pc,-0.00278148051936266
+B primary,trade_GDP,log_population,0.0021876687416403275
+B primary,trade_GDP,trade_GDP,6.138178566519791e-05
+B primary,trade_GDP,inflation,3.021989814789045e-07
+B primary,trade_GDP,FDI,-3.01212344523258e-05
+B primary,trade_GDP,growth,-2.3516083755509774e-05
+B primary,inflation,FD,7.079035926629359e-07
+B primary,inflation,Governance,0.00014883687191470538
+B primary,inflation,log_real_GDP_pc,0.0001593319889276747
+B primary,inflation,log_population,-0.0001078349941418045
+B primary,inflation,trade_GDP,3.021989814789045e-07
+B primary,inflation,inflation,4.9817679315813875e-06
+B primary,inflation,FDI,1.7251347787295547e-06
+B primary,inflation,growth,8.588199262553693e-07
+B primary,FDI,FD,5.29384399869306e-06
+B primary,FDI,Governance,-0.0015978409929010295
+B primary,FDI,log_real_GDP_pc,0.0028302868076289776
+B primary,FDI,log_population,-8.762595573153116e-05
+B primary,FDI,trade_GDP,-3.01212344523258e-05
+B primary,FDI,inflation,1.7251347787295547e-06
+B primary,FDI,FDI,0.0002434863000393803
+B primary,FDI,growth,9.496582573097524e-06
+B primary,growth,FD,1.6844183622942613e-05
+B primary,growth,Governance,-0.0011320782652627039
+B primary,growth,log_real_GDP_pc,-0.002608538972093633
+B primary,growth,log_population,-0.0029281087289141365
+B primary,growth,trade_GDP,-2.3516083755509774e-05
+B primary,growth,inflation,8.588199262553693e-07
+B primary,growth,FDI,9.496582573097524e-06
+B primary,growth,growth,0.00018881487815407378
+C matched baseline,FD,FD,5.005161468827588e-05
+C matched baseline,FD,Governance,4.2734284374917285e-05
+C matched baseline,FD,log_real_GDP_pc,-0.0003814117133692897
+C matched baseline,FD,log_population,-0.0026669707893818466
+C matched baseline,FD,trade_GDP,5.523858172064649e-06
+C matched baseline,FD,inflation,5.40172359536545e-07
+C matched baseline,Governance,FD,4.2734284374917285e-05
+C matched baseline,Governance,Governance,0.33766347604994884
+C matched baseline,Governance,log_real_GDP_pc,0.039377062105040724
+C matched baseline,Governance,log_population,0.09706192042046745
+C matched baseline,Governance,trade_GDP,0.0002925545567237182
+C matched baseline,Governance,inflation,0.0001767432329399456
+C matched baseline,log_real_GDP_pc,FD,-0.0003814117133692897
+C matched baseline,log_real_GDP_pc,Governance,0.039377062105040724
+C matched baseline,log_real_GDP_pc,log_real_GDP_pc,0.9537170771540617
+C matched baseline,log_real_GDP_pc,log_population,0.36143595911155224
+C matched baseline,log_real_GDP_pc,trade_GDP,-0.0028733863570756923
+C matched baseline,log_real_GDP_pc,inflation,0.00022086042953919075
+C matched baseline,log_population,FD,-0.0026669707893818466
+C matched baseline,log_population,Governance,0.09706192042046745
+C matched baseline,log_population,log_real_GDP_pc,0.36143595911155224
+C matched baseline,log_population,log_population,3.069550133034019
+C matched baseline,log_population,trade_GDP,0.0014763258923639888
+C matched baseline,log_population,inflation,-0.00016960237583710336
+C matched baseline,trade_GDP,FD,5.523858172064649e-06
+C matched baseline,trade_GDP,Governance,0.0002925545567237182
+C matched baseline,trade_GDP,log_real_GDP_pc,-0.0028733863570756923
+C matched baseline,trade_GDP,log_population,0.0014763258923639888
+C matched baseline,trade_GDP,trade_GDP,5.097335761119263e-05
+C matched baseline,trade_GDP,inflation,1.8137043631591627e-07
+C matched baseline,inflation,FD,5.40172359536545e-07
+C matched baseline,inflation,Governance,0.0001767432329399456
+C matched baseline,inflation,log_real_GDP_pc,0.00022086042953919075
+C matched baseline,inflation,log_population,-0.00016960237583710336
+C matched baseline,inflation,trade_GDP,1.8137043631591627e-07
+C matched baseline,inflation,inflation,5.022990709668819e-06
+C primary,FD,FD,5.1186712674924135e-05
+C primary,FD,Governance,5.613727640259527e-05
+C primary,FD,log_real_GDP_pc,-0.00015758766908130695
+C primary,FD,log_population,-0.0019128211425110204
+C primary,FD,trade_GDP,4.950710971718978e-06
+C primary,FD,inflation,7.163088995627129e-07
+C primary,FD,Deficit,1.4270176289155702e-05
+C primary,Governance,FD,5.613727640259527e-05
+C primary,Governance,Governance,0.3344561298311496
+C primary,Governance,log_real_GDP_pc,0.056338158285617
+C primary,Governance,log_population,0.1861540044876715
+C primary,Governance,trade_GDP,0.00020955375652947236
+C primary,Governance,inflation,0.00018886394867990476
+C primary,Governance,Deficit,0.001698502979665339
+C primary,log_real_GDP_pc,FD,-0.00015758766908130695
+C primary,log_real_GDP_pc,Governance,0.056338158285617
+C primary,log_real_GDP_pc,log_real_GDP_pc,1.0413640953147443
+C primary,log_real_GDP_pc,log_population,0.6258158405242452
+C primary,log_real_GDP_pc,trade_GDP,-0.0031368072054549375
+C primary,log_real_GDP_pc,inflation,0.0002775353208854272
+C primary,log_real_GDP_pc,Deficit,0.004823127022869576
+C primary,log_population,FD,-0.0019128211425110204
+C primary,log_population,Governance,0.1861540044876715
+C primary,log_population,log_real_GDP_pc,0.6258158405242452
+C primary,log_population,log_population,3.778816406107377
+C primary,log_population,trade_GDP,0.0008418961334895575
+C primary,log_population,inflation,9.998081325533754e-06
+C primary,log_population,Deficit,0.012781811861720775
+C primary,trade_GDP,FD,4.950710971718978e-06
+C primary,trade_GDP,Governance,0.00020955375652947236
+C primary,trade_GDP,log_real_GDP_pc,-0.0031368072054549375
+C primary,trade_GDP,log_population,0.0008418961334895575
+C primary,trade_GDP,trade_GDP,5.176098900267433e-05
+C primary,trade_GDP,inflation,3.6117574413764454e-08
+C primary,trade_GDP,Deficit,-1.1557492463705982e-05
+C primary,inflation,FD,7.163088995627129e-07
+C primary,inflation,Governance,0.00018886394867990476
+C primary,inflation,log_real_GDP_pc,0.0002775353208854272
+C primary,inflation,log_population,9.998081325533754e-06
+C primary,inflation,trade_GDP,3.6117574413764454e-08
+C primary,inflation,inflation,5.0996868717561395e-06
+C primary,inflation,Deficit,3.296221471607149e-06
+C primary,Deficit,FD,1.4270176289155702e-05
+C primary,Deficit,Governance,0.001698502979665339
+C primary,Deficit,log_real_GDP_pc,0.004823127022869576
+C primary,Deficit,log_population,0.012781811861720775
+C primary,Deficit,trade_GDP,-1.1557492463705982e-05
+C primary,Deficit,inflation,3.296221471607149e-06
+C primary,Deficit,Deficit,0.00023637566838790176
+A readiness interaction,FD,FD,5.6672350663305476e-05
+A readiness interaction,FD,Governance,0.0003711681883313662
+A readiness interaction,FD,log_real_GDP_pc,-0.0013328844902132
+A readiness interaction,FD,log_population,-0.004338881682883828
+A readiness interaction,FD,trade_GDP,-1.2545911266376095e-05
+A readiness interaction,FD,inflation,4.8174107123257345e-08
+A readiness interaction,FD,RISE,3.2739785551984032e-06
+A readiness interaction,FD,RQ_x_RISE,5.292379138503064e-06
+A readiness interaction,Governance,FD,0.0003711681883313662
+A readiness interaction,Governance,Governance,0.3444406140431371
+A readiness interaction,Governance,log_real_GDP_pc,-0.027866123430499653
+A readiness interaction,Governance,log_population,-0.038613563886380715
+A readiness interaction,Governance,trade_GDP,1.9836610794971754e-05
+A readiness interaction,Governance,inflation,0.00021446569708010268
+A readiness interaction,Governance,RISE,-0.00114010758186382
+A readiness interaction,Governance,RQ_x_RISE,0.00041509608152356085
+A readiness interaction,log_real_GDP_pc,FD,-0.0013328844902132
+A readiness interaction,log_real_GDP_pc,Governance,-0.027866123430499653
+A readiness interaction,log_real_GDP_pc,log_real_GDP_pc,1.403884968098933
+A readiness interaction,log_real_GDP_pc,log_population,0.5695563606979379
+A readiness interaction,log_real_GDP_pc,trade_GDP,-0.003718880949593626
+A readiness interaction,log_real_GDP_pc,inflation,0.0003199598843906894
+A readiness interaction,log_real_GDP_pc,RISE,0.00035450171035432935
+A readiness interaction,log_real_GDP_pc,RQ_x_RISE,0.0002887199097879852
+A readiness interaction,log_population,FD,-0.004338881682883828
+A readiness interaction,log_population,Governance,-0.038613563886380715
+A readiness interaction,log_population,log_real_GDP_pc,0.5695563606979379
+A readiness interaction,log_population,log_population,3.3046976246797284
+A readiness interaction,log_population,trade_GDP,0.003675178791755648
+A readiness interaction,log_population,inflation,-0.00010279914084614772
+A readiness interaction,log_population,RISE,0.000490906365813243
+A readiness interaction,log_population,RQ_x_RISE,0.0008157934943801294
+A readiness interaction,trade_GDP,FD,-1.2545911266376095e-05
+A readiness interaction,trade_GDP,Governance,1.9836610794971754e-05
+A readiness interaction,trade_GDP,log_real_GDP_pc,-0.003718880949593626
+A readiness interaction,trade_GDP,log_population,0.003675178791755648
+A readiness interaction,trade_GDP,trade_GDP,6.394083077754531e-05
+A readiness interaction,trade_GDP,inflation,-4.601377227069021e-07
+A readiness interaction,trade_GDP,RISE,2.5704328240715307e-06
+A readiness interaction,trade_GDP,RQ_x_RISE,-7.90145341553514e-06
+A readiness interaction,inflation,FD,4.8174107123257345e-08
+A readiness interaction,inflation,Governance,0.00021446569708010268
+A readiness interaction,inflation,log_real_GDP_pc,0.0003199598843906894
+A readiness interaction,inflation,log_population,-0.00010279914084614772
+A readiness interaction,inflation,trade_GDP,-4.601377227069021e-07
+A readiness interaction,inflation,inflation,5.465663012870871e-06
+A readiness interaction,inflation,RISE,-4.196731489023263e-07
+A readiness interaction,inflation,RQ_x_RISE,7.067647339693404e-07
+A readiness interaction,RISE,FD,3.2739785551984032e-06
+A readiness interaction,RISE,Governance,-0.00114010758186382
+A readiness interaction,RISE,log_real_GDP_pc,0.00035450171035432935
+A readiness interaction,RISE,log_population,0.000490906365813243
+A readiness interaction,RISE,trade_GDP,2.5704328240715307e-06
+A readiness interaction,RISE,inflation,-4.196731489023263e-07
+A readiness interaction,RISE,RISE,9.197609670194283e-05
+A readiness interaction,RISE,RQ_x_RISE,-2.4894914001362567e-05
+A readiness interaction,RQ_x_RISE,FD,5.292379138503064e-06
+A readiness interaction,RQ_x_RISE,Governance,0.00041509608152356085
+A readiness interaction,RQ_x_RISE,log_real_GDP_pc,0.0002887199097879852
+A readiness interaction,RQ_x_RISE,log_population,0.0008157934943801294
+A readiness interaction,RQ_x_RISE,trade_GDP,-7.90145341553514e-06
+A readiness interaction,RQ_x_RISE,inflation,7.067647339693404e-07
+A readiness interaction,RQ_x_RISE,RISE,-2.4894914001362567e-05
+A readiness interaction,RQ_x_RISE,RQ_x_RISE,5.31615406620794e-05
+A asinh inflation baseline,FD,FD,5.804069930305061e-05
+A asinh inflation baseline,FD,Governance,0.00022566685848527258
+A asinh inflation baseline,FD,log_real_GDP_pc,-0.001093640182503324
+A asinh inflation baseline,FD,log_population,-0.00440640779874191
+A asinh inflation baseline,FD,trade_GDP,-1.273462042594507e-05
+A asinh inflation baseline,FD,inflation,0.00012101961596777734
+A asinh inflation baseline,Governance,FD,0.00022566685848527258
+A asinh inflation baseline,Governance,Governance,0.33439046528624783
+A asinh inflation baseline,Governance,log_real_GDP_pc,-0.02620317642864233
+A asinh inflation baseline,Governance,log_population,-0.025100957796079234
+A asinh inflation baseline,Governance,trade_GDP,0.00017798687188883726
+A asinh inflation baseline,Governance,inflation,-0.0008282631998927893
+A asinh inflation baseline,log_real_GDP_pc,FD,-0.001093640182503324
+A asinh inflation baseline,log_real_GDP_pc,Governance,-0.02620317642864233
+A asinh inflation baseline,log_real_GDP_pc,log_real_GDP_pc,1.3496457846168817
+A asinh inflation baseline,log_real_GDP_pc,log_population,0.5687597213722925
+A asinh inflation baseline,log_real_GDP_pc,trade_GDP,-0.0036152331668278114
+A asinh inflation baseline,log_real_GDP_pc,inflation,0.004424301347334097
+A asinh inflation baseline,log_population,FD,-0.00440640779874191
+A asinh inflation baseline,log_population,Governance,-0.025100957796079234
+A asinh inflation baseline,log_population,log_real_GDP_pc,0.5687597213722925
+A asinh inflation baseline,log_population,log_population,3.5305921946553065
+A asinh inflation baseline,log_population,trade_GDP,0.004164903158904446
+A asinh inflation baseline,log_population,inflation,-0.0019878786236562354
+A asinh inflation baseline,trade_GDP,FD,-1.273462042594507e-05
+A asinh inflation baseline,trade_GDP,Governance,0.00017798687188883726
+A asinh inflation baseline,trade_GDP,log_real_GDP_pc,-0.0036152331668278114
+A asinh inflation baseline,trade_GDP,log_population,0.004164903158904446
+A asinh inflation baseline,trade_GDP,trade_GDP,6.653386445440545e-05
+A asinh inflation baseline,trade_GDP,inflation,-0.00014821864337409855
+A asinh inflation baseline,inflation,FD,0.00012101961596777734
+A asinh inflation baseline,inflation,Governance,-0.0008282631998927893
+A asinh inflation baseline,inflation,log_real_GDP_pc,0.004424301347334097
+A asinh inflation baseline,inflation,log_population,-0.0019878786236562354
+A asinh inflation baseline,inflation,trade_GDP,-0.00014821864337409855
+A asinh inflation baseline,inflation,inflation,0.007417903756216345
+A asinh inflation,FD,FD,5.757893452909824e-05
+A asinh inflation,FD,Governance,0.00021212411737427429
+A asinh inflation,FD,log_real_GDP_pc,-0.0011087690323798509
+A asinh inflation,FD,log_population,-0.004346897114640676
+A asinh inflation,FD,trade_GDP,-1.3159242500282913e-05
+A asinh inflation,FD,inflation,0.0001253882726080696
+A asinh inflation,FD,RISE,3.359003140343383e-06
+A asinh inflation,Governance,FD,0.00021212411737427429
+A asinh inflation,Governance,Governance,0.338915206863884
+A asinh inflation,Governance,log_real_GDP_pc,-0.02771602342496051
+A asinh inflation,Governance,log_population,-0.04152087220284366
+A asinh inflation,Governance,trade_GDP,0.00021111445972767424
+A asinh inflation,Governance,inflation,-0.0011478817208475497
+A asinh inflation,Governance,RISE,-0.0009614991898012694
+A asinh inflation,log_real_GDP_pc,FD,-0.0011087690323798509
+A asinh inflation,log_real_GDP_pc,Governance,-0.02771602342496051
+A asinh inflation,log_real_GDP_pc,log_real_GDP_pc,1.3410291624770652
+A asinh inflation,log_real_GDP_pc,log_population,0.573877374767911
+A asinh inflation,log_real_GDP_pc,trade_GDP,-0.003659545275654227
+A asinh inflation,log_real_GDP_pc,inflation,0.004957121205732289
+A asinh inflation,log_real_GDP_pc,RISE,0.0007913518910763013
+A asinh inflation,log_population,FD,-0.004346897114640676
+A asinh inflation,log_population,Governance,-0.04152087220284366
+A asinh inflation,log_population,log_real_GDP_pc,0.573877374767911
+A asinh inflation,log_population,log_population,3.58369260527866
+A asinh inflation,log_population,trade_GDP,0.004117155500981163
+A asinh inflation,log_population,inflation,-0.00145182540255296
+A asinh inflation,log_population,RISE,0.001322354029062455
+A asinh inflation,trade_GDP,FD,-1.3159242500282913e-05
+A asinh inflation,trade_GDP,Governance,0.00021111445972767424
+A asinh inflation,trade_GDP,log_real_GDP_pc,-0.003659545275654227
+A asinh inflation,trade_GDP,log_population,0.004117155500981163
+A asinh inflation,trade_GDP,trade_GDP,6.6498355883004e-05
+A asinh inflation,trade_GDP,inflation,-0.0001532091983150567
+A asinh inflation,trade_GDP,RISE,-2.720246394343227e-06
+A asinh inflation,inflation,FD,0.0001253882726080696
+A asinh inflation,inflation,Governance,-0.0011478817208475497
+A asinh inflation,inflation,log_real_GDP_pc,0.004957121205732289
+A asinh inflation,inflation,log_population,-0.00145182540255296
+A asinh inflation,inflation,trade_GDP,-0.0001532091983150567
+A asinh inflation,inflation,inflation,0.007489412438505617
+A asinh inflation,inflation,RISE,5.093558716711836e-05
+A asinh inflation,RISE,FD,3.359003140343383e-06
+A asinh inflation,RISE,Governance,-0.0009614991898012694
+A asinh inflation,RISE,log_real_GDP_pc,0.0007913518910763013
+A asinh inflation,RISE,log_population,0.001322354029062455
+A asinh inflation,RISE,trade_GDP,-2.720246394343227e-06
+A asinh inflation,RISE,inflation,5.093558716711836e-05
+A asinh inflation,RISE,RISE,7.691447269838804e-05
+A all-X lag baseline,FD,FD,5.8132604017761424e-05
+A all-X lag baseline,FD,Governance,0.0007824642031965969
+A all-X lag baseline,FD,log_real_GDP_pc,-0.0017538466105677557
+A all-X lag baseline,FD,log_population,-0.0029655709521710927
+A all-X lag baseline,FD,trade_GDP,-6.013253512292797e-06
+A all-X lag baseline,FD,inflation,7.0474978354637e-08
+A all-X lag baseline,Governance,FD,0.0007824642031965969
+A all-X lag baseline,Governance,Governance,0.3003969591641093
+A all-X lag baseline,Governance,log_real_GDP_pc,0.05878817454709694
+A all-X lag baseline,Governance,log_population,-0.07254950256236005
+A all-X lag baseline,Governance,trade_GDP,-0.00014493187879701568
+A all-X lag baseline,Governance,inflation,8.389921187243979e-05
+A all-X lag baseline,log_real_GDP_pc,FD,-0.0017538466105677557
+A all-X lag baseline,log_real_GDP_pc,Governance,0.05878817454709694
+A all-X lag baseline,log_real_GDP_pc,log_real_GDP_pc,1.2383537611194926
+A all-X lag baseline,log_real_GDP_pc,log_population,0.5455685747671817
+A all-X lag baseline,log_real_GDP_pc,trade_GDP,-0.0012369316088551609
+A all-X lag baseline,log_real_GDP_pc,inflation,0.0004095675590135114
+A all-X lag baseline,log_population,FD,-0.0029655709521710927
+A all-X lag baseline,log_population,Governance,-0.07254950256236005
+A all-X lag baseline,log_population,log_real_GDP_pc,0.5455685747671817
+A all-X lag baseline,log_population,log_population,3.817572526324168
+A all-X lag baseline,log_population,trade_GDP,0.00514028023482445
+A all-X lag baseline,log_population,inflation,1.7121425055619314e-05
+A all-X lag baseline,trade_GDP,FD,-6.013253512292797e-06
+A all-X lag baseline,trade_GDP,Governance,-0.00014493187879701568
+A all-X lag baseline,trade_GDP,log_real_GDP_pc,-0.0012369316088551609
+A all-X lag baseline,trade_GDP,log_population,0.00514028023482445
+A all-X lag baseline,trade_GDP,trade_GDP,6.454996578771911e-05
+A all-X lag baseline,trade_GDP,inflation,1.8094590794849275e-06
+A all-X lag baseline,inflation,FD,7.0474978354637e-08
+A all-X lag baseline,inflation,Governance,8.389921187243979e-05
+A all-X lag baseline,inflation,log_real_GDP_pc,0.0004095675590135114
+A all-X lag baseline,inflation,log_population,1.7121425055619314e-05
+A all-X lag baseline,inflation,trade_GDP,1.8094590794849275e-06
+A all-X lag baseline,inflation,inflation,9.498277860571254e-07
+A all-X lag,FD,FD,5.812863905296672e-05
+A all-X lag,FD,Governance,0.0008031556662770209
+A all-X lag,FD,log_real_GDP_pc,-0.0017925342720629112
+A all-X lag,FD,log_population,-0.0029964916822379875
+A all-X lag,FD,trade_GDP,-6.286744239703308e-06
+A all-X lag,FD,inflation,8.368153758996228e-08
+A all-X lag,FD,RISE,2.299384207526727e-06
+A all-X lag,Governance,FD,0.0008031556662770209
+A all-X lag,Governance,Governance,0.301627775673091
+A all-X lag,Governance,log_real_GDP_pc,0.059104153659195455
+A all-X lag,Governance,log_population,-0.08571046964010916
+A all-X lag,Governance,trade_GDP,-0.00014755467537760098
+A all-X lag,Governance,inflation,7.309798349356405e-05
+A all-X lag,Governance,RISE,-0.0007016636349067679
+A all-X lag,log_real_GDP_pc,FD,-0.0017925342720629112
+A all-X lag,log_real_GDP_pc,Governance,0.059104153659195455
+A all-X lag,log_real_GDP_pc,log_real_GDP_pc,1.250052393280054
+A all-X lag,log_real_GDP_pc,log_population,0.5720505181085882
+A all-X lag,log_real_GDP_pc,trade_GDP,-0.0012249353086440245
+A all-X lag,log_real_GDP_pc,inflation,0.0004372583329329295
+A all-X lag,log_real_GDP_pc,RISE,0.0012987935304259912
+A all-X lag,log_population,FD,-0.0029964916822379875
+A all-X lag,log_population,Governance,-0.08571046964010916
+A all-X lag,log_population,log_real_GDP_pc,0.5720505181085882
+A all-X lag,log_population,log_population,3.8822848032186976
+A all-X lag,log_population,trade_GDP,0.005244418719809665
+A all-X lag,log_population,inflation,6.315920056416111e-05
+A all-X lag,log_population,RISE,0.002369379544802463
+A all-X lag,trade_GDP,FD,-6.286744239703308e-06
+A all-X lag,trade_GDP,Governance,-0.00014755467537760098
+A all-X lag,trade_GDP,log_real_GDP_pc,-0.0012249353086440245
+A all-X lag,trade_GDP,log_population,0.005244418719809665
+A all-X lag,trade_GDP,trade_GDP,6.495566265931908e-05
+A all-X lag,trade_GDP,inflation,1.8633136124623053e-06
+A all-X lag,trade_GDP,RISE,3.6502183348630233e-06
+A all-X lag,inflation,FD,8.368153758996228e-08
+A all-X lag,inflation,Governance,7.309798349356405e-05
+A all-X lag,inflation,log_real_GDP_pc,0.0004372583329329295
+A all-X lag,inflation,log_population,6.315920056416111e-05
+A all-X lag,inflation,trade_GDP,1.8633136124623053e-06
+A all-X lag,inflation,inflation,9.809078286170879e-07
+A all-X lag,inflation,RISE,1.9265930432095582e-06
+A all-X lag,RISE,FD,2.299384207526727e-06
+A all-X lag,RISE,Governance,-0.0007016636349067679
+A all-X lag,RISE,log_real_GDP_pc,0.0012987935304259912
+A all-X lag,RISE,log_population,0.002369379544802463
+A all-X lag,RISE,trade_GDP,3.6502183348630233e-06
+A all-X lag,RISE,inflation,1.9265930432095582e-06
+A all-X lag,RISE,RISE,8.411563020394413e-05
+B asinh inflation baseline,FD,FD,5.010004334617895e-05
+B asinh inflation baseline,FD,Governance,5.603812282190271e-06
+B asinh inflation baseline,FD,log_real_GDP_pc,-0.0004508119792210472
+B asinh inflation baseline,FD,log_population,-0.002556029427642227
+B asinh inflation baseline,FD,trade_GDP,3.2416203777932334e-06
+B asinh inflation baseline,FD,inflation,6.966751965021868e-05
+B asinh inflation baseline,Governance,FD,5.603812282190271e-06
+B asinh inflation baseline,Governance,Governance,0.3308811937657692
+B asinh inflation baseline,Governance,log_real_GDP_pc,0.038900651340666746
+B asinh inflation baseline,Governance,log_population,0.09228690211027882
+B asinh inflation baseline,Governance,trade_GDP,0.00039856612346097364
+B asinh inflation baseline,Governance,inflation,-0.002386303221659329
+B asinh inflation baseline,log_real_GDP_pc,FD,-0.0004508119792210472
+B asinh inflation baseline,log_real_GDP_pc,Governance,0.038900651340666746
+B asinh inflation baseline,log_real_GDP_pc,log_real_GDP_pc,0.9310440195150206
+B asinh inflation baseline,log_real_GDP_pc,log_population,0.3910877893858505
+B asinh inflation baseline,log_real_GDP_pc,trade_GDP,-0.0030166934149762404
+B asinh inflation baseline,log_real_GDP_pc,inflation,0.0026753809885471953
+B asinh inflation baseline,log_population,FD,-0.002556029427642227
+B asinh inflation baseline,log_population,Governance,0.09228690211027882
+B asinh inflation baseline,log_population,log_real_GDP_pc,0.3910877893858505
+B asinh inflation baseline,log_population,log_population,2.997107137268446
+B asinh inflation baseline,log_population,trade_GDP,0.0019769072855420804
+B asinh inflation baseline,log_population,inflation,0.0007245077578925454
+B asinh inflation baseline,trade_GDP,FD,3.2416203777932334e-06
+B asinh inflation baseline,trade_GDP,Governance,0.00039856612346097364
+B asinh inflation baseline,trade_GDP,log_real_GDP_pc,-0.0030166934149762404
+B asinh inflation baseline,trade_GDP,log_population,0.0019769072855420804
+B asinh inflation baseline,trade_GDP,trade_GDP,5.818653674001581e-05
+B asinh inflation baseline,trade_GDP,inflation,-5.754529440679817e-05
+B asinh inflation baseline,inflation,FD,6.966751965021868e-05
+B asinh inflation baseline,inflation,Governance,-0.002386303221659329
+B asinh inflation baseline,inflation,log_real_GDP_pc,0.0026753809885471953
+B asinh inflation baseline,inflation,log_population,0.0007245077578925454
+B asinh inflation baseline,inflation,trade_GDP,-5.754529440679817e-05
+B asinh inflation baseline,inflation,inflation,0.004982360745812102
+B asinh inflation,FD,FD,5.326731415307748e-05
+B asinh inflation,FD,Governance,-0.00014842365941525684
+B asinh inflation,FD,log_real_GDP_pc,-0.0007428187678738289
+B asinh inflation,FD,log_population,-0.0024167117590328797
+B asinh inflation,FD,trade_GDP,1.0767263444846397e-06
+B asinh inflation,FD,inflation,7.232476837814478e-05
+B asinh inflation,FD,FDI,5.502679089161496e-06
+B asinh inflation,FD,growth,1.5610262141149944e-05
+B asinh inflation,Governance,FD,-0.00014842365941525684
+B asinh inflation,Governance,Governance,0.33027894071471087
+B asinh inflation,Governance,log_real_GDP_pc,0.061548126315564035
+B asinh inflation,Governance,log_population,0.0875610162097063
+B asinh inflation,Governance,trade_GDP,0.0005149194133028435
+B asinh inflation,Governance,inflation,-0.002479354955065337
+B asinh inflation,Governance,FDI,-0.0015469998535664745
+B asinh inflation,Governance,growth,-0.0011733778046058203
+B asinh inflation,log_real_GDP_pc,FD,-0.0007428187678738289
+B asinh inflation,log_real_GDP_pc,Governance,0.061548126315564035
+B asinh inflation,log_real_GDP_pc,log_real_GDP_pc,0.9412420105487667
+B asinh inflation,log_real_GDP_pc,log_population,0.3971426179310279
+B asinh inflation,log_real_GDP_pc,trade_GDP,-0.002825265704715377
+B asinh inflation,log_real_GDP_pc,inflation,0.0013222359911752586
+B asinh inflation,log_real_GDP_pc,FDI,0.002856029019016325
+B asinh inflation,log_real_GDP_pc,growth,-0.0027032949131137415
+B asinh inflation,log_population,FD,-0.0024167117590328797
+B asinh inflation,log_population,Governance,0.0875610162097063
+B asinh inflation,log_population,log_real_GDP_pc,0.3971426179310279
+B asinh inflation,log_population,log_population,2.8832994578393536
+B asinh inflation,log_population,trade_GDP,0.0020488181822845303
+B asinh inflation,log_population,inflation,0.0014562112368840707
+B asinh inflation,log_population,FDI,-2.8358724545561825e-05
+B asinh inflation,log_population,growth,-0.0027736887376915553
+B asinh inflation,trade_GDP,FD,1.0767263444846397e-06
+B asinh inflation,trade_GDP,Governance,0.0005149194133028435
+B asinh inflation,trade_GDP,log_real_GDP_pc,-0.002825265704715377
+B asinh inflation,trade_GDP,log_population,0.0020488181822845303
+B asinh inflation,trade_GDP,trade_GDP,6.1181181681403e-05
+B asinh inflation,trade_GDP,inflation,-5.2464963125456596e-05
+B asinh inflation,trade_GDP,FDI,-3.0421978445036946e-05
+B asinh inflation,trade_GDP,growth,-2.1378767126768878e-05
+B asinh inflation,inflation,FD,7.232476837814478e-05
+B asinh inflation,inflation,Governance,-0.002479354955065337
+B asinh inflation,inflation,log_real_GDP_pc,0.0013222359911752586
+B asinh inflation,inflation,log_population,0.0014562112368840707
+B asinh inflation,inflation,trade_GDP,-5.2464963125456596e-05
+B asinh inflation,inflation,inflation,0.0048749450257831424
+B asinh inflation,inflation,FDI,4.333592791066792e-05
+B asinh inflation,inflation,growth,-5.553142685336521e-05
+B asinh inflation,FDI,FD,5.502679089161496e-06
+B asinh inflation,FDI,Governance,-0.0015469998535664745
+B asinh inflation,FDI,log_real_GDP_pc,0.002856029019016325
+B asinh inflation,FDI,log_population,-2.8358724545561825e-05
+B asinh inflation,FDI,trade_GDP,-3.0421978445036946e-05
+B asinh inflation,FDI,inflation,4.333592791066792e-05
+B asinh inflation,FDI,FDI,0.00024220099214533825
+B asinh inflation,FDI,growth,8.14626909487692e-06
+B asinh inflation,growth,FD,1.5610262141149944e-05
+B asinh inflation,growth,Governance,-0.0011733778046058203
+B asinh inflation,growth,log_real_GDP_pc,-0.0027032949131137415
+B asinh inflation,growth,log_population,-0.0027736887376915553
+B asinh inflation,growth,trade_GDP,-2.1378767126768878e-05
+B asinh inflation,growth,inflation,-5.553142685336521e-05
+B asinh inflation,growth,FDI,8.14626909487692e-06
+B asinh inflation,growth,growth,0.00018249727291285732
+B all-X lag baseline,FD,FD,4.649692618131161e-05
+B all-X lag baseline,FD,Governance,0.0005113431927761997
+B all-X lag baseline,FD,log_real_GDP_pc,-0.0006748470892741893
+B all-X lag baseline,FD,log_population,-0.0009146860179922364
+B all-X lag baseline,FD,trade_GDP,5.642393047355183e-06
+B all-X lag baseline,FD,inflation,5.093280803234234e-07
+B all-X lag baseline,Governance,FD,0.0005113431927761997
+B all-X lag baseline,Governance,Governance,0.3195478495269069
+B all-X lag baseline,Governance,log_real_GDP_pc,0.07333749796855232
+B all-X lag baseline,Governance,log_population,0.08279198559901263
+B all-X lag baseline,Governance,trade_GDP,0.00035670463921553543
+B all-X lag baseline,Governance,inflation,7.793745722683236e-05
+B all-X lag baseline,log_real_GDP_pc,FD,-0.0006748470892741893
+B all-X lag baseline,log_real_GDP_pc,Governance,0.07333749796855232
+B all-X lag baseline,log_real_GDP_pc,log_real_GDP_pc,0.7714593298989151
+B all-X lag baseline,log_real_GDP_pc,log_population,0.35830253014778
+B all-X lag baseline,log_real_GDP_pc,trade_GDP,-0.0011445896613931964
+B all-X lag baseline,log_real_GDP_pc,inflation,0.00026577361059976825
+B all-X lag baseline,log_population,FD,-0.0009146860179922364
+B all-X lag baseline,log_population,Governance,0.08279198559901263
+B all-X lag baseline,log_population,log_real_GDP_pc,0.35830253014778
+B all-X lag baseline,log_population,log_population,3.083129707883745
+B all-X lag baseline,log_population,trade_GDP,0.002235684500805231
+B all-X lag baseline,log_population,inflation,-0.00013150377912524695
+B all-X lag baseline,trade_GDP,FD,5.642393047355183e-06
+B all-X lag baseline,trade_GDP,Governance,0.00035670463921553543
+B all-X lag baseline,trade_GDP,log_real_GDP_pc,-0.0011445896613931964
+B all-X lag baseline,trade_GDP,log_population,0.002235684500805231
+B all-X lag baseline,trade_GDP,trade_GDP,4.24802215507706e-05
+B all-X lag baseline,trade_GDP,inflation,1.0080842638729957e-06
+B all-X lag baseline,inflation,FD,5.093280803234234e-07
+B all-X lag baseline,inflation,Governance,7.793745722683236e-05
+B all-X lag baseline,inflation,log_real_GDP_pc,0.00026577361059976825
+B all-X lag baseline,inflation,log_population,-0.00013150377912524695
+B all-X lag baseline,inflation,trade_GDP,1.0080842638729957e-06
+B all-X lag baseline,inflation,inflation,8.475493671626222e-07
+B all-X lag,FD,FD,4.8890404903576936e-05
+B all-X lag,FD,Governance,0.0005180826186158882
+B all-X lag,FD,log_real_GDP_pc,-0.0011218039367177411
+B all-X lag,FD,log_population,-0.000925412866744086
+B all-X lag,FD,trade_GDP,5.057348803184325e-06
+B all-X lag,FD,inflation,7.878643047577411e-07
+B all-X lag,FD,FDI,6.842293382231982e-06
+B all-X lag,FD,growth,2.0276142168666288e-05
+B all-X lag,Governance,FD,0.0005180826186158882
+B all-X lag,Governance,Governance,0.31913783933307505
+B all-X lag,Governance,log_real_GDP_pc,0.07304571726295367
+B all-X lag,Governance,log_population,0.08315195189715435
+B all-X lag,Governance,trade_GDP,0.0004135116817051698
+B all-X lag,Governance,inflation,7.973078607648213e-05
+B all-X lag,Governance,FDI,-0.0007527283567500385
+B all-X lag,Governance,growth,0.00011144534742109007
+B all-X lag,log_real_GDP_pc,FD,-0.0011218039367177411
+B all-X lag,log_real_GDP_pc,Governance,0.07304571726295367
+B all-X lag,log_real_GDP_pc,log_real_GDP_pc,0.8442451985639492
+B all-X lag,log_real_GDP_pc,log_population,0.3763678667298181
+B all-X lag,log_real_GDP_pc,trade_GDP,-0.0011603794116607702
+B all-X lag,log_real_GDP_pc,inflation,0.00019424473641562704
+B all-X lag,log_real_GDP_pc,FDI,0.0011444852319822047
+B all-X lag,log_real_GDP_pc,growth,-0.004955973204208708
+B all-X lag,log_population,FD,-0.000925412866744086
+B all-X lag,log_population,Governance,0.08315195189715435
+B all-X lag,log_population,log_real_GDP_pc,0.3763678667298181
+B all-X lag,log_population,log_population,3.06863725650302
+B all-X lag,log_population,trade_GDP,0.0021916162573657285
+B all-X lag,log_population,inflation,-0.00014274815083276896
+B all-X lag,log_population,FDI,0.0004337487807627289
+B all-X lag,log_population,growth,-0.0010951007565077047
+B all-X lag,trade_GDP,FD,5.057348803184325e-06
+B all-X lag,trade_GDP,Governance,0.0004135116817051698
+B all-X lag,trade_GDP,log_real_GDP_pc,-0.0011603794116607702
+B all-X lag,trade_GDP,log_population,0.0021916162573657285
+B all-X lag,trade_GDP,trade_GDP,4.276324349524698e-05
+B all-X lag,trade_GDP,inflation,8.899135226103043e-07
+B all-X lag,trade_GDP,FDI,-8.558043934013122e-06
+B all-X lag,trade_GDP,growth,-4.756170833220248e-06
+B all-X lag,inflation,FD,7.878643047577411e-07
+B all-X lag,inflation,Governance,7.973078607648213e-05
+B all-X lag,inflation,log_real_GDP_pc,0.00019424473641562704
+B all-X lag,inflation,log_population,-0.00014274815083276896
+B all-X lag,inflation,trade_GDP,8.899135226103043e-07
+B all-X lag,inflation,inflation,8.477785753707915e-07
+B all-X lag,inflation,FDI,3.2328262253028186e-07
+B all-X lag,inflation,growth,2.9294484288627558e-06
+B all-X lag,FDI,FD,6.842293382231982e-06
+B all-X lag,FDI,Governance,-0.0007527283567500385
+B all-X lag,FDI,log_real_GDP_pc,0.0011444852319822047
+B all-X lag,FDI,log_population,0.0004337487807627289
+B all-X lag,FDI,trade_GDP,-8.558043934013122e-06
+B all-X lag,FDI,inflation,3.2328262253028186e-07
+B all-X lag,FDI,FDI,0.00023800169041932162
+B all-X lag,FDI,growth,1.8062041736668298e-05
+B all-X lag,growth,FD,2.0276142168666288e-05
+B all-X lag,growth,Governance,0.00011144534742109007
+B all-X lag,growth,log_real_GDP_pc,-0.004955973204208708
+B all-X lag,growth,log_population,-0.0010951007565077047
+B all-X lag,growth,trade_GDP,-4.756170833220248e-06
+B all-X lag,growth,inflation,2.9294484288627558e-06
+B all-X lag,growth,FDI,1.8062041736668298e-05
+B all-X lag,growth,growth,0.00025937215567682805
+C asinh inflation baseline,FD,FD,5.106486296847776e-05
+C asinh inflation baseline,FD,Governance,-5.633274749187219e-06
+C asinh inflation baseline,FD,log_real_GDP_pc,-0.00039124655753276343
+C asinh inflation baseline,FD,log_population,-0.002728033376615533
+C asinh inflation baseline,FD,trade_GDP,4.734129256481178e-06
+C asinh inflation baseline,FD,inflation,7.469053853298865e-05
+C asinh inflation baseline,Governance,FD,-5.633274749187219e-06
+C asinh inflation baseline,Governance,Governance,0.33412286935593427
+C asinh inflation baseline,Governance,log_real_GDP_pc,0.0366247711084413
+C asinh inflation baseline,Governance,log_population,0.0969463723758666
+C asinh inflation baseline,Governance,trade_GDP,0.00033402865106473917
+C asinh inflation baseline,Governance,inflation,-0.002356219052656179
+C asinh inflation baseline,log_real_GDP_pc,FD,-0.00039124655753276343
+C asinh inflation baseline,log_real_GDP_pc,Governance,0.0366247711084413
+C asinh inflation baseline,log_real_GDP_pc,log_real_GDP_pc,0.9360893964564232
+C asinh inflation baseline,log_real_GDP_pc,log_population,0.3709306042450246
+C asinh inflation baseline,log_real_GDP_pc,trade_GDP,-0.0029245598700633727
+C asinh inflation baseline,log_real_GDP_pc,inflation,0.0030938923840016824
+C asinh inflation baseline,log_population,FD,-0.002728033376615533
+C asinh inflation baseline,log_population,Governance,0.0969463723758666
+C asinh inflation baseline,log_population,log_real_GDP_pc,0.3709306042450246
+C asinh inflation baseline,log_population,log_population,3.058327310145031
+C asinh inflation baseline,log_population,trade_GDP,0.0013945579629447103
+C asinh inflation baseline,log_population,inflation,0.0007628395727076323
+C asinh inflation baseline,trade_GDP,FD,4.734129256481178e-06
+C asinh inflation baseline,trade_GDP,Governance,0.00033402865106473917
+C asinh inflation baseline,trade_GDP,log_real_GDP_pc,-0.0029245598700633727
+C asinh inflation baseline,trade_GDP,log_population,0.0013945579629447103
+C asinh inflation baseline,trade_GDP,trade_GDP,5.068988414629708e-05
+C asinh inflation baseline,trade_GDP,inflation,-3.983102179799583e-05
+C asinh inflation baseline,inflation,FD,7.469053853298865e-05
+C asinh inflation baseline,inflation,Governance,-0.002356219052656179
+C asinh inflation baseline,inflation,log_real_GDP_pc,0.0030938923840016824
+C asinh inflation baseline,inflation,log_population,0.0007628395727076323
+C asinh inflation baseline,inflation,trade_GDP,-3.983102179799583e-05
+C asinh inflation baseline,inflation,inflation,0.004994741936334729
+C asinh inflation,FD,FD,5.2269208399765e-05
+C asinh inflation,FD,Governance,1.848497929475463e-05
+C asinh inflation,FD,log_real_GDP_pc,-0.00017403303264095665
+C asinh inflation,FD,log_population,-0.0019778005810699925
+C asinh inflation,FD,trade_GDP,4.087792310112162e-06
+C asinh inflation,FD,inflation,7.991139334137724e-05
+C asinh inflation,FD,Deficit,1.4300364316156163e-05
+C asinh inflation,Governance,FD,1.848497929475463e-05
+C asinh inflation,Governance,Governance,0.33154722587680563
+C asinh inflation,Governance,log_real_GDP_pc,0.05333123798941249
+C asinh inflation,Governance,log_population,0.18594891955231624
+C asinh inflation,Governance,trade_GDP,0.0002469329078216426
+C asinh inflation,Governance,inflation,-0.0018867686234505948
+C asinh inflation,Governance,Deficit,0.0016777067022372201
+C asinh inflation,log_real_GDP_pc,FD,-0.00017403303264095665
+C asinh inflation,log_real_GDP_pc,Governance,0.05333123798941249
+C asinh inflation,log_real_GDP_pc,log_real_GDP_pc,1.0156485157739796
+C asinh inflation,log_real_GDP_pc,log_population,0.6187800990513371
+C asinh inflation,log_real_GDP_pc,trade_GDP,-0.003182566419525594
+C asinh inflation,log_real_GDP_pc,inflation,0.004243394095621543
+C asinh inflation,log_real_GDP_pc,Deficit,0.00454821269462783
+C asinh inflation,log_population,FD,-0.0019778005810699925
+C asinh inflation,log_population,Governance,0.18594891955231624
+C asinh inflation,log_population,log_real_GDP_pc,0.6187800990513371
+C asinh inflation,log_population,log_population,3.742372747238237
+C asinh inflation,log_population,trade_GDP,0.0007539960118265553
+C asinh inflation,log_population,inflation,0.003397936414933586
+C asinh inflation,log_population,Deficit,0.012519967290332727
+C asinh inflation,trade_GDP,FD,4.087792310112162e-06
+C asinh inflation,trade_GDP,Governance,0.0002469329078216426
+C asinh inflation,trade_GDP,log_real_GDP_pc,-0.003182566419525594
+C asinh inflation,trade_GDP,log_population,0.0007539960118265553
+C asinh inflation,trade_GDP,trade_GDP,5.148372033840666e-05
+C asinh inflation,trade_GDP,inflation,-4.215185466618e-05
+C asinh inflation,trade_GDP,Deficit,-1.1971775839458588e-05
+C asinh inflation,inflation,FD,7.991139334137724e-05
+C asinh inflation,inflation,Governance,-0.0018867686234505948
+C asinh inflation,inflation,log_real_GDP_pc,0.004243394095621543
+C asinh inflation,inflation,log_population,0.003397936414933586
+C asinh inflation,inflation,trade_GDP,-4.215185466618e-05
+C asinh inflation,inflation,inflation,0.005007728420309577
+C asinh inflation,inflation,Deficit,4.903671615309333e-05
+C asinh inflation,Deficit,FD,1.4300364316156163e-05
+C asinh inflation,Deficit,Governance,0.0016777067022372201
+C asinh inflation,Deficit,log_real_GDP_pc,0.00454821269462783
+C asinh inflation,Deficit,log_population,0.012519967290332727
+C asinh inflation,Deficit,trade_GDP,-1.1971775839458588e-05
+C asinh inflation,Deficit,inflation,4.903671615309333e-05
+C asinh inflation,Deficit,Deficit,0.00023614753504328932
+C all-X lag baseline,FD,FD,4.624539593850173e-05
+C all-X lag baseline,FD,Governance,0.0005037111805372186
+C all-X lag baseline,FD,log_real_GDP_pc,-0.000533161225038056
+C all-X lag baseline,FD,log_population,-0.001100361079860299
+C all-X lag baseline,FD,trade_GDP,4.5860514291320735e-06
+C all-X lag baseline,FD,inflation,4.935559847058474e-07
+C all-X lag baseline,Governance,FD,0.0005037111805372186
+C all-X lag baseline,Governance,Governance,0.33051795443938514
+C all-X lag baseline,Governance,log_real_GDP_pc,0.0716985559012242
+C all-X lag baseline,Governance,log_population,0.09995424154311555
+C all-X lag baseline,Governance,trade_GDP,0.00030284433217601356
+C all-X lag baseline,Governance,inflation,7.634359560821314e-05
+C all-X lag baseline,log_real_GDP_pc,FD,-0.000533161225038056
+C all-X lag baseline,log_real_GDP_pc,Governance,0.0716985559012242
+C all-X lag baseline,log_real_GDP_pc,log_real_GDP_pc,0.7408813468111208
+C all-X lag baseline,log_real_GDP_pc,log_population,0.32204790227121327
+C all-X lag baseline,log_real_GDP_pc,trade_GDP,-0.0007909526472331009
+C all-X lag baseline,log_real_GDP_pc,inflation,0.0002608957505148702
+C all-X lag baseline,log_population,FD,-0.001100361079860299
+C all-X lag baseline,log_population,Governance,0.09995424154311555
+C all-X lag baseline,log_population,log_real_GDP_pc,0.32204790227121327
+C all-X lag baseline,log_population,log_population,3.1088775014084042
+C all-X lag baseline,log_population,trade_GDP,0.0019622368670841645
+C all-X lag baseline,log_population,inflation,-0.00016389268932304207
+C all-X lag baseline,trade_GDP,FD,4.5860514291320735e-06
+C all-X lag baseline,trade_GDP,Governance,0.00030284433217601356
+C all-X lag baseline,trade_GDP,log_real_GDP_pc,-0.0007909526472331009
+C all-X lag baseline,trade_GDP,log_population,0.0019622368670841645
+C all-X lag baseline,trade_GDP,trade_GDP,3.661332207386114e-05
+C all-X lag baseline,trade_GDP,inflation,1.0343860823852017e-06
+C all-X lag baseline,inflation,FD,4.935559847058474e-07
+C all-X lag baseline,inflation,Governance,7.634359560821314e-05
+C all-X lag baseline,inflation,log_real_GDP_pc,0.0002608957505148702
+C all-X lag baseline,inflation,log_population,-0.00016389268932304207
+C all-X lag baseline,inflation,trade_GDP,1.0343860823852017e-06
+C all-X lag baseline,inflation,inflation,9.067777120249383e-07
+C all-X lag,FD,FD,4.697595198011219e-05
+C all-X lag,FD,Governance,0.00043673713716964986
+C all-X lag,FD,log_real_GDP_pc,-0.0003024404213966688
+C all-X lag,FD,log_population,-0.0006242007811178552
+C all-X lag,FD,trade_GDP,4.184746250567424e-06
+C all-X lag,FD,inflation,6.727872091172843e-07
+C all-X lag,FD,Deficit,7.642634183925403e-06
+C all-X lag,Governance,FD,0.00043673713716964986
+C all-X lag,Governance,Governance,0.32734618022766127
+C all-X lag,Governance,log_real_GDP_pc,0.08793849748303714
+C all-X lag,Governance,log_population,0.16918776926227166
+C all-X lag,Governance,trade_GDP,0.00023597903749979836
+C all-X lag,Governance,inflation,9.27981486771167e-05
+C all-X lag,Governance,Deficit,0.0012985926991490324
+C all-X lag,log_real_GDP_pc,FD,-0.0003024404213966688
+C all-X lag,log_real_GDP_pc,Governance,0.08793849748303714
+C all-X lag,log_real_GDP_pc,log_real_GDP_pc,0.821125031161908
+C all-X lag,log_real_GDP_pc,log_population,0.5455967803328412
+C all-X lag,log_real_GDP_pc,trade_GDP,-0.000953874119204811
+C all-X lag,log_real_GDP_pc,inflation,0.00035302544345457946
+C all-X lag,log_real_GDP_pc,Deficit,0.004324516522825483
+C all-X lag,log_population,FD,-0.0006242007811178552
+C all-X lag,log_population,Governance,0.16918776926227166
+C all-X lag,log_population,log_real_GDP_pc,0.5455967803328412
+C all-X lag,log_population,log_population,3.7879167582655366
+C all-X lag,log_population,trade_GDP,0.0017374557980630147
+C all-X lag,log_population,inflation,0.0001479289322755508
+C all-X lag,log_population,Deficit,0.013425241789648039
+C all-X lag,trade_GDP,FD,4.184746250567424e-06
+C all-X lag,trade_GDP,Governance,0.00023597903749979836
+C all-X lag,trade_GDP,log_real_GDP_pc,-0.000953874119204811
+C all-X lag,trade_GDP,log_population,0.0017374557980630147
+C all-X lag,trade_GDP,trade_GDP,3.6633454095296934e-05
+C all-X lag,trade_GDP,inflation,8.881132282293893e-07
+C all-X lag,trade_GDP,Deficit,-3.704586363673713e-06
+C all-X lag,inflation,FD,6.727872091172843e-07
+C all-X lag,inflation,Governance,9.27981486771167e-05
+C all-X lag,inflation,log_real_GDP_pc,0.00035302544345457946
+C all-X lag,inflation,log_population,0.0001479289322755508
+C all-X lag,inflation,trade_GDP,8.881132282293893e-07
+C all-X lag,inflation,inflation,1.0004810026334279e-06
+C all-X lag,inflation,Deficit,5.729851990030497e-06
+C all-X lag,Deficit,FD,7.642634183925403e-06
+C all-X lag,Deficit,Governance,0.0012985926991490324
+C all-X lag,Deficit,log_real_GDP_pc,0.004324516522825483
+C all-X lag,Deficit,log_population,0.013425241789648039
+C all-X lag,Deficit,trade_GDP,-3.704586363673713e-06
+C all-X lag,Deficit,inflation,5.729851990030497e-06
+C all-X lag,Deficit,Deficit,0.0002556716303850151
+B asinh signed FDI,FD,FD,5.145361199974713e-05
+B asinh signed FDI,FD,Governance,-0.00011401691824713957
+B asinh signed FDI,FD,log_real_GDP_pc,-0.0006010498656637207
+B asinh signed FDI,FD,log_population,-0.002448575376465774
+B asinh signed FDI,FD,trade_GDP,1.996474781795437e-06
+B asinh signed FDI,FD,inflation,7.346803831970806e-07
+B asinh signed FDI,FD,FDI,7.070435193360906e-06
+B asinh signed FDI,FD,growth,1.5989607172745193e-05
+B asinh signed FDI,Governance,FD,-0.00011401691824713957
+B asinh signed FDI,Governance,Governance,0.3318707907929583
+B asinh signed FDI,Governance,log_real_GDP_pc,0.07025565763203345
+B asinh signed FDI,Governance,log_population,0.08643470119380743
+B asinh signed FDI,Governance,trade_GDP,0.00040917256855057903
+B asinh signed FDI,Governance,inflation,0.00015034637722839426
+B asinh signed FDI,Governance,FDI,-0.0035236516510227206
+B asinh signed FDI,Governance,growth,-0.001103079030799868
+B asinh signed FDI,log_real_GDP_pc,FD,-0.0006010498656637207
+B asinh signed FDI,log_real_GDP_pc,Governance,0.07025565763203345
+B asinh signed FDI,log_real_GDP_pc,log_real_GDP_pc,0.9515917659906763
+B asinh signed FDI,log_real_GDP_pc,log_population,0.40570710943137744
+B asinh signed FDI,log_real_GDP_pc,trade_GDP,-0.002776254133735241
+B asinh signed FDI,log_real_GDP_pc,inflation,0.0001646939257247017
+B asinh signed FDI,log_real_GDP_pc,FDI,0.0132700244297007
+B asinh signed FDI,log_real_GDP_pc,growth,-0.0025036211161588626
+B asinh signed FDI,log_population,FD,-0.002448575376465774
+B asinh signed FDI,log_population,Governance,0.08643470119380743
+B asinh signed FDI,log_population,log_real_GDP_pc,0.40570710943137744
+B asinh signed FDI,log_population,log_population,2.9200459116869792
+B asinh signed FDI,log_population,trade_GDP,0.002154946037856208
+B asinh signed FDI,log_population,inflation,-0.00010388805946205199
+B asinh signed FDI,log_population,FDI,0.0060503010052464865
+B asinh signed FDI,log_population,growth,-0.002846830244768343
+B asinh signed FDI,trade_GDP,FD,1.996474781795437e-06
+B asinh signed FDI,trade_GDP,Governance,0.00040917256855057903
+B asinh signed FDI,trade_GDP,log_real_GDP_pc,-0.002776254133735241
+B asinh signed FDI,trade_GDP,log_population,0.002154946037856208
+B asinh signed FDI,trade_GDP,trade_GDP,6.055967328411962e-05
+B asinh signed FDI,trade_GDP,inflation,2.3828150279662055e-07
+B asinh signed FDI,trade_GDP,FDI,-0.00011152492535896676
+B asinh signed FDI,trade_GDP,growth,-2.269414544143067e-05
+B asinh signed FDI,inflation,FD,7.346803831970806e-07
+B asinh signed FDI,inflation,Governance,0.00015034637722839426
+B asinh signed FDI,inflation,log_real_GDP_pc,0.0001646939257247017
+B asinh signed FDI,inflation,log_population,-0.00010388805946205199
+B asinh signed FDI,inflation,trade_GDP,2.3828150279662055e-07
+B asinh signed FDI,inflation,inflation,4.91207613440003e-06
+B asinh signed FDI,inflation,FDI,9.50885378975628e-06
+B asinh signed FDI,inflation,growth,9.238207538608889e-07
+B asinh signed FDI,FDI,FD,7.070435193360906e-06
+B asinh signed FDI,FDI,Governance,-0.0035236516510227206
+B asinh signed FDI,FDI,log_real_GDP_pc,0.0132700244297007
+B asinh signed FDI,FDI,log_population,0.0060503010052464865
+B asinh signed FDI,FDI,trade_GDP,-0.00011152492535896676
+B asinh signed FDI,FDI,inflation,9.50885378975628e-06
+B asinh signed FDI,FDI,FDI,0.00643896026802958
+B asinh signed FDI,FDI,growth,4.077744826507498e-05
+B asinh signed FDI,growth,FD,1.5989607172745193e-05
+B asinh signed FDI,growth,Governance,-0.001103079030799868
+B asinh signed FDI,growth,log_real_GDP_pc,-0.0025036211161588626
+B asinh signed FDI,growth,log_population,-0.002846830244768343
+B asinh signed FDI,growth,trade_GDP,-2.269414544143067e-05
+B asinh signed FDI,growth,inflation,9.238207538608889e-07
+B asinh signed FDI,growth,FDI,4.077744826507498e-05
+B asinh signed FDI,growth,growth,0.00018613379992952323
+Voice and accountability benchmark,FD,FD,5.327043396842731e-05
+Voice and accountability benchmark,FD,Governance,0.00017521197714051665
+Voice and accountability benchmark,FD,log_real_GDP_pc,-0.00034537847748004056
+Voice and accountability benchmark,FD,log_population,-0.0015623787363618596
+Voice and accountability benchmark,FD,trade_GDP,1.0369641464369622e-05
+Voice and accountability benchmark,FD,inflation,1.3487722968399045e-06
+Voice and accountability benchmark,Governance,FD,0.00017521197714051665
+Voice and accountability benchmark,Governance,Governance,0.2080664808464145
+Voice and accountability benchmark,Governance,log_real_GDP_pc,0.07598313061867312
+Voice and accountability benchmark,Governance,log_population,0.1821388324712862
+Voice and accountability benchmark,Governance,trade_GDP,0.0003976647707362658
+Voice and accountability benchmark,Governance,inflation,-4.993067913086238e-05
+Voice and accountability benchmark,log_real_GDP_pc,FD,-0.00034537847748004056
+Voice and accountability benchmark,log_real_GDP_pc,Governance,0.07598313061867312
+Voice and accountability benchmark,log_real_GDP_pc,log_real_GDP_pc,1.0397416290452643
+Voice and accountability benchmark,log_real_GDP_pc,log_population,0.6858587705729081
+Voice and accountability benchmark,log_real_GDP_pc,trade_GDP,-0.002179880973577021
+Voice and accountability benchmark,log_real_GDP_pc,inflation,0.0002818903505266491
+Voice and accountability benchmark,log_population,FD,-0.0015623787363618596
+Voice and accountability benchmark,log_population,Governance,0.1821388324712862
+Voice and accountability benchmark,log_population,log_real_GDP_pc,0.6858587705729081
+Voice and accountability benchmark,log_population,log_population,3.5692744430425924
+Voice and accountability benchmark,log_population,trade_GDP,0.002489664583544158
+Voice and accountability benchmark,log_population,inflation,1.7908440123347613e-05
+Voice and accountability benchmark,trade_GDP,FD,1.0369641464369622e-05
+Voice and accountability benchmark,trade_GDP,Governance,0.0003976647707362658
+Voice and accountability benchmark,trade_GDP,log_real_GDP_pc,-0.002179880973577021
+Voice and accountability benchmark,trade_GDP,log_population,0.002489664583544158
+Voice and accountability benchmark,trade_GDP,trade_GDP,5.0722319796329344e-05
+Voice and accountability benchmark,trade_GDP,inflation,8.430872405449429e-07
+Voice and accountability benchmark,inflation,FD,1.3487722968399045e-06
+Voice and accountability benchmark,inflation,Governance,-4.993067913086238e-05
+Voice and accountability benchmark,inflation,log_real_GDP_pc,0.0002818903505266491
+Voice and accountability benchmark,inflation,log_population,1.7908440123347613e-05
+Voice and accountability benchmark,inflation,trade_GDP,8.430872405449429e-07
+Voice and accountability benchmark,inflation,inflation,2.7990423272049457e-06
+Political stability benchmark,FD,FD,5.354307728906008e-05
+Political stability benchmark,FD,Governance,-0.00033668882590251226
+Political stability benchmark,FD,log_real_GDP_pc,-0.0003493963286893938
+Political stability benchmark,FD,log_population,-0.002264139841806965
+Political stability benchmark,FD,trade_GDP,8.509410601001863e-06
+Political stability benchmark,FD,inflation,1.1753508503593357e-06
+Political stability benchmark,Governance,FD,-0.00033668882590251226
+Political stability benchmark,Governance,Governance,0.08038658515299145
+Political stability benchmark,Governance,log_real_GDP_pc,-0.0017450268056281566
+Political stability benchmark,Governance,log_population,0.11035589948731732
+Political stability benchmark,Governance,trade_GDP,-2.0852943231346466e-05
+Political stability benchmark,Governance,inflation,2.6178630391116222e-05
+Political stability benchmark,log_real_GDP_pc,FD,-0.0003493963286893938
+Political stability benchmark,log_real_GDP_pc,Governance,-0.0017450268056281566
+Political stability benchmark,log_real_GDP_pc,log_real_GDP_pc,0.9870577076438748
+Political stability benchmark,log_real_GDP_pc,log_population,0.5753893993349918
+Political stability benchmark,log_real_GDP_pc,trade_GDP,-0.002234059375097732
+Political stability benchmark,log_real_GDP_pc,inflation,0.00032456443870210845
+Political stability benchmark,log_population,FD,-0.002264139841806965
+Political stability benchmark,log_population,Governance,0.11035589948731732
+Political stability benchmark,log_population,log_real_GDP_pc,0.5753893993349918
+Political stability benchmark,log_population,log_population,3.540800788390422
+Political stability benchmark,log_population,trade_GDP,0.0020845777299170853
+Political stability benchmark,log_population,inflation,-1.4102929908749851e-05
+Political stability benchmark,trade_GDP,FD,8.509410601001863e-06
+Political stability benchmark,trade_GDP,Governance,-2.0852943231346466e-05
+Political stability benchmark,trade_GDP,log_real_GDP_pc,-0.002234059375097732
+Political stability benchmark,trade_GDP,log_population,0.0020845777299170853
+Political stability benchmark,trade_GDP,trade_GDP,4.8175382105174215e-05
+Political stability benchmark,trade_GDP,inflation,6.973232627124364e-07
+Political stability benchmark,inflation,FD,1.1753508503593357e-06
+Political stability benchmark,inflation,Governance,2.6178630391116222e-05
+Political stability benchmark,inflation,log_real_GDP_pc,0.00032456443870210845
+Political stability benchmark,inflation,log_population,-1.4102929908749851e-05
+Political stability benchmark,inflation,trade_GDP,6.973232627124364e-07
+Political stability benchmark,inflation,inflation,2.2858769263444963e-06

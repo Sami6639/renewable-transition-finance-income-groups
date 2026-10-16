@@ -1,0 +1,10 @@
+{
+  "OLS_CR2_Satterthwaite": "Implemented; independently validated against published real-data reference",
+  "joint_CR2_HTZ": "Implemented; q=1 identity checked; full formulas documented in source",
+  "restricted_wild_bootstrap": "5 declared hypotheses, 9999 valid draws each, CR2 studentization",
+  "PPML_CR2_Satterthwaite": "UNAVAILABLE: nonlinear extension not implemented; explicitly labelled CR1 supplied",
+  "PPML_restricted_bootstrap": "Not implemented; primary predeclared bootstrap hypotheses are OLS interactions",
+  "LOCO_refitted_CIs": "Not calculated; coefficient stability only",
+  "failed_estimation_procedures": [],
+  "fsQCA": "Not run"
+}

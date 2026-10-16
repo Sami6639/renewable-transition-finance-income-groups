@@ -1,0 +1,39 @@
+model,term,VIF_after_FE
+Primary Baseline,FD,1.0219160283398525
+Primary Baseline,Governance,1.0239132282674785
+Primary Baseline,log_real_GDP_pc,1.2189275745122445
+Primary Baseline,log_population,1.1413442913513023
+Primary Baseline,trade_GDP,1.0840185546767291
+Primary Baseline,inflation,1.0241237704206052
+Primary RQ interaction,FD,1.0325152953439194
+Primary RQ interaction,Governance,1.0255323838010804
+Primary RQ interaction,log_real_GDP_pc,1.2231755828053195
+Primary RQ interaction,log_population,1.1415363115383415
+Primary RQ interaction,trade_GDP,1.0967500401109793
+Primary RQ interaction,inflation,1.0264810064431715
+Primary RQ interaction,FD_x_Governance,1.0373623615807679
+Primary Income interaction,FD,8.004047076078042
+Primary Income interaction,Governance,1.0445292664093244
+Primary Income interaction,log_real_GDP_pc,1.2947190456735245
+Primary Income interaction,log_population,1.1912436907989468
+Primary Income interaction,trade_GDP,1.1326910411305362
+Primary Income interaction,inflation,1.028662878770993
+Primary Income interaction,group_Lower middle income,4.724005151170803
+Primary Income interaction,FD_x_Lower middle income,5.653489473300037
+Primary Income interaction,group_Upper middle income,4.849855349374468
+Primary Income interaction,FD_x_Upper middle income,4.509737444149378
+Primary Income interaction,group_High income,2.110222497001452
+Primary Income interaction,FD_x_High income,4.165048673512489
+Primary Combined,FD,8.133347330669515
+Primary Combined,Governance,1.0445333347502395
+Primary Combined,log_real_GDP_pc,1.2947438095173374
+Primary Combined,log_population,1.1916759208447685
+Primary Combined,trade_GDP,1.1330273130254738
+Primary Combined,inflation,1.032462752282368
+Primary Combined,FD_x_Governance,1.6404901710388395
+Primary Combined,group_Lower middle income,4.728020089468467
+Primary Combined,FD_x_Lower middle income,5.670604832665594
+Primary Combined,group_Upper middle income,4.872236854202394
+Primary Combined,FD_x_Upper middle income,4.790139386186278
+Primary Combined,group_High income,2.112695687392602
+Primary Combined,FD_x_High income,5.011790018003137

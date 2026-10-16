@@ -1,0 +1,10 @@
+quantity,terms,max_absolute_difference,absolute_tolerance,passed
+estimate,30,2.3445689834034056e-12,5e-09,True
+SE_CR2,30,1.2246841318841462e-09,5e-09,True
+Satterthwaite_df,30,2.981094837650744e-08,5e-06,True
+p_value,30,2.930752307506168e-10,5e-08,True
+CI95_low,30,2.594051640159023e-09,5e-08,True
+CI95_high,30,2.589362502192216e-09,5e-08,True
+HTZ_F,4,3.432543138615074e-10,5e-08,True
+HTZ_df2,4,4.822155119654781e-09,5e-06,True
+HTZ_p,4,1.528602244782462e-11,5e-08,True

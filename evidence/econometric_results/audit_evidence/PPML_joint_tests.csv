@@ -1,0 +1,2 @@
+model,hypothesis,F_cluster_CR1,df1,df2,p_cluster_CR1,inference
+PPML Income interaction,Income interactions jointly zero,2.9158328578619295,3,136,0.036590702574058866,"Nonlinear CR1, approximate F(3,G−1); not HTZ/CR2"

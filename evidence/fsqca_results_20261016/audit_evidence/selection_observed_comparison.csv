@@ -1,0 +1,25 @@
+income_group,eligible,variable,economies,observed,median
+Low income,True,bank_depth_mean_2018_2020,24,24,12.6091007153424
+Low income,True,RQ_mean_2018_2020,24,24,-0.7112517166666666
+Low income,True,real_GDP_pc_mean_2018_2020,24,24,891.9328375031098
+Low income,False,bank_depth_mean_2018_2020,10,5,11.656963245132298
+Low income,False,RQ_mean_2018_2020,10,10,-1.4093868666666667
+Low income,False,real_GDP_pc_mean_2018_2020,10,6,720.4013732947329
+Lower middle income,True,bank_depth_mean_2018_2020,41,41,27.276519384180038
+Lower middle income,True,RQ_mean_2018_2020,41,41,-0.4777702333333333
+Lower middle income,True,real_GDP_pc_mean_2018_2020,41,41,2744.171717460304
+Lower middle income,False,bank_depth_mean_2018_2020,6,1,24.281939219280662
+Lower middle income,False,RQ_mean_2018_2020,6,6,-0.6791280833333333
+Lower middle income,False,real_GDP_pc_mean_2018_2020,6,6,1698.2781646154049
+Upper middle income,True,bank_depth_mean_2018_2020,35,35,47.95325406496607
+Upper middle income,True,RQ_mean_2018_2020,35,35,0.0281042333333333
+Upper middle income,True,real_GDP_pc_mean_2018_2020,35,35,6228.488419606566
+Upper middle income,False,bank_depth_mean_2018_2020,21,11,45.18739173925513
+Upper middle income,False,RQ_mean_2018_2020,21,21,-0.6178018000000001
+Upper middle income,False,real_GDP_pc_mean_2018_2020,21,21,7832.49072265736
+High income,True,bank_depth_mean_2018_2020,11,11,85.87762079314093
+High income,True,RQ_mean_2018_2020,11,11,1.0900956666666668
+High income,True,real_GDP_pc_mean_2018_2020,11,11,18490.888751166367
+High income,False,bank_depth_mean_2018_2020,69,43,70.46074413902811
+High income,False,RQ_mean_2018_2020,69,57,1.0261432333333331
+High income,False,real_GDP_pc_mean_2018_2020,69,64,34168.5603505589

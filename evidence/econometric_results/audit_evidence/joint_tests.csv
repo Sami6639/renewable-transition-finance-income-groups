@@ -1,0 +1,39 @@
+model,hypothesis,restrictions,Wald_chi_square,HTZ_F,HTZ_df1,HTZ_df2,HTZ_p
+AB matched: Bank depth: RQ interaction,FD × governance interaction zero,1,0.5577550784699964,0.5577550784699964,1,16.64590196180418,0.46558485949267336
+AB matched: Bank depth: Income interaction,Three income-interaction coefficients jointly zero,3,2.1967817179517106,0.6069738414645071,3,9.689355540182326,0.6258784288482745
+AB matched: FinData: RQ interaction,FD × governance interaction zero,1,0.9869452060888666,0.9869452060888667,1,24.633251411292527,0.33014925622576374
+AB matched: FinData: Income interaction,Three income-interaction coefficients jointly zero,3,3.194786473136131,0.9962518934627086,3,29.012708639563936,0.40848851909031914
+AC matched: FinData: RQ interaction,FD × governance interaction zero,1,1.7624629307274617,1.7624629307274617,1,26.134843792416504,0.19579793859067324
+AC matched: FinData: Income interaction,Three income-interaction coefficients jointly zero,3,4.157569988692529,1.2677709679014855,3,21.472049903151603,0.31046983673650314
+AC matched: IMF: RQ interaction,FD × governance interaction zero,1,3.9386963428833766,3.938696342883376,1,19.3356310945788,0.061561495523938844
+AC matched: IMF: Income interaction,Three income-interaction coefficients jointly zero,3,4.63735413745038,1.3337573743419429,3,12.580994375845332,0.30743303157593005
+BC matched: Bank depth: RQ interaction,FD × governance interaction zero,1,1.4858418365827024,1.4858418365827024,1,17.68353530457316,0.2388742381813247
+BC matched: Bank depth: Income interaction,Three income-interaction coefficients jointly zero,3,2.830477747385321,0.7840179354676174,3,9.832508806197222,0.530011729132112
+BC matched: IMF: RQ interaction,FD × governance interaction zero,1,2.838106945160365,2.838106945160365,1,20.08644379632816,0.1075282980988221
+BC matched: IMF: Income interaction,Three income-interaction coefficients jointly zero,3,4.532812412980677,1.3015797454116997,3,12.434026418602638,0.317554593284032
+ABC matched: Bank depth: RQ interaction,FD × governance interaction zero,1,1.1101104386713563,1.1101104386713563,1,16.709079840279138,0.30705633892904666
+ABC matched: Bank depth: Income interaction,Three income-interaction coefficients jointly zero,3,5.284575853149496,1.4201315950819209,3,8.31961245674229,0.30428400194121785
+ABC matched: FinData: RQ interaction,FD × governance interaction zero,1,1.3515504953810356,1.3515504953810356,1,28.337061091960887,0.25470488165928384
+ABC matched: FinData: Income interaction,Three income-interaction coefficients jointly zero,3,4.2617824298345495,1.296801265094551,3,20.95114491434478,0.3017251868168223
+ABC matched: IMF: RQ interaction,FD × governance interaction zero,1,3.1156007810622044,3.1156007810622044,1,19.58758176213915,0.09313256915770375
+ABC matched: IMF: Income interaction,Three income-interaction coefficients jointly zero,3,4.3032187928212196,1.229666677263005,3,12.012007010627904,0.3416325202473295
+Primary RQ interaction,FD × governance interaction zero,1,0.49162515113330735,0.49162515113330735,1,17.948141313244207,0.4921948395579151
+Primary Income interaction,Three income-interaction coefficients jointly zero,3,1.0696280796250344,0.2954865357644128,3,9.679172359831485,0.8278664957513184
+Primary Combined,Three income-interaction coefficients jointly zero,3,1.0274375530248083,0.2841844198748478,3,9.749912276836318,0.83573276817416
+Primary Combined,FD × governance interaction zero,1,0.2669046673779736,0.2669046673779736,1,26.472395498450783,0.6097050807154003
+FinData native RQ interaction,FD × governance interaction zero,1,1.6095455705630564,1.6095455705630564,1,25.218022008085345,0.21614198116848957
+FinData native Income interaction,Three income-interaction coefficients jointly zero,3,2.5191103429467994,0.7878291677319917,3,30.37455822012089,0.5100790935773855
+IMF native RQ interaction,FD × governance interaction zero,1,3.1663534935803703,3.1663534935803703,1,19.636736543786864,0.0906535002802024
+IMF native Income interaction,Three income-interaction coefficients jointly zero,3,5.181127470425529,1.496730274323355,3,12.997402408762783,0.26178635526421007
+Lagged RQ interaction,FD × governance interaction zero,1,1.71343632848626,1.71343632848626,1,18.29464413588153,0.20674450540284103
+Lagged Income interaction,Three income-interaction coefficients jointly zero,3,2.302844047666174,0.6352322383593624,3,9.596925668160722,0.6097726400855876
+Government effectiveness RQ interaction,FD × governance interaction zero,1,3.518304837473611e-05,3.518304837473611e-05,1,18.864106404584426,0.9953296305949757
+Rule of law RQ interaction,FD × governance interaction zero,1,1.7279256080320045,1.7279256080320045,1,13.424816242447392,0.21069156391722388
+Control of corruption RQ interaction,FD × governance interaction zero,1,0.7976552797595612,0.7976552797595611,1,14.25584580624112,0.38662399725004637
+Sovereign scope RQ interaction,FD × governance interaction zero,1,0.5379840022454344,0.5379840022454344,1,17.951826690387307,0.4727402285430121
+Sovereign scope Income interaction,Three income-interaction coefficients jointly zero,3,1.1875406130850428,0.32804088635187106,3,9.675868226589623,0.8052949715252127
+Stable income RQ interaction,FD × governance interaction zero,1,0.20019002810180855,0.20019002810180855,1,15.561015712626585,0.6607329408807675
+Stable income Income interaction,Three income-interaction coefficients jointly zero,3,0.9930848238891568,0.27818409487232587,3,10.528466754502212,0.839976992112174
+Fixed 2014 income,Three income-interaction coefficients jointly zero,3,0.6294466066743019,0.16844762527321125,3,8.143878871964233,0.9147451253420347
+Positive only RQ interaction,FD × governance interaction zero,1,0.012785916206945731,0.012785916206945731,1,17.888571049978793,0.9112305407672621
+Positive only Income interaction,Three income-interaction coefficients jointly zero,3,1.0558076852906821,0.2916098187955091,3,9.66778669107027,0.8305613853945548

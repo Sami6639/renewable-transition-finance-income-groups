@@ -1,0 +1,19 @@
+check,max_absolute_difference,tolerance,passed
+All truth-table n,0.0,1e-10,True
+All truth-table consistency,9.992007221626409e-16,1e-10,True
+All truth-table PRI,2.3037127760972e-15,1e-10,True
+All truth-table classifications,0.0,0.0,True
+All necessity consistency,1.1102230246251565e-15,1e-10,True
+All necessity coverage,9.992007221626409e-16,1e-10,True
+All necessity RoN,8.881784197001252e-16,1e-10,True
+Number of independently matched nonempty solutions,0.0,0.0,True
+All solution consistency,7.771561172376096e-16,1e-10,True
+All solution PRI,9.992007221626409e-16,1e-10,True
+All solution coverage,7.771561172376096e-16,1e-10,True
+Number of independently matched pathways,0.0,0.0,True
+All pathway consistency,9.992007221626409e-16,1e-10,True
+All pathway PRI,1.5543122344752192e-15,1e-10,True
+All pathway raw_coverage,8.881784197001252e-16,1e-10,True
+All pathway unique_coverage,6.106226635438361e-16,1e-10,True
+R minimization failures,0.0,0.0,True
+Calibrated file unchanged since pre-truth-table freeze,0.0,0.0,True

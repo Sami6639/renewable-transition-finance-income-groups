@@ -1,0 +1,20 @@
+model,method,outcome,scope,n,clusters,periods,first_period,last_period
+annual_TWFE_absolute,TWFE,absolute,Annual native benchmark,1104,137,10,2014,2023
+annual_CRE_absolute,CRE,absolute,Annual native benchmark,1104,137,10,2014,2023
+annual_MundlakOLS_absolute,MundlakOLS,absolute,Annual native benchmark,1104,137,10,2014,2023
+annual_TWFE_per_capita,TWFE,per_capita,Annual native benchmark,1104,137,10,2014,2023
+annual_CRE_per_capita,CRE,per_capita,Annual native benchmark,1104,137,10,2014,2023
+balanced_TWFE,TWFE,absolute,Complete ten-year histories,610,61,10,2014,2023
+balanced_CRE,CRE,absolute,Complete ten-year histories,610,61,10,2014,2023
+lagged_TWFE,TWFE,absolute,One-year lag all X; no pre2014 values,1003,136,9,2015,2023
+lagged_CRE,CRE,absolute,One-year lag all X; no pre2014 values,1003,136,9,2015,2023
+window2_TWFE_absolute,TWFE,absolute,Complete nonoverlap 2-year windows,487,119,5,2014,2022
+matched2_annual_TWFE_absolute,TWFE,absolute,Annual exact country-year support of 2-year windows,974,119,10,2014,2023
+window2_CRE_absolute,CRE,absolute,Complete two-year windows,487,119,5,2014,2022
+window2_TWFE_per_capita,TWFE,per_capita,Complete nonoverlap 2-year windows,487,119,5,2014,2022
+matched2_annual_TWFE_per_capita,TWFE,per_capita,Annual exact country-year support of 2-year windows,974,119,10,2014,2023
+window2_CRE_per_capita,CRE,per_capita,Complete two-year windows,487,119,5,2014,2022
+window3_TWFE_absolute,TWFE,absolute,Complete nonoverlap 3-year windows,251,93,3,2014,2020
+matched3_annual_TWFE_absolute,TWFE,absolute,Annual exact country-year support of 3-year windows,753,93,9,2014,2022
+window3_TWFE_per_capita,TWFE,per_capita,Complete nonoverlap 3-year windows,251,93,3,2014,2020
+matched3_annual_TWFE_per_capita,TWFE,per_capita,Annual exact country-year support of 3-year windows,753,93,9,2014,2022

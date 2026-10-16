@@ -1,0 +1,20 @@
+check,max_absolute_difference,max_scaled_difference,tolerance,passed
+R–Python estimate,1.6628920462835595e-12,8.424157407884442e-13,2e-06,True
+R–Python SE_CR2,1.2754228784217503e-09,4.1903953820339597e-10,2e-06,True
+R–Python Satterthwaite_df,3.978323448450283e-08,1.3069436092154696e-09,2e-06,True
+R–Python p_value,2.646591557020628e-10,2.1564923707307041e-10,2e-06,True
+R–Python CI95_low,2.827322820309064e-09,9.114644867603974e-10,2e-06,True
+R–Python CI95_high,2.827262868265734e-09,8.538438822222589e-10,2e-06,True
+R–Python joint HTZ_F,3.0375701953744283e-13,,2e-05,True
+R–Python joint HTZ_df2,2.7071678232459817e-12,,2e-05,True
+R–Python joint HTZ_p,8.076872504148014e-15,,2e-05,True
+annual matched TWFE–CRE within coefficient identity,4.369837824924616e-13,,1e-07,True
+balanced matched TWFE–CRE within coefficient identity,4.973799150320701e-14,,1e-07,True
+lagged matched TWFE–CRE within coefficient identity,6.359357485052897e-13,,1e-07,True
+Frozen original benchmark FD,1.2592060727456555e-10,,1e-06,True
+Frozen original benchmark RQ,3.140598892059643e-11,,1e-06,True
+Frozen original benchmark lnGDP,1.1625189699770999e-10,,1e-06,True
+Frozen original benchmark lnPop,3.156053196562425e-10,,1e-06,True
+Frozen original benchmark Trade,6.718181566611747e-12,,1e-06,True
+Frozen original benchmark Inflation,2.3947510641164627e-13,,1e-06,True
+Independent profile REML variance ratios,8.311428642548968e-08,,0.0002,True

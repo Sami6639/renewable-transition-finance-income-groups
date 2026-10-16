@@ -1,0 +1,88 @@
+{
+  "status": "Explicitly user-approved execution; old proposed protocol remains unchanged",
+  "frozen_utc": "2026-10-16T12:50:42.721857+00:00",
+  "input_sha256": "a701b8afdd6e86a49c34099c281e413ba589780b4b48273e443680fe7c1700f3",
+  "sets": {
+    "FD": [
+      "bank_depth_mean_2018_2020",
+      [
+        20,
+        50,
+        100
+      ]
+    ],
+    "RQ": [
+      "RQ_mean_2018_2020",
+      [
+        -1,
+        0,
+        1
+      ]
+    ],
+    "GDP": [
+      "real_GDP_pc_mean_2018_2020",
+      [
+        2000,
+        8000,
+        20000
+      ]
+    ],
+    "Ypc": [
+      "financing_mean_per_capita_2021_2023",
+      [
+        1,
+        10,
+        50
+      ]
+    ],
+    "Yabs": [
+      "financing_mean_musd2022_2021_2023",
+      [
+        1,
+        25,
+        100
+      ]
+    ]
+  },
+  "calibration": "Piecewise logistic on raw distances; plogis(log(19)*(x-c)/(c-l)) below c, /(u-c) above; anchor memberships .05,.5,.95; exact crossovers unchanged",
+  "primary_thresholds": {
+    "frequency": 3,
+    "consistency": 0.8,
+    "PRI": 0.65,
+    "necessity": 0.9
+  },
+  "sensitivity_operationalization": {
+    "crossover": "One at a time: FD40/60,RQ\u2212.25/+.25,GDP6000/10000,Ypc5/20,Yabs10/50; endpoints unchanged",
+    "frequency": [
+      2,
+      3,
+      5
+    ],
+    "necessity": [
+      0.85,
+      0.9,
+      0.95
+    ],
+    "consistency": [
+      0.75,
+      0.8,
+      0.85
+    ],
+    "PRI": [
+      0.6,
+      0.65,
+      0.7
+    ],
+    "criteria_rule": "User-authorized criterion robustness operationalized as these local one-step alternatives, frozen before calibration/solutions; not claimed pre-existing numeric cutoffs; no factorial search",
+    "shape": "Protocol-authorized log distances for positive FD/GDP, log1p per stated unit for outcomes; one at a time",
+    "denominator": "Previously retained ratio-of-sums per capita, separately labelled",
+    "near_crossover": "Drop each fixed pre-existing raw-unit review band in turn, then union of condition bands and union incl outcome; no perturbation or epsilon reassignment",
+    "country_influence": "Leave each of111 countries out, primary calibrations/thresholds fixed; both outcome concepts"
+  },
+  "truth_table": "All8 corners. Config fuzzy membership=min(literals); frequency counts only config membership>.5. Exact condition crossovers assigned no corner; still enter fuzzy fit sums. Outcome crossover is not shifted. Fit metrics calculated over all retained cases, not just corner owners.",
+  "minimization": "Independent exhaustive3^3 cube enumeration, prime implicants and every irredundant minimum-term cover; verify R QCA results. Conservative excludes all remainders; parsimonious permits frequency remainders, never observed sufficient-frequency0 rows. Report all competing models, literal counts, and assumptions.",
+  "intermediate": "Withheld: rival directions for public-recipient financing do not justify directional counterfactuals; do not choose directions after observing solutions",
+  "core_peripheral": "No blanket labels from complex vs parsimonious. Core/peripheral identification requires defensible intermediate directional analysis, not available here. Report structurally recurring literals descriptively only.",
+  "no_negative_outcome_minimization": "Not approved; contrary memberships used solely for PRI and contradictions",
+  "preservation": "Original panel estimates,111cases,anchors and source vintages unchanged"
+}

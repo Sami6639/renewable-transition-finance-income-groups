@@ -1,0 +1,7 @@
+income_group_2018,economies,eligible_cases,excluded,baseline_FD_missing,baseline_RQ_missing,baseline_GDPpc_missing_or_nonpositive,financing_window_incomplete,population_window_incomplete,stable_income_cases
+Pooled,217,111,106,46,12,9,95,0,87
+Low income,34,24,10,5,0,4,7,0,16
+Lower middle income,47,41,6,5,0,0,2,0,33
+Upper middle income,56,35,21,10,0,0,18,0,29
+High income,80,11,69,26,12,5,68,0,9
+Unclassified,0,0,0,0,0,0,0,0,0

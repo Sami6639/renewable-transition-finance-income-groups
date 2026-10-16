@@ -1,0 +1,230 @@
+model,term1,term2,covariance_cluster_CR1
+PPML Baseline,FD,FD,0.00010031295435454674
+PPML Baseline,FD,Governance,-5.5717203767385495e-05
+PPML Baseline,FD,log_real_GDP_pc,0.00452009737082967
+PPML Baseline,FD,log_population,-0.00423620640964805
+PPML Baseline,FD,trade_GDP,-2.8740134592114715e-05
+PPML Baseline,FD,inflation,2.4972649811792656e-05
+PPML Baseline,Governance,FD,-5.57172037673859e-05
+PPML Baseline,Governance,Governance,0.41692116328458095
+PPML Baseline,Governance,log_real_GDP_pc,-0.31620218287535884
+PPML Baseline,Governance,log_population,0.415680839915904
+PPML Baseline,Governance,trade_GDP,0.00435112028948946
+PPML Baseline,Governance,inflation,-0.0014178765630521797
+PPML Baseline,log_real_GDP_pc,FD,0.00452009737082967
+PPML Baseline,log_real_GDP_pc,Governance,-0.3162021828753591
+PPML Baseline,log_real_GDP_pc,log_real_GDP_pc,1.099428262050738
+PPML Baseline,log_real_GDP_pc,log_population,-0.6134299716237783
+PPML Baseline,log_real_GDP_pc,trade_GDP,-0.00805528307381801
+PPML Baseline,log_real_GDP_pc,inflation,0.0038527264968449496
+PPML Baseline,log_population,FD,-0.004236206409648052
+PPML Baseline,log_population,Governance,0.4156808399159031
+PPML Baseline,log_population,log_real_GDP_pc,-0.6134299716237774
+PPML Baseline,log_population,log_population,3.4794717267855058
+PPML Baseline,log_population,trade_GDP,0.01008859494195342
+PPML Baseline,log_population,inflation,-0.0062086566458891546
+PPML Baseline,trade_GDP,FD,-2.8740134592114698e-05
+PPML Baseline,trade_GDP,Governance,0.004351120289489457
+PPML Baseline,trade_GDP,log_real_GDP_pc,-0.008055283073818002
+PPML Baseline,trade_GDP,log_population,0.010088594941953431
+PPML Baseline,trade_GDP,trade_GDP,0.00010085262091328614
+PPML Baseline,trade_GDP,inflation,-3.798747908150752e-05
+PPML Baseline,inflation,FD,2.4972649811792656e-05
+PPML Baseline,inflation,Governance,-0.0014178765630521797
+PPML Baseline,inflation,log_real_GDP_pc,0.003852726496844948
+PPML Baseline,inflation,log_population,-0.006208656645889152
+PPML Baseline,inflation,trade_GDP,-3.798747908150752e-05
+PPML Baseline,inflation,inflation,3.5060006920503666e-05
+PPML RQ interaction,FD,FD,9.112406909675262e-05
+PPML RQ interaction,FD,Governance,0.00012885029273301026
+PPML RQ interaction,FD,log_real_GDP_pc,0.0048649872747010894
+PPML RQ interaction,FD,log_population,-0.005066519219863784
+PPML RQ interaction,FD,trade_GDP,-3.2443178989049555e-05
+PPML RQ interaction,FD,inflation,2.646107745916062e-05
+PPML RQ interaction,FD,FD_x_Governance,-1.2077368370281925e-05
+PPML RQ interaction,Governance,FD,0.00012885029273301116
+PPML RQ interaction,Governance,Governance,0.41924275591016175
+PPML RQ interaction,Governance,log_real_GDP_pc,-0.31440620652267687
+PPML RQ interaction,Governance,log_population,0.385420942822152
+PPML RQ interaction,Governance,trade_GDP,0.004102798371758818
+PPML RQ interaction,Governance,inflation,-0.001297932391902713
+PPML RQ interaction,Governance,FD_x_Governance,-0.0009665529101574701
+PPML RQ interaction,log_real_GDP_pc,FD,0.004864987274701089
+PPML RQ interaction,log_real_GDP_pc,Governance,-0.31440620652267676
+PPML RQ interaction,log_real_GDP_pc,log_real_GDP_pc,1.0839607580483526
+PPML RQ interaction,log_real_GDP_pc,log_population,-0.5931170698294937
+PPML RQ interaction,log_real_GDP_pc,trade_GDP,-0.008146864995861394
+PPML RQ interaction,log_real_GDP_pc,inflation,0.0038550842100464893
+PPML RQ interaction,log_real_GDP_pc,FD_x_Governance,-0.0005717367131822548
+PPML RQ interaction,log_population,FD,-0.005066519219863787
+PPML RQ interaction,log_population,Governance,0.38542094282215184
+PPML RQ interaction,log_population,log_real_GDP_pc,-0.5931170698294908
+PPML RQ interaction,log_population,log_population,3.512903569543857
+PPML RQ interaction,log_population,trade_GDP,0.010348288405851003
+PPML RQ interaction,log_population,inflation,-0.006414304064368403
+PPML RQ interaction,log_population,FD_x_Governance,0.0015651642802414236
+PPML RQ interaction,trade_GDP,FD,-3.2443178989049576e-05
+PPML RQ interaction,trade_GDP,Governance,0.004102798371758815
+PPML RQ interaction,trade_GDP,log_real_GDP_pc,-0.008146864995861387
+PPML RQ interaction,trade_GDP,log_population,0.010348288405851
+PPML RQ interaction,trade_GDP,trade_GDP,0.00010536606457463968
+PPML RQ interaction,trade_GDP,inflation,-4.049944146914023e-05
+PPML RQ interaction,trade_GDP,FD_x_Governance,2.2502372213948e-05
+PPML RQ interaction,inflation,FD,2.6461077459160627e-05
+PPML RQ interaction,inflation,Governance,-0.0012979323919027127
+PPML RQ interaction,inflation,log_real_GDP_pc,0.003855084210046489
+PPML RQ interaction,inflation,log_population,-0.006414304064368404
+PPML RQ interaction,inflation,trade_GDP,-4.0499441469140215e-05
+PPML RQ interaction,inflation,inflation,3.648155647852868e-05
+PPML RQ interaction,inflation,FD_x_Governance,-1.1690558083241305e-05
+PPML RQ interaction,FD_x_Governance,FD,-1.2077368370281918e-05
+PPML RQ interaction,FD_x_Governance,Governance,-0.0009665529101574695
+PPML RQ interaction,FD_x_Governance,log_real_GDP_pc,-0.0005717367131822546
+PPML RQ interaction,FD_x_Governance,log_population,0.0015651642802414192
+PPML RQ interaction,FD_x_Governance,trade_GDP,2.2502372213947976e-05
+PPML RQ interaction,FD_x_Governance,inflation,-1.1690558083241302e-05
+PPML RQ interaction,FD_x_Governance,FD_x_Governance,0.00011616735543280563
+PPML Income interaction,FD,FD,0.000831492303497515
+PPML Income interaction,FD,Governance,-0.00048095450234914976
+PPML Income interaction,FD,log_real_GDP_pc,-0.003083710302330651
+PPML Income interaction,FD,log_population,-0.006817385268867904
+PPML Income interaction,FD,trade_GDP,-0.00013868487850776336
+PPML Income interaction,FD,inflation,8.41625040834871e-05
+PPML Income interaction,FD,group_Lower middle income,-0.008113210017766277
+PPML Income interaction,FD,FD_x_Lower middle income,-0.0005215548519681352
+PPML Income interaction,FD,group_Upper middle income,-0.0077721331715751366
+PPML Income interaction,FD,FD_x_Upper middle income,-0.0008239234845752322
+PPML Income interaction,FD,group_High income,-0.006986855563130927
+PPML Income interaction,FD,FD_x_High income,-0.0008623247673372993
+PPML Income interaction,Governance,FD,-0.0004809545023491428
+PPML Income interaction,Governance,Governance,0.27378592463692014
+PPML Income interaction,Governance,log_real_GDP_pc,-0.026920558448169728
+PPML Income interaction,Governance,log_population,0.05869654031287979
+PPML Income interaction,Governance,trade_GDP,0.0021164062812319977
+PPML Income interaction,Governance,inflation,-0.0005269526412034364
+PPML Income interaction,Governance,group_Lower middle income,-0.009258833393951144
+PPML Income interaction,Governance,FD_x_Lower middle income,-7.595151718017747e-05
+PPML Income interaction,Governance,group_Upper middle income,0.019633730821006622
+PPML Income interaction,Governance,FD_x_Upper middle income,0.00023442221247461969
+PPML Income interaction,Governance,group_High income,0.001728851335763268
+PPML Income interaction,Governance,FD_x_High income,0.0017628291658006356
+PPML Income interaction,log_real_GDP_pc,FD,-0.0030837103023306518
+PPML Income interaction,log_real_GDP_pc,Governance,-0.026920558448169606
+PPML Income interaction,log_real_GDP_pc,log_real_GDP_pc,0.46153379683787416
+PPML Income interaction,log_real_GDP_pc,log_population,0.1532033267980107
+PPML Income interaction,log_real_GDP_pc,trade_GDP,1.4600038300314122e-05
+PPML Income interaction,log_real_GDP_pc,inflation,-0.00017454668818480494
+PPML Income interaction,log_real_GDP_pc,group_Lower middle income,0.010111047933841447
+PPML Income interaction,log_real_GDP_pc,FD_x_Lower middle income,0.0012149410880050375
+PPML Income interaction,log_real_GDP_pc,group_Upper middle income,-0.060752078326135994
+PPML Income interaction,log_real_GDP_pc,FD_x_Upper middle income,0.005637251953747604
+PPML Income interaction,log_real_GDP_pc,group_High income,-0.06566781645094054
+PPML Income interaction,log_real_GDP_pc,FD_x_High income,0.00567529340439513
+PPML Income interaction,log_population,FD,-0.0068173852688679405
+PPML Income interaction,log_population,Governance,0.058696540312879936
+PPML Income interaction,log_population,log_real_GDP_pc,0.15320332679801035
+PPML Income interaction,log_population,log_population,2.293258752420243
+PPML Income interaction,log_population,trade_GDP,0.0020365636848304306
+PPML Income interaction,log_population,inflation,-0.0018259681572660377
+PPML Income interaction,log_population,group_Lower middle income,0.107897126446099
+PPML Income interaction,log_population,FD_x_Lower middle income,0.003433953630802895
+PPML Income interaction,log_population,group_Upper middle income,0.2936364593598288
+PPML Income interaction,log_population,FD_x_Upper middle income,0.004886529774524005
+PPML Income interaction,log_population,group_High income,0.2682002970850321
+PPML Income interaction,log_population,FD_x_High income,0.006872067493451147
+PPML Income interaction,trade_GDP,FD,-0.00013868487850776347
+PPML Income interaction,trade_GDP,Governance,0.0021164062812319964
+PPML Income interaction,trade_GDP,log_real_GDP_pc,1.4600038300315069e-05
+PPML Income interaction,trade_GDP,log_population,0.002036563684830422
+PPML Income interaction,trade_GDP,trade_GDP,0.00010989619181354686
+PPML Income interaction,trade_GDP,inflation,-3.7408104331025046e-05
+PPML Income interaction,trade_GDP,group_Lower middle income,0.0009980805009602428
+PPML Income interaction,trade_GDP,FD_x_Lower middle income,4.550176669026159e-05
+PPML Income interaction,trade_GDP,group_Upper middle income,-0.0009578098107999608
+PPML Income interaction,trade_GDP,FD_x_Upper middle income,0.00016633490081535248
+PPML Income interaction,trade_GDP,group_High income,-0.0010378559760231992
+PPML Income interaction,trade_GDP,FD_x_High income,0.00019155664168091194
+PPML Income interaction,inflation,FD,8.416250408348711e-05
+PPML Income interaction,inflation,Governance,-0.0005269526412034364
+PPML Income interaction,inflation,log_real_GDP_pc,-0.0001745466881848041
+PPML Income interaction,inflation,log_population,-0.0018259681572660395
+PPML Income interaction,inflation,trade_GDP,-3.740810433102506e-05
+PPML Income interaction,inflation,inflation,3.763053860946823e-05
+PPML Income interaction,inflation,group_Lower middle income,-0.00038803101748325925
+PPML Income interaction,inflation,FD_x_Lower middle income,-3.39397989311924e-05
+PPML Income interaction,inflation,group_Upper middle income,0.000662841309215152
+PPML Income interaction,inflation,FD_x_Upper middle income,-8.123001804359782e-05
+PPML Income interaction,inflation,group_High income,0.0009652535760620321
+PPML Income interaction,inflation,FD_x_High income,-9.366459099673106e-05
+PPML Income interaction,group_Lower middle income,FD,-0.008113210017766312
+PPML Income interaction,group_Lower middle income,Governance,-0.009258833393951168
+PPML Income interaction,group_Lower middle income,log_real_GDP_pc,0.010111047933841216
+PPML Income interaction,group_Lower middle income,log_population,0.10789712644609892
+PPML Income interaction,group_Lower middle income,trade_GDP,0.0009980805009602463
+PPML Income interaction,group_Lower middle income,inflation,-0.0003880310174832594
+PPML Income interaction,group_Lower middle income,group_Lower middle income,0.2781483246446671
+PPML Income interaction,group_Lower middle income,FD_x_Lower middle income,0.0054262469745325935
+PPML Income interaction,group_Lower middle income,group_Upper middle income,0.27874103162109615
+PPML Income interaction,group_Lower middle income,FD_x_Upper middle income,0.00812596988947024
+PPML Income interaction,group_Lower middle income,group_High income,0.2766858495211849
+PPML Income interaction,group_Lower middle income,FD_x_High income,0.008344898087702083
+PPML Income interaction,FD_x_Lower middle income,FD,-0.0005215548519681382
+PPML Income interaction,FD_x_Lower middle income,Governance,-7.595151718017834e-05
+PPML Income interaction,FD_x_Lower middle income,log_real_GDP_pc,0.0012149410880050316
+PPML Income interaction,FD_x_Lower middle income,log_population,0.0034339536308029164
+PPML Income interaction,FD_x_Lower middle income,trade_GDP,4.5501766690261805e-05
+PPML Income interaction,FD_x_Lower middle income,inflation,-3.393979893119244e-05
+PPML Income interaction,FD_x_Lower middle income,group_Lower middle income,0.005426246974532604
+PPML Income interaction,FD_x_Lower middle income,FD_x_Lower middle income,0.0004171782293219788
+PPML Income interaction,FD_x_Lower middle income,group_Upper middle income,0.0051966281296529785
+PPML Income interaction,FD_x_Lower middle income,FD_x_Upper middle income,0.0005121090961162733
+PPML Income interaction,FD_x_Lower middle income,group_High income,0.004804132592086035
+PPML Income interaction,FD_x_Lower middle income,FD_x_High income,0.0005295887256638965
+PPML Income interaction,group_Upper middle income,FD,-0.0077721331715751634
+PPML Income interaction,group_Upper middle income,Governance,0.019633730821006758
+PPML Income interaction,group_Upper middle income,log_real_GDP_pc,-0.06075207832613625
+PPML Income interaction,group_Upper middle income,log_population,0.29363645935982874
+PPML Income interaction,group_Upper middle income,trade_GDP,-0.000957809810799961
+PPML Income interaction,group_Upper middle income,inflation,0.0006628413092151502
+PPML Income interaction,group_Upper middle income,group_Lower middle income,0.27874103162109576
+PPML Income interaction,group_Upper middle income,FD_x_Lower middle income,0.005196628129652948
+PPML Income interaction,group_Upper middle income,group_Upper middle income,0.5486758005360372
+PPML Income interaction,group_Upper middle income,FD_x_Upper middle income,0.007239378161852043
+PPML Income interaction,group_Upper middle income,group_High income,0.5657886884272083
+PPML Income interaction,group_Upper middle income,FD_x_High income,0.007527411327429648
+PPML Income interaction,FD_x_Upper middle income,FD,-0.0008239234845752248
+PPML Income interaction,FD_x_Upper middle income,Governance,0.00023442221247463944
+PPML Income interaction,FD_x_Upper middle income,log_real_GDP_pc,0.005637251953747576
+PPML Income interaction,FD_x_Upper middle income,log_population,0.004886529774523943
+PPML Income interaction,FD_x_Upper middle income,trade_GDP,0.00016633490081535208
+PPML Income interaction,FD_x_Upper middle income,inflation,-8.12300180435976e-05
+PPML Income interaction,FD_x_Upper middle income,group_Lower middle income,0.008125969889470109
+PPML Income interaction,FD_x_Upper middle income,FD_x_Lower middle income,0.0005121090961162648
+PPML Income interaction,FD_x_Upper middle income,group_Upper middle income,0.007239378161851898
+PPML Income interaction,FD_x_Upper middle income,FD_x_Upper middle income,0.00092487523190109
+PPML Income interaction,FD_x_Upper middle income,group_High income,0.007166880788933688
+PPML Income interaction,FD_x_Upper middle income,FD_x_High income,0.0009262446751761838
+PPML Income interaction,group_High income,FD,-0.00698685556313085
+PPML Income interaction,group_High income,Governance,0.0017288513357633806
+PPML Income interaction,group_High income,log_real_GDP_pc,-0.06566781645094104
+PPML Income interaction,group_High income,log_population,0.26820029708503146
+PPML Income interaction,group_High income,trade_GDP,-0.0010378559760232018
+PPML Income interaction,group_High income,inflation,0.0009652535760620339
+PPML Income interaction,group_High income,group_Lower middle income,0.2766858495211832
+PPML Income interaction,group_High income,FD_x_Lower middle income,0.004804132592085919
+PPML Income interaction,group_High income,group_Upper middle income,0.5657886884272068
+PPML Income interaction,group_High income,FD_x_Upper middle income,0.0071668807889337235
+PPML Income interaction,group_High income,group_High income,0.7366130275999383
+PPML Income interaction,group_High income,FD_x_High income,0.005268833419260125
+PPML Income interaction,FD_x_High income,FD,-0.0008623247673373032
+PPML Income interaction,FD_x_High income,Governance,0.0017628291658006352
+PPML Income interaction,FD_x_High income,log_real_GDP_pc,0.0056752934043951325
+PPML Income interaction,FD_x_High income,log_population,0.0068720674934511766
+PPML Income interaction,FD_x_High income,trade_GDP,0.0001915566416809121
+PPML Income interaction,FD_x_High income,inflation,-9.366459099673112e-05
+PPML Income interaction,FD_x_High income,group_Lower middle income,0.008344898087702097
+PPML Income interaction,FD_x_High income,FD_x_Lower middle income,0.000529588725663896
+PPML Income interaction,FD_x_High income,group_Upper middle income,0.007527411327429688
+PPML Income interaction,FD_x_High income,FD_x_Upper middle income,0.0009262446751761946
+PPML Income interaction,FD_x_High income,group_High income,0.005268833419260265
+PPML Income interaction,FD_x_High income,FD_x_High income,0.0011361641250701518

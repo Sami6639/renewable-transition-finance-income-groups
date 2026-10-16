@@ -1,0 +1,26 @@
+[
+  {
+    "package": "admisc",
+    "version": "0.41",
+    "MD5_verified": false,
+    "sha256": "6ef9ecfe1fe0fc6ec09e937bc3617bfe7a1303482b040d2a36ee2a774b121076"
+  },
+  {
+    "package": "declared",
+    "version": "0.27",
+    "MD5_verified": false,
+    "sha256": "7fb91da8742ca679fd6b6082a574d98b7c884e4c264aa3d167664bccece3b542"
+  },
+  {
+    "package": "venn",
+    "version": "1.13",
+    "MD5_verified": false,
+    "sha256": "038df4ea63b5c8bd336a0b21dd93e7c97dd4e9bc259d07fa48858b0343b95a1d"
+  },
+  {
+    "package": "QCA",
+    "version": "3.25",
+    "MD5_verified": false,
+    "sha256": "55d0bd8d10cd1090eee3ef6031b3f7c71bac9ce2ba43bd8f8c3dca48fdf25a07"
+  }
+]

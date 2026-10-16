@@ -1,0 +1,551 @@
+scenario,type,model,expression,consistency,PRI,coverage,status,terms,literals,counterfactual_corners,union_pass
+primary_Ypc,complex,0,,,,,No sufficient configuration,,,,
+primary_Ypc,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_cross_FD_40,complex,0,,,,,No sufficient configuration,,,,
+Ypc_cross_FD_40,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_cross_FD_60,complex,0,,,,,No sufficient configuration,,,,
+Ypc_cross_FD_60,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_cross_RQ_-0.25,complex,0,,,,,No sufficient configuration,,,,
+Ypc_cross_RQ_-0.25,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_cross_RQ_0.25,complex,0,,,,,No sufficient configuration,,,,
+Ypc_cross_RQ_0.25,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_cross_GDP_6000,complex,0,,,,,No sufficient configuration,,,,
+Ypc_cross_GDP_6000,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_cross_GDP_10000,complex,0,,,,,No sufficient configuration,,,,
+Ypc_cross_GDP_10000,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_cross_Ypc_5,complex,0,,,,,No sufficient configuration,,,,
+Ypc_cross_Ypc_5,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_cross_Ypc_20,complex,0,,,,,No sufficient configuration,,,,
+Ypc_cross_Ypc_20,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_frequency_2,complex,0,,,,,No sufficient configuration,,,,
+Ypc_frequency_2,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_frequency_5,complex,0,,,,,No sufficient configuration,,,,
+Ypc_frequency_5,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_consistency_0.75,complex,0,,,,,No sufficient configuration,,,,
+Ypc_consistency_0.75,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_consistency_0.85,complex,0,,,,,No sufficient configuration,,,,
+Ypc_consistency_0.85,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_PRI_0.6,complex,0,,,,,No sufficient configuration,,,,
+Ypc_PRI_0.6,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_PRI_0.7,complex,0,,,,,No sufficient configuration,,,,
+Ypc_PRI_0.7,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_necessity_0.85,complex,0,,,,,No sufficient configuration,,,,
+Ypc_necessity_0.85,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_necessity_0.95,complex,0,,,,,No sufficient configuration,,,,
+Ypc_necessity_0.95,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_shape_FD,complex,0,,,,,No sufficient configuration,,,,
+Ypc_shape_FD,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_shape_GDP,complex,0,,,,,No sufficient configuration,,,,
+Ypc_shape_GDP,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_shape_Ypc,complex,0,,,,,No sufficient configuration,,,,
+Ypc_shape_Ypc,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_ratio_of_sums,complex,0,,,,,No sufficient configuration,,,,
+Ypc_ratio_of_sums,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_FD,complex,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_FD,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_RQ,complex,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_RQ,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_GDP,complex,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_GDP,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_Ypc,complex,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_Ypc,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_conditions,complex,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_conditions,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_all,complex,0,,,,,No sufficient configuration,,,,
+Ypc_near_drop_all,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_AFG,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_AFG,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_AGO,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_AGO,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ALB,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ALB,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ARG,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ARG,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ARM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ARM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_AZE,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_AZE,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BEN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BEN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BFA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BFA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BGD,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BGD,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BIH,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BIH,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BLZ,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BLZ,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BOL,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BOL,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BRA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BRA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BTN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BTN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BWA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_BWA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CHL,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CHL,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CHN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CHN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CIV,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CIV,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_COD,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_COD,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_COG,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_COG,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_COL,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_COL,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_COM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_COM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CPV,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CPV,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CRI,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_CRI,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_DJI,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_DJI,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_DNK,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_DNK,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_DOM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_DOM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_DZA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_DZA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ECU,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ECU,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_EGY,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_EGY,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_FIN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_FIN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_FJI,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_FJI,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_FRA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_FRA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_FSM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_FSM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GEO,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GEO,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GHA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GHA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GMB,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GMB,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GRC,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GRC,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GTM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GTM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GUY,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_GUY,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_HND,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_HND,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_HRV,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_HRV,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_HTI,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_HTI,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_IDN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_IDN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_IND,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_IND,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_IRQ,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_IRQ,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_JAM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_JAM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_JOR,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_JOR,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_KAZ,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_KAZ,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_KEN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_KEN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_KHM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_KHM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_LBR,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_LBR,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_LSO,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_LSO,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MAR,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MAR,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MDA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MDA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MDG,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MDG,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MDV,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MDV,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MEX,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MEX,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MKD,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MKD,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MLI,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MLI,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MMR,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MMR,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MNE,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MNE,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MNG,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MNG,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MOZ,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MOZ,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MWI,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MWI,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MYS,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_MYS,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NAM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NAM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NER,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NER,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NGA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NGA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NIC,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NIC,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NOR,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NOR,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NPL,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_NPL,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PAK,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PAK,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PAN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PAN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PER,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PER,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PHL,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PHL,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PNG,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PNG,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_POL,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_POL,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PRY,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PRY,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PSE,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_PSE,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ROU,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ROU,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_RWA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_RWA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SDN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SDN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SEN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SEN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SLB,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SLB,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SLE,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SLE,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SLV,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SLV,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SOM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SOM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SRB,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SRB,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_STP,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_STP,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SWE,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SWE,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SWZ,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_SWZ,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TCD,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TCD,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TGO,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TGO,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_THA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_THA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TJK,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TJK,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TLS,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TLS,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TON,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TON,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TUN,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TUN,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TUR,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TUR,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TZA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_TZA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_UGA,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_UGA,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_UKR,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_UKR,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_UZB,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_UZB,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_VNM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_VNM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_VUT,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_VUT,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_WSM,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_WSM,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_XKX,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_XKX,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ZAF,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ZAF,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ZMB,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ZMB,parsimonious,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ZWE,complex,0,,,,,No sufficient configuration,,,,
+Ypc_leave_ZWE,parsimonious,0,,,,,No sufficient configuration,,,,
+primary_Yabs,complex,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+primary_Yabs,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_cross_FD_40,complex,1,FD + RQ,0.8312763426583236,0.7847135835288649,0.585558774497444,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_cross_FD_40,parsimonious,1,FD + RQ,0.8312763426583236,0.7847135835288649,0.585558774497444,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_cross_FD_60,complex,1,FD + RQ,0.8492428950585182,0.8041126604102068,0.5353441037159782,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_cross_FD_60,parsimonious,1,FD + RQ,0.8492428950585182,0.8041126604102068,0.5353441037159782,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_cross_RQ_-0.25,complex,1,FD*~GDP + RQ,0.8301913906702179,0.7826486143088599,0.6004201784543692,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_cross_RQ_-0.25,parsimonious,1,FD + RQ,0.8290893267748116,0.7825497340962274,0.6128269696618377,"Boolean solution, not causal identification",2.0,2.0,101,True
+Yabs_cross_RQ_0.25,complex,1,FD + ~RQ*GDP,0.8396432510430204,0.7917280265288177,0.473245782757048,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_cross_RQ_0.25,parsimonious,1,FD + GDP,0.8387861206262539,0.7914711529113494,0.4884231937411252,"Boolean solution, not causal identification",2.0,2.0,011,True
+Yabs_cross_GDP_6000,complex,1,FD + GDP + RQ,0.8345586671774833,0.7877145740273227,0.5863288938576199,"Boolean solution, not causal identification",3.0,3.0,,True
+Yabs_cross_GDP_6000,parsimonious,1,FD + GDP + RQ,0.8345586671774833,0.7877145740273227,0.5863288938576199,"Boolean solution, not causal identification",3.0,3.0,,True
+Yabs_cross_GDP_10000,complex,1,FD*RQ + FD*~GDP + RQ*~GDP,0.8494602735319388,0.8023082332686631,0.5282553945101092,"Boolean solution, not causal identification",3.0,6.0,,True
+Yabs_cross_GDP_10000,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,011;101,True
+Yabs_cross_Yabs_10,complex,1,FD + RQ,0.8944392440762778,0.8611731880355337,0.5365260808101687,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_cross_Yabs_10,parsimonious,1,FD + RQ,0.8944392440762778,0.8611731880355337,0.5365260808101687,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_cross_Yabs_50,complex,1,FD*GDP + ~FD*RQ,0.8287683823817018,0.76621097092693,0.4664738706928726,"Boolean solution, not causal identification",2.0,4.0,,True
+Yabs_cross_Yabs_50,parsimonious,1,GDP + ~FD*RQ,0.8141044440041298,0.7504561576788159,0.4904347410712344,"Boolean solution, not causal identification",2.0,3.0,001,True
+Yabs_frequency_2,complex,1,FD + GDP + RQ,0.8380033071600409,0.7909927383603504,0.5751598147414065,"Boolean solution, not causal identification",3.0,3.0,,True
+Yabs_frequency_2,parsimonious,1,FD + GDP + RQ,0.8380033071600409,0.7909927383603504,0.5751598147414065,"Boolean solution, not causal identification",3.0,3.0,,True
+Yabs_frequency_5,complex,1,FD*RQ + FD*~GDP + RQ*~GDP,0.8507359580934513,0.8031996637482189,0.5173153529583691,"Boolean solution, not causal identification",3.0,6.0,,True
+Yabs_frequency_5,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,011;101,True
+Yabs_consistency_0.75,complex,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_consistency_0.75,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_consistency_0.85,complex,1,FD*GDP + ~FD*RQ,0.8885802273873746,0.8452828683377008,0.43845744448904267,"Boolean solution, not causal identification",2.0,4.0,,True
+Yabs_consistency_0.85,parsimonious,1,GDP + ~FD*RQ,0.880625542705347,0.8361751380650114,0.4650814684052454,"Boolean solution, not causal identification",2.0,3.0,001,True
+Yabs_PRI_0.6,complex,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_PRI_0.6,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_PRI_0.7,complex,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_PRI_0.7,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_necessity_0.85,complex,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_necessity_0.85,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_necessity_0.95,complex,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_necessity_0.95,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_shape_FD,complex,1,FD + RQ,0.8408049327173526,0.7950327788318291,0.5667517615457001,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_shape_FD,parsimonious,1,FD + RQ,0.8408049327173526,0.7950327788318291,0.5667517615457001,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_shape_GDP,complex,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_shape_GDP,parsimonious,1,FD + RQ,0.8433721379673498,0.7977971181421428,0.558149900216072,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_shape_Yabs,complex,1,FD + RQ,0.8757661034659262,0.8382861134248101,0.5493487278426594,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_shape_Yabs,parsimonious,1,FD + RQ,0.8757661034659262,0.8382861134248101,0.5493487278426594,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_near_drop_FD,complex,1,FD + RQ,0.8446979849984225,0.8012483768897213,0.5278671761534106,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_near_drop_FD,parsimonious,1,FD + RQ,0.8446979849984225,0.8012483768897213,0.5278671761534106,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_near_drop_RQ,complex,1,FD*RQ + FD*~GDP + RQ*~GDP,0.8845726596031879,0.8473502722262187,0.5086553636078037,"Boolean solution, not causal identification",3.0,6.0,,True
+Yabs_near_drop_RQ,parsimonious,1,FD + RQ,0.8731475520104798,0.835004447598954,0.5393974054103371,"Boolean solution, not causal identification",2.0,2.0,011;101,True
+Yabs_near_drop_GDP,complex,1,FD*~GDP + RQ,0.8402185588090703,0.7902883725509346,0.5405599684986376,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_near_drop_GDP,parsimonious,1,FD + RQ,0.8395055609515937,0.7913892675649906,0.5575198658525083,"Boolean solution, not causal identification",2.0,2.0,101,True
+Yabs_near_drop_Yabs,complex,1,FD + RQ*~GDP,0.8474240061246932,0.8051014621178842,0.5395245475957874,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_near_drop_Yabs,parsimonious,1,FD + RQ,0.8442527420001632,0.8031221965737481,0.5586996472644348,"Boolean solution, not causal identification",2.0,2.0,011,True
+Yabs_near_drop_conditions,complex,1,FD*RQ + FD*~GDP + RQ*~GDP,0.8892400549669552,0.8524078347864332,0.48571398548461814,"Boolean solution, not causal identification",3.0,6.0,,True
+Yabs_near_drop_conditions,parsimonious,1,FD + RQ,0.872426057012605,0.832200917117379,0.5069163389343343,"Boolean solution, not causal identification",2.0,2.0,011;101,True
+Yabs_near_drop_all,complex,1,FD*RQ + FD*~GDP + RQ*~GDP,0.8876284809866185,0.8524078347864331,0.49112338621301527,"Boolean solution, not causal identification",3.0,6.0,,True
+Yabs_near_drop_all,parsimonious,1,FD + RQ,0.8768527542101462,0.8406506281912631,0.5096081349598435,"Boolean solution, not causal identification",2.0,2.0,011;101,True
+Yabs_leave_AFG,complex,1,FD + RQ,0.8433083270336788,0.7977971181421426,0.5619487256280709,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_AFG,parsimonious,1,FD + RQ,0.8433083270336788,0.7977971181421426,0.5619487256280709,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_AGO,complex,1,FD + RQ,0.8432089033038089,0.7977971181421428,0.5629150450193792,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_AGO,parsimonious,1,FD + RQ,0.8432089033038089,0.7977971181421428,0.5629150450193792,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ALB,complex,1,FD + RQ,0.8414277455728261,0.7951593152564932,0.5568953957062238,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ALB,parsimonious,1,FD + RQ,0.8414277455728261,0.7951593152564932,0.5568953957062238,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ARG,complex,1,FD + RQ,0.8424980678572515,0.7963437864967953,0.56224641958058,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ARG,parsimonious,1,FD + RQ,0.8424980678572515,0.7963437864967953,0.56224641958058,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ARM,complex,1,FD + RQ,0.8441646130549655,0.8005242128533451,0.5548559231274693,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ARM,parsimonious,1,FD + RQ,0.8441646130549655,0.8005242128533451,0.5548559231274693,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_AZE,complex,1,FD + RQ,0.842127026988,0.7958434949201074,0.560507739462836,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_AZE,parsimonious,1,FD + RQ,0.842127026988,0.7958434949201074,0.560507739462836,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BEN,complex,1,FD + RQ,0.8427237781521645,0.7977971181421426,0.5613159648154123,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BEN,parsimonious,1,FD + RQ,0.8427237781521645,0.7977971181421426,0.5613159648154123,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BFA,complex,1,FD + RQ,0.8427169723888049,0.7977971181421426,0.5611567712421329,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BFA,parsimonious,1,FD + RQ,0.8427169723888049,0.7977971181421426,0.5611567712421329,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BGD,complex,1,FD + RQ,0.8425209919858159,0.7963766534320569,0.5623513494340787,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BGD,parsimonious,1,FD + RQ,0.8425209919858159,0.7963766534320569,0.5623513494340787,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BIH,complex,1,FD + RQ,0.8415589945167243,0.7947669404608084,0.5582966174876971,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BIH,parsimonious,1,FD + RQ,0.8415589945167243,0.7947669404608084,0.5582966174876971,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BLZ,complex,1,FD + RQ,0.8418327292606673,0.7977971181421426,0.5555948589211318,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BLZ,parsimonious,1,FD + RQ,0.8418327292606673,0.7977971181421426,0.5555948589211318,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BOL,complex,1,FD + RQ,0.8413161297451586,0.7945759978595167,0.5569809006707983,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BOL,parsimonious,1,FD + RQ,0.8413161297451586,0.7945759978595167,0.5569809006707983,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BRA,complex,1,FD*~GDP + RQ,0.8418225729695002,0.7929582690705304,0.53951966452981,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_leave_BRA,parsimonious,1,FD + RQ,0.8410668845668265,0.7939386118115723,0.5562450637713925,"Boolean solution, not causal identification",2.0,2.0,101,True
+Yabs_leave_BTN,complex,1,FD + RQ,0.8519224905324048,0.8088286241839515,0.5572594389567215,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BTN,parsimonious,1,FD + RQ,0.8519224905324048,0.8088286241839515,0.5572594389567215,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BWA,complex,1,FD + RQ,0.8441814199277535,0.7998198457471987,0.5541994739832063,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_BWA,parsimonious,1,FD + RQ,0.8441814199277535,0.7998198457471987,0.5541994739832063,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_CHL,complex,1,FD + RQ,0.8401609032996571,0.7924190690040529,0.5524883825323571,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_CHL,parsimonious,1,FD + RQ,0.8401609032996571,0.7924190690040529,0.5524883825323571,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_CHN,complex,1,FD*~GDP + RQ,0.8418491182399933,0.7937704032458989,0.5386465673306646,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_leave_CHN,parsimonious,1,FD + RQ,0.8427792843547142,0.7964970383334913,0.5527664220777124,"Boolean solution, not causal identification",2.0,2.0,101,True
+Yabs_leave_CIV,complex,1,FD + RQ,0.8424387885530384,0.7962392240909376,0.5620030792048626,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_CIV,parsimonious,1,FD + RQ,0.8424387885530384,0.7962392240909376,0.5620030792048626,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_COD,complex,1,FD + RQ,0.8433147885431127,0.7977971181421428,0.5639506144756667,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_COD,parsimonious,1,FD + RQ,0.8433147885431127,0.7977971181421428,0.5639506144756667,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_COG,complex,1,FD + RQ,0.8432822623797792,0.7977971181421428,0.5583002033655524,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_COG,parsimonious,1,FD + RQ,0.8432822623797792,0.7977971181421428,0.5583002033655524,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_COL,complex,1,FD + RQ,0.8411542246760317,0.7940936681279509,0.5565973042513566,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_COL,parsimonious,1,FD + RQ,0.8411542246760317,0.7940936681279509,0.5565973042513566,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_COM,complex,1,FD + RQ,0.8432679661053182,0.7977971181421426,0.5588861279892109,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_COM,parsimonious,1,FD + RQ,0.8432679661053182,0.7977971181421426,0.5588861279892109,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_CPV,complex,1,FD + RQ,0.8526912412950083,0.8094907581334297,0.5577082172776902,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_CPV,parsimonious,1,FD + RQ,0.8526912412950083,0.8094907581334297,0.5577082172776902,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_CRI,complex,1,FD + RQ,0.8435309723139132,0.7984116698877438,0.5536475350485454,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_CRI,parsimonious,1,FD + RQ,0.8435309723139132,0.7984116698877438,0.5536475350485454,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_DJI,complex,1,FD + RQ,0.8430859905719444,0.7977971181421428,0.5605620237316071,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_DJI,parsimonious,1,FD + RQ,0.8430859905719444,0.7977971181421428,0.5605620237316071,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_DNK,complex,1,FD + RQ,0.8400569724462577,0.7922425709512104,0.5519675702653922,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_DNK,parsimonious,1,FD + RQ,0.8400569724462577,0.7922425709512104,0.5519675702653922,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_DOM,complex,1,FD + RQ,0.84185599450673,0.7953429216817846,0.5594331567340274,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_DOM,parsimonious,1,FD + RQ,0.84185599450673,0.7953429216817846,0.5594331567340274,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_DZA,complex,1,FD + RQ,0.843139556867571,0.7977971181421426,0.5577552645779277,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_DZA,parsimonious,1,FD + RQ,0.843139556867571,0.7977971181421426,0.5577552645779277,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ECU,complex,1,FD + RQ,0.8424228954598117,0.7962132095035621,0.5619349896675648,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ECU,parsimonious,1,FD + RQ,0.8424228954598117,0.7962132095035621,0.5619349896675648,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_EGY,complex,1,FD + RQ,0.8429731587574006,0.7971316781530073,0.5642737984384663,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_EGY,parsimonious,1,FD + RQ,0.8429731587574006,0.7971316781530073,0.5642737984384663,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_FIN,complex,1,FD + RQ,0.8400993512376448,0.7923224378759524,0.551991512955192,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_FIN,parsimonious,1,FD + RQ,0.8400993512376448,0.7923224378759524,0.551991512955192,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_FJI,complex,1,FD + RQ,0.8568167841575931,0.8145243854095029,0.5577713726800544,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_FJI,parsimonious,1,FD + RQ,0.8568167841575931,0.8145243854095029,0.5577713726800544,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_FRA,complex,1,FD + RQ,0.840093447489812,0.7922992990849361,0.552219031424061,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_FRA,parsimonious,1,FD + RQ,0.840093447489812,0.7922992990849361,0.552219031424061,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_FSM,complex,1,FD + RQ,0.8436891998694652,0.7983892052861088,0.5578361463726149,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_FSM,parsimonious,1,FD + RQ,0.8436891998694652,0.7983892052861088,0.5578361463726149,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GEO,complex,1,FD + RQ,0.8450824344901638,0.8004458048295817,0.5537744255722313,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GEO,parsimonious,1,FD + RQ,0.8450824344901638,0.8004458048295817,0.5537744255722313,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GHA,complex,1,FD + RQ,0.8421183159180198,0.7968917818482133,0.5589656259554638,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GHA,parsimonious,1,FD + RQ,0.8421183159180198,0.7968917818482133,0.5589656259554638,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GMB,complex,1,FD + RQ,0.843011955381018,0.7977971181421426,0.5577568154383599,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GMB,parsimonious,1,FD + RQ,0.843011955381018,0.7977971181421426,0.5577568154383599,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GRC,complex,1,FD + RQ,0.8404337192231596,0.7934557221895402,0.5528292851097629,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GRC,parsimonious,1,FD + RQ,0.8404337192231596,0.7934557221895402,0.5528292851097629,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GTM,complex,1,FD + RQ,0.8424911888137959,0.7977971181421426,0.5588258131292104,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GTM,parsimonious,1,FD + RQ,0.8424911888137959,0.7977971181421426,0.5588258131292104,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GUY,complex,1,FD + RQ,0.8427826345225501,0.7977971181421426,0.5598271212428735,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_GUY,parsimonious,1,FD + RQ,0.8427826345225501,0.7977971181421426,0.5598271212428735,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_HND,complex,1,FD + RQ,0.8410409078124735,0.7942503500363977,0.5556474921187263,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_HND,parsimonious,1,FD + RQ,0.8410409078124735,0.7942503500363977,0.5556474921187263,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_HRV,complex,1,FD + RQ,0.8408689216061331,0.7938347155839753,0.5551083053707199,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_HRV,parsimonious,1,FD + RQ,0.8408689216061331,0.7938347155839753,0.5551083053707199,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_HTI,complex,1,FD + RQ,0.8432803043589661,0.7977971181421426,0.5585844344317431,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_HTI,parsimonious,1,FD + RQ,0.8432803043589661,0.7977971181421426,0.5585844344317431,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_IDN,complex,1,FD + RQ,0.8414562323491217,0.7945926299136424,0.5578692001648632,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_IDN,parsimonious,1,FD + RQ,0.8414562323491217,0.7945926299136424,0.5578692001648632,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_IND,complex,1,FD + RQ,0.8421080511033215,0.7956854063636467,0.560606161832831,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_IND,parsimonious,1,FD + RQ,0.8421080511033215,0.7956854063636467,0.560606161832831,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_IRQ,complex,1,FD + RQ,0.8432844390945081,0.7977971181421424,0.5582067070560999,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_IRQ,parsimonious,1,FD + RQ,0.8432844390945081,0.7977971181421424,0.5582067070560999,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_JAM,complex,1,FD + RQ,0.8518243189798187,0.8086127582528151,0.5574117751902014,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_JAM,parsimonious,1,FD + RQ,0.8518243189798187,0.8086127582528151,0.5574117751902014,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_JOR,complex,1,FD + RQ,0.8416663893242716,0.7960642438222612,0.5535811630322638,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_JOR,parsimonious,1,FD + RQ,0.8416663893242716,0.7960642438222612,0.5535811630322638,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_KAZ,complex,1,FD + RQ*~GDP,0.849318214243327,0.8048873334196682,0.5375721680173958,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_leave_KAZ,parsimonious,1,FD + RQ,0.8414943407949382,0.7963277964519211,0.5556945835474397,"Boolean solution, not causal identification",2.0,2.0,011,True
+Yabs_leave_KEN,complex,1,FD + RQ,0.8425474593332164,0.7965108833198936,0.5623351605109554,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_KEN,parsimonious,1,FD + RQ,0.8425474593332164,0.7965108833198936,0.5623351605109554,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_KHM,complex,1,FD + RQ,0.8547320430820595,0.8125790870354186,0.556768109694185,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_KHM,parsimonious,1,FD + RQ,0.8547320430820595,0.8125790870354186,0.556768109694185,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_LBR,complex,1,FD + RQ,0.8431707497737424,0.7977971181421426,0.557899616692355,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_LBR,parsimonious,1,FD + RQ,0.8431707497737424,0.7977971181421426,0.557899616692355,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_LSO,complex,1,FD + RQ,0.8434313331141315,0.798390155188692,0.5573526637515522,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_LSO,parsimonious,1,FD + RQ,0.8434313331141315,0.798390155188692,0.5573526637515522,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MAR,complex,1,FD + RQ,0.8411990530717136,0.7942807243868375,0.556629709289017,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MAR,parsimonious,1,FD + RQ,0.8411990530717136,0.7942807243868375,0.556629709289017,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MDA,complex,1,FD + RQ,0.8437976236174548,0.7995954445640796,0.5561858130323053,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MDA,parsimonious,1,FD + RQ,0.8437976236174548,0.7995954445640796,0.5561858130323053,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MDG,complex,1,FD + RQ,0.8431241651283646,0.7974221544894009,0.5648624427831787,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MDG,parsimonious,1,FD + RQ,0.8431241651283646,0.7974221544894009,0.5648624427831787,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MDV,complex,1,FD + RQ,0.8452132166140033,0.8006922496012754,0.557153560798035,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MDV,parsimonious,1,FD + RQ,0.8452132166140033,0.8006922496012754,0.557153560798035,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MEX,complex,1,FD + RQ*~GDP,0.8491590907706869,0.803123790529849,0.5389042831218276,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_leave_MEX,parsimonious,1,FD + RQ,0.841648822309886,0.7951051552498696,0.5584110149923918,"Boolean solution, not causal identification",2.0,2.0,011,True
+Yabs_leave_MKD,complex,1,FD + RQ,0.8408963797988601,0.7939964255840126,0.5550634542691576,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MKD,parsimonious,1,FD + RQ,0.8408963797988601,0.7939964255840126,0.5550634542691576,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MLI,complex,1,FD + RQ,0.842966598800659,0.7977971181421426,0.5625435646521815,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MLI,parsimonious,1,FD + RQ,0.842966598800659,0.7977971181421426,0.5625435646521815,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MMR,complex,1,FD + RQ,0.8430537239908713,0.7977971181421426,0.55787960839537,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MMR,parsimonious,1,FD + RQ,0.8430537239908713,0.7977971181421426,0.55787960839537,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MNE,complex,1,FD + RQ,0.8411644764691641,0.7957050105936851,0.553803685789539,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MNE,parsimonious,1,FD + RQ,0.8411644764691641,0.7957050105936851,0.553803685789539,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MNG,complex,1,FD + RQ,0.8417769363003007,0.7976033277691841,0.5557295889374542,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MNG,parsimonious,1,FD + RQ,0.8417769363003007,0.7976033277691841,0.5557295889374542,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MOZ,complex,1,FD + RQ,0.8430089728779528,0.7977971181421426,0.56348628664026,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MOZ,parsimonious,1,FD + RQ,0.8430089728779528,0.7977971181421426,0.56348628664026,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MWI,complex,1,FD + RQ,0.8429801759806794,0.7977971181421426,0.5613106473038355,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MWI,parsimonious,1,FD + RQ,0.8429801759806794,0.7977971181421426,0.5613106473038355,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MYS,complex,1,FD + RQ,0.8601934927289221,0.8186255275604424,0.5578742079542469,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_MYS,parsimonious,1,FD + RQ,0.8601934927289221,0.8186255275604424,0.5578742079542469,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NAM,complex,1,FD + RQ,0.852522398019207,0.8092899456299709,0.557697874212457,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NAM,parsimonious,1,FD + RQ,0.852522398019207,0.8092899456299709,0.557697874212457,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NER,complex,1,FD + RQ,0.8430126846695826,0.797549038372844,0.5639350183514761,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NER,parsimonious,1,FD + RQ,0.8430126846695826,0.797549038372844,0.5639350183514761,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NGA,complex,1,FD + RQ,0.8431417546775151,0.7974130721637291,0.564993158168036,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NGA,parsimonious,1,FD + RQ,0.8431417546775151,0.7974130721637291,0.564993158168036,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NIC,complex,1,FD + RQ,0.8429035078882646,0.7977971181421426,0.5608012412022098,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NIC,parsimonious,1,FD + RQ,0.8429035078882646,0.7977971181421426,0.5608012412022098,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NOR,complex,1,FD + RQ,0.8421593479646351,0.7955603839221772,0.55261053932877,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NOR,parsimonious,1,FD + RQ,0.8421593479646351,0.7955603839221772,0.55261053932877,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NPL,complex,1,FD + RQ,0.8432835620713166,0.79809608555137,0.5536351531690427,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_NPL,parsimonious,1,FD + RQ,0.8432835620713166,0.79809608555137,0.5536351531690427,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PAK,complex,1,FD + RQ,0.8429637122927914,0.797115910791742,0.5642335318693599,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PAK,parsimonious,1,FD + RQ,0.8429637122927914,0.797115910791742,0.5642335318693599,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PAN,complex,1,FD + RQ,0.8405084644247939,0.7931732891023654,0.5536924756975091,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PAN,parsimonious,1,FD + RQ,0.8405084644247939,0.7931732891023654,0.5536924756975091,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PER,complex,1,FD + RQ,0.8408656989611301,0.7936194837867613,0.5553826452898434,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PER,parsimonious,1,FD + RQ,0.8408656989611301,0.7936194837867613,0.5553826452898434,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PHL,complex,1,FD + RQ,0.8415645609506315,0.7951868254527038,0.5577473125539674,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PHL,parsimonious,1,FD + RQ,0.8415645609506315,0.7951868254527038,0.5577473125539674,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PNG,complex,1,FD + RQ,0.8439847396984247,0.7990624376093975,0.5573563496524475,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PNG,parsimonious,1,FD + RQ,0.8439847396984247,0.7990624376093975,0.5573563496524475,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_POL,complex,1,FD + RQ,0.8403346443909564,0.7927068933311076,0.5532108684367238,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_POL,parsimonious,1,FD + RQ,0.8403346443909564,0.7927068933311076,0.5532108684367238,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PRY,complex,1,FD + RQ,0.8419152458860627,0.7967159704513669,0.5578862495883357,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PRY,parsimonious,1,FD + RQ,0.8419152458860627,0.7967159704513669,0.5578862495883357,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PSE,complex,1,FD + RQ,0.8445274277688697,0.8004571634953609,0.5562256453382742,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_PSE,parsimonious,1,FD + RQ,0.8445274277688697,0.8004571634953609,0.5562256453382742,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ROU,complex,1,FD + RQ*~GDP,0.8493508616508956,0.8051014621178845,0.5362563068609717,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_leave_ROU,parsimonious,1,FD + RQ,0.846145939803173,0.8031221965737482,0.5550318672905047,"Boolean solution, not causal identification",2.0,2.0,011,True
+Yabs_leave_RWA,complex,1,FD + RQ,0.8414647569614828,0.7946103410136311,0.5579001197788694,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_RWA,parsimonious,1,FD + RQ,0.8414647569614828,0.7946103410136311,0.5579001197788694,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SDN,complex,1,FD + RQ,0.8433156745449679,0.7977971181421426,0.558261563322696,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SDN,parsimonious,1,FD + RQ,0.8433156745449679,0.7977971181421426,0.558261563322696,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SEN,complex,1,FD + RQ,0.8423044335495531,0.796749182746357,0.5603908840335492,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SEN,parsimonious,1,FD + RQ,0.8423044335495531,0.796749182746357,0.5603908840335492,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SLB,complex,1,FD + RQ,0.8434692221925578,0.7981260468965112,0.5578280084355473,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SLB,parsimonious,1,FD + RQ,0.8434692221925578,0.7981260468965112,0.5578280084355473,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SLE,complex,1,FD + RQ,0.8431545078365544,0.7977971181421426,0.5594495213120426,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SLE,parsimonious,1,FD + RQ,0.8431545078365544,0.7977971181421426,0.5594495213120426,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SLV,complex,1,FD + RQ,0.8415378136233134,0.7948868358354813,0.5579914168805807,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SLV,parsimonious,1,FD + RQ,0.8415378136233134,0.7948868358354813,0.5579914168805807,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SOM,complex,1,FD + RQ,0.843341623254706,0.7977971181421426,0.565371691827392,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SOM,parsimonious,1,FD + RQ,0.843341623254706,0.7977971181421426,0.565371691827392,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SRB,complex,1,FD + RQ,0.8413957677984748,0.794667493672383,0.5573715880695829,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SRB,parsimonious,1,FD + RQ,0.8413957677984748,0.794667493672383,0.5573715880695829,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_STP,complex,1,FD + RQ,0.8431220042504024,0.7977971181421426,0.559260457732005,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_STP,parsimonious,1,FD + RQ,0.8431220042504024,0.7977971181421426,0.559260457732005,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SWE,complex,1,FD + RQ,0.8401084947481775,0.7923538699966362,0.5520088491880275,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SWE,parsimonious,1,FD + RQ,0.8401084947481775,0.7923538699966362,0.5520088491880275,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SWZ,complex,1,FD + RQ,0.8460458200068631,0.8012455127435225,0.5578708489991545,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_SWZ,parsimonious,1,FD + RQ,0.8460458200068631,0.8012455127435225,0.5578708489991545,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TCD,complex,1,FD + RQ,0.8432567627662739,0.7977971181421426,0.5644023542943102,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TCD,parsimonious,1,FD + RQ,0.8432567627662739,0.7977971181421426,0.5644023542943102,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TGO,complex,1,FD + RQ,0.8429159056185803,0.7977971181421426,0.5590806631229432,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TGO,parsimonious,1,FD + RQ,0.8429159056185803,0.7977971181421426,0.5590806631229432,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_THA,complex,1,FD + RQ,0.8401797989832398,0.792548620022779,0.5521009903852984,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_THA,parsimonious,1,FD + RQ,0.8401797989832398,0.792548620022779,0.5521009903852984,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TJK,complex,1,FD + RQ,0.8431112559809623,0.7977971181421428,0.5639951796639473,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TJK,parsimonious,1,FD + RQ,0.8431112559809623,0.7977971181421428,0.5639951796639473,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TLS,complex,1,FD + RQ,0.8436239479478296,0.7983053119497685,0.5578426594321916,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TLS,parsimonious,1,FD + RQ,0.8436239479478296,0.7983053119497685,0.5578426594321916,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TON,complex,1,FD + RQ,0.8472921154780507,0.8028075915858146,0.5578121768260991,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TON,parsimonious,1,FD + RQ,0.8472921154780507,0.8028075915858146,0.5578121768260991,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TUN,complex,1,FD + RQ,0.841085928101997,0.7940515445142224,0.5562128191140114,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TUN,parsimonious,1,FD + RQ,0.841085928101997,0.7940515445142224,0.5562128191140114,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TUR,complex,1,FD*~GDP + RQ,0.8417375288540596,0.7928125410141031,0.5391752725434072,"Boolean solution, not causal identification",2.0,3.0,,True
+Yabs_leave_TUR,parsimonious,1,FD + RQ,0.8410537742845127,0.7939165730535697,0.5561905134315775,"Boolean solution, not causal identification",2.0,2.0,101,True
+Yabs_leave_TZA,complex,1,FD + RQ,0.8429995691408925,0.7971758054652263,0.5643863321209394,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_TZA,parsimonious,1,FD + RQ,0.8429995691408925,0.7971758054652263,0.5643863321209394,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_UGA,complex,1,FD + RQ,0.8426868135939989,0.7966539551552452,0.5630546971810013,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_UGA,parsimonious,1,FD + RQ,0.8426868135939989,0.7966539551552452,0.5630546971810013,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_UKR,complex,1,FD + RQ,0.8424181687249859,0.7962069896913924,0.5619125840429623,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_UKR,parsimonious,1,FD + RQ,0.8424181687249859,0.7962069896913924,0.5619125840429623,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_UZB,complex,1,FD + RQ,0.8431138277231638,0.7973664063814777,0.5648739899087211,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_UZB,parsimonious,1,FD + RQ,0.8431138277231638,0.7973664063814777,0.5648739899087211,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_VNM,complex,1,FD + RQ,0.8401275375359645,0.7923569582144295,0.552358994990978,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_VNM,parsimonious,1,FD + RQ,0.8401275375359645,0.7923569582144295,0.552358994990978,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_VUT,complex,1,FD + RQ,0.8494712455121475,0.8059376227834075,0.5570843420890894,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_VUT,parsimonious,1,FD + RQ,0.8494712455121475,0.8059376227834075,0.5570843420890894,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_WSM,complex,1,FD + RQ,0.8511995997084111,0.8075619248235971,0.5578644595166959,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_WSM,parsimonious,1,FD + RQ,0.8511995997084111,0.8075619248235971,0.5578644595166959,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_XKX,complex,1,FD + RQ,0.8422023741537178,0.7977971181421428,0.5576407386801899,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_XKX,parsimonious,1,FD + RQ,0.8422023741537178,0.7977971181421428,0.5576407386801899,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ZAF,complex,1,FD + RQ,0.8412094863330736,0.7941782598185065,0.5568389947626022,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ZAF,parsimonious,1,FD + RQ,0.8412094863330736,0.7941782598185065,0.5568389947626022,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ZMB,complex,1,FD + RQ,0.8427781807166578,0.7977971181421428,0.559826320700841,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ZMB,parsimonious,1,FD + RQ,0.8427781807166578,0.7977971181421428,0.559826320700841,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ZWE,complex,1,FD + RQ,0.8433132377430499,0.7977971181421428,0.5583123092150033,"Boolean solution, not causal identification",2.0,2.0,,True
+Yabs_leave_ZWE,parsimonious,1,FD + RQ,0.8433132377430499,0.7977971181421428,0.5583123092150033,"Boolean solution, not causal identification",2.0,2.0,,True

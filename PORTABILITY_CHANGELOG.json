@@ -1,0 +1,146 @@
+[
+  {
+    "path": "evidence/econometric_results/econometric_analysis.py",
+    "original_sha256": "f05ccce4365ece8930efc5257d1ca26b1f397e4d23e65a3173a3233ccce68316",
+    "prepared_sha256": "9e7daa34f6e24af0815fbb2428b88d2c55796e8815240de3fcb3933e1e346097",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/econometric_results/write_econometric_report.py",
+    "original_sha256": "d9190bc1ddce1588cb1b272b4df4a5bfd29af4d8c078e5a83da8cac24d56ebf5",
+    "prepared_sha256": "b9a9046683838d6209d7aca506f2ff4b583f7e0aece26ef5c740a6081caacf55",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/econometric_results/prepare_econometric_outputs.py",
+    "original_sha256": "6ce245d21616a4589d511069e3d364b21177735b858bf34ddf8eeb5b0093257d",
+    "prepared_sha256": "318b08a660dd650713f47f7e64580d722b65c2746089fb6c4932ff1e369837b9",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/econometric_results/audit_evidence/run_receipt.json",
+    "original_sha256": "1ff8d1170409d4423c953b00c637fc6ec004754b81558eacc6a4d719e6ce9ad8",
+    "prepared_sha256": "e25fb93640d7c8cfc1684b98a96942660d1f08a9086d8d1373914d977d3073e2",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_results_20261016/scripts/qca_run_calibration.py",
+    "original_sha256": "6c8235868840450d70749a21653f525a9ef9f64f98d27e31eee8c8e337e04bad",
+    "prepared_sha256": "40c24e80cacd1ba159683bbcef000e67c27448919bc79264f419914fb9f75d1b",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_results_20261016/scripts/qca_precision.py",
+    "original_sha256": "ba42dbf3b88bdfb3832f37ac5d8b70eae5446b00e86a54ed1cee32d213af9e7a",
+    "prepared_sha256": "a31e22caf5a31a169b3bfeccc39cc1b8a3ff3b253816bc42dda3f1abb294e839",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_results_20261016/scripts/README.md",
+    "original_sha256": "91ad37566bee74fd229879a614fa40078dc7814c3b380c3c42e9c245a60998ef",
+    "prepared_sha256": "174d231249164ee733643e5b169886edb7561e150cbc6f51017dfc4f82ac0042",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_results_20261016/scripts/qca_setup.py",
+    "original_sha256": "a2f59b2d9db1e40040e788bb06dc6a75a61f39b3acaa14a0a6f91776b4ee3897",
+    "prepared_sha256": "43ab90dbbd4d4afc29cdfe2eabe00e73cb6294a7a2ff9983f3405af2fddcf99a",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_results_20261016/scripts/qca_compute.py",
+    "original_sha256": "a77570df2fc258e7f540199fba1a3c75eeea28e66227ae20980f9d96c29e5027",
+    "prepared_sha256": "928343851f01991180ad88bd7620418271afc2d0ef690ba4794dbd47f36efc9d",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/second_stage_econometric_results/scripts/stage2_independent.R",
+    "original_sha256": "f3e109621ae1447037f1cbdd858a4debeb57f837f1086ffa335ac6d6137bd6ce",
+    "prepared_sha256": "9aedf270b0da36d1956112e3733e08f57a3457383e8eb7cc395ff3250e45bb2d",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/second_stage_econometric_results/scripts/stage2_setup.py",
+    "original_sha256": "0ef1757673883e2433a8d0fa56182562841b2992c8f0b935179227f59f5e2208",
+    "prepared_sha256": "813a5ca6cb9a9716ed033d58015b9b155b513108b31ab37e6c51f714e6bb05f7",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/second_stage_econometric_results/scripts/stage2_run_R.py",
+    "original_sha256": "71c9325bccc9b7c4de78f5f8e624d343ccb507abca3d50effea16bdcebb86f5f",
+    "prepared_sha256": "b1bbf95863099e92f59b03af8ec7f6303cab153b1f57df37dcbbc5cd53387cb0",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/second_stage_econometric_results/audit_evidence/final_validation.json",
+    "original_sha256": "85b1a7b10ca5ca26abf08d790724a366bbe1bacd237bf2983da5d32c8713ef42",
+    "prepared_sha256": "8e05c4ff761e250d29ab5de7b8e8a1090f361277782bae4df1d010c6873b1a6e",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/plan_b_analysis/scripts/planb_reports.py",
+    "original_sha256": "397ba83cea7ea38ede67555c7fe3ff45994c1328692d80e7403acb2c5e87e39b",
+    "prepared_sha256": "490746b4530fc650c86b949ddae36b1f67cfab643927a1f1b67e90b14faf8288",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/plan_b_analysis/scripts/planb_setup.py",
+    "original_sha256": "a4883017699652ba2583370d8d102dc8a50b6792503771a5b9bc1caa853dd8f5",
+    "prepared_sha256": "b184bccc625f8ed8c933aa3eef500e3073c89c45528f8757451fdf1ac2881d5b",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/plan_b_analysis/scripts/README.md",
+    "original_sha256": "70b68c53d03a61df7e6a2eddff15fc0f4b3d5fb7121e798b2fb1e6bf9be87502",
+    "prepared_sha256": "e52d00bdf58469a4eba5ed56190a777f26a1c538beae19f099426f50a7aec6ff",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/plan_b_analysis/scripts/planb_run_R.py",
+    "original_sha256": "a458b742451ef4b57bf83728b3e50ccdfa14885f44ec8ea01e316ab5b5c3f3c0",
+    "prepared_sha256": "5eac01332651198a7688d07d1da7e8da0b6d4ebc13e125e32515df0fbe43531c",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/plan_b_analysis/scripts/planb_run_aggregation_check.py",
+    "original_sha256": "8168065b0baad5133e827c66e98b92f8a11ab393da634d2017bb60759467cf92",
+    "prepared_sha256": "5849d78f1aee2f54cdc5b39a6d98cabe972c4c0ed91230c0a3b3f53642ebcae1",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/plan_b_analysis/audit_evidence/preanalysis_plan_frozen.json",
+    "original_sha256": "046b16a4ffc76c4a489d370196154656125a97d5ed70f9dcbc6f4037b8854a2e",
+    "prepared_sha256": "60cc654a628a863a410b6127a8ef17abb4ba78b8d9dd5e9bca4f280301ee2c97",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_preparation_20261016/freeze_qca_protocol.py",
+    "original_sha256": "dccc580a48cf8f295ac3edc75761eccc44ec9debd8677a71cc7d7263b6604abc",
+    "prepared_sha256": "026cb2a1b7fc68d9c3da518f7857ddad14486e3b7611eff1f0ec2c0887b04dd9",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_preparation_20261016/capture_R_replication.py",
+    "original_sha256": "bdbd708c18f605c2965fec493cad138382094df687810a95e270d17c4ea3f2a8",
+    "prepared_sha256": "134af642edee6b750a49e8d6c3513be45313ab9ca466d0dad866bf026a2ae560",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_preparation_20261016/replicate_clubsandwich.R",
+    "original_sha256": "42f2b0a06fd617b660adbed86d31efaafd79cdba078e952f1164ccb6e24093fa",
+    "prepared_sha256": "f87cd30d3c552da6248dd77579bb9180acf4a2e342b8b2e1df913e174206a0f1",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_preparation_20261016/qca_replication_setup.py",
+    "original_sha256": "2396c5a6c6d8035f51f7cc0b7891496c97162f7e6d18e4912c69b1f74641e83e",
+    "prepared_sha256": "4a4afc2a7a2be9a3dbee9639dbb2e448069b77006ea03056cd94e33873bcb5c7",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  },
+  {
+    "path": "evidence/fsqca_preparation_20261016/audit_evidence/case_preparation_receipt.json",
+    "original_sha256": "a23b351dd5142d6dec27fd53bafd3de4e9923fefbbb289c4d5374eb7c2fc2791",
+    "prepared_sha256": "bfdac1a4edf9a4ed95e53a59928aad3c38b43bb1420c8dc4f60130ad97f64487",
+    "change": "Portability/privacy formatting only; scientific numerical logic retained."
+  }
+]

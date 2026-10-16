@@ -1,0 +1,96 @@
+model,income_group,observations,countries,periods
+annual_TWFE_absolute,Pooled,1104,137,10
+annual_TWFE_absolute,Low income,182,29,10
+annual_TWFE_absolute,Lower middle income,405,56,10
+annual_TWFE_absolute,Upper middle income,339,53,10
+annual_TWFE_absolute,High income,178,34,10
+annual_CRE_absolute,Pooled,1104,137,10
+annual_CRE_absolute,Low income,182,29,10
+annual_CRE_absolute,Lower middle income,405,56,10
+annual_CRE_absolute,Upper middle income,339,53,10
+annual_CRE_absolute,High income,178,34,10
+annual_MundlakOLS_absolute,Pooled,1104,137,10
+annual_MundlakOLS_absolute,Low income,182,29,10
+annual_MundlakOLS_absolute,Lower middle income,405,56,10
+annual_MundlakOLS_absolute,Upper middle income,339,53,10
+annual_MundlakOLS_absolute,High income,178,34,10
+annual_TWFE_per_capita,Pooled,1104,137,10
+annual_TWFE_per_capita,Low income,182,29,10
+annual_TWFE_per_capita,Lower middle income,405,56,10
+annual_TWFE_per_capita,Upper middle income,339,53,10
+annual_TWFE_per_capita,High income,178,34,10
+annual_CRE_per_capita,Pooled,1104,137,10
+annual_CRE_per_capita,Low income,182,29,10
+annual_CRE_per_capita,Lower middle income,405,56,10
+annual_CRE_per_capita,Upper middle income,339,53,10
+annual_CRE_per_capita,High income,178,34,10
+balanced_TWFE,Pooled,610,61,10
+balanced_TWFE,Low income,98,16,10
+balanced_TWFE,Lower middle income,256,34,10
+balanced_TWFE,Upper middle income,231,30,10
+balanced_TWFE,High income,25,3,10
+balanced_CRE,Pooled,610,61,10
+balanced_CRE,Low income,98,16,10
+balanced_CRE,Lower middle income,256,34,10
+balanced_CRE,Upper middle income,231,30,10
+balanced_CRE,High income,25,3,10
+lagged_TWFE,Pooled,1003,136,9
+lagged_TWFE,Low income,162,28,9
+lagged_TWFE,Lower middle income,375,56,9
+lagged_TWFE,Upper middle income,306,51,9
+lagged_TWFE,High income,160,31,9
+lagged_CRE,Pooled,1003,136,9
+lagged_CRE,Low income,162,28,9
+lagged_CRE,Lower middle income,375,56,9
+lagged_CRE,Upper middle income,306,51,9
+lagged_CRE,High income,160,31,9
+window2_TWFE_absolute,Pooled,487,119,5
+window2_TWFE_absolute,Low income,86,28,5
+window2_TWFE_absolute,Lower middle income,193,54,5
+window2_TWFE_absolute,Upper middle income,151,42,5
+window2_TWFE_absolute,High income,57,20,5
+matched2_annual_TWFE_absolute,Pooled,974,119,10
+matched2_annual_TWFE_absolute,Low income,163,28,10
+matched2_annual_TWFE_absolute,Lower middle income,388,55,10
+matched2_annual_TWFE_absolute,Upper middle income,310,47,10
+matched2_annual_TWFE_absolute,High income,113,20,10
+window2_CRE_absolute,Pooled,487,119,5
+window2_CRE_absolute,Low income,86,28,5
+window2_CRE_absolute,Lower middle income,193,54,5
+window2_CRE_absolute,Upper middle income,151,42,5
+window2_CRE_absolute,High income,57,20,5
+window2_TWFE_per_capita,Pooled,487,119,5
+window2_TWFE_per_capita,Low income,86,28,5
+window2_TWFE_per_capita,Lower middle income,193,54,5
+window2_TWFE_per_capita,Upper middle income,151,42,5
+window2_TWFE_per_capita,High income,57,20,5
+matched2_annual_TWFE_per_capita,Pooled,974,119,10
+matched2_annual_TWFE_per_capita,Low income,163,28,10
+matched2_annual_TWFE_per_capita,Lower middle income,388,55,10
+matched2_annual_TWFE_per_capita,Upper middle income,310,47,10
+matched2_annual_TWFE_per_capita,High income,113,20,10
+window2_CRE_per_capita,Pooled,487,119,5
+window2_CRE_per_capita,Low income,86,28,5
+window2_CRE_per_capita,Lower middle income,193,54,5
+window2_CRE_per_capita,Upper middle income,151,42,5
+window2_CRE_per_capita,High income,57,20,5
+window3_TWFE_absolute,Pooled,251,93,3
+window3_TWFE_absolute,Low income,50,24,3
+window3_TWFE_absolute,Lower middle income,106,47,3
+window3_TWFE_absolute,Upper middle income,77,32,3
+window3_TWFE_absolute,High income,18,8,3
+matched3_annual_TWFE_absolute,Pooled,753,93,9
+matched3_annual_TWFE_absolute,Low income,138,25,9
+matched3_annual_TWFE_absolute,Lower middle income,324,51,9
+matched3_annual_TWFE_absolute,Upper middle income,236,34,9
+matched3_annual_TWFE_absolute,High income,55,8,9
+window3_TWFE_per_capita,Pooled,251,93,3
+window3_TWFE_per_capita,Low income,50,24,3
+window3_TWFE_per_capita,Lower middle income,106,47,3
+window3_TWFE_per_capita,Upper middle income,77,32,3
+window3_TWFE_per_capita,High income,18,8,3
+matched3_annual_TWFE_per_capita,Pooled,753,93,9
+matched3_annual_TWFE_per_capita,Low income,138,25,9
+matched3_annual_TWFE_per_capita,Lower middle income,324,51,9
+matched3_annual_TWFE_per_capita,Upper middle income,236,34,9
+matched3_annual_TWFE_per_capita,High income,55,8,9
