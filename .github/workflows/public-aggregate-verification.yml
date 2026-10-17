@@ -15,6 +15,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
+      - name: Diagnostic README manifest digest
+        run: python -c "import pathlib,hashlib; b=pathlib.Path('README.md').read_bytes(); print('README_DIGEST',len(b),hashlib.sha256(b).hexdigest())"
       - name: Verify public release hashes and frozen original aggregate identities
         run: python verify_public_release.py
       - name: Verify revised reporting/vintage aggregate tables
