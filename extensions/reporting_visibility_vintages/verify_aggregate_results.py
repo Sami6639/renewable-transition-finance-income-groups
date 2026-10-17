@@ -33,4 +33,13 @@ check(len(matched)==4 and all(int(x['n'])==863 and int(x['clusters'])==116 for x
 check(close(next(x for x in matched if x['vintage']=='y25' and x['term']=='rq')['estimate'],2.9204223133846368),'2025-vintage matched FE RQ mismatch')
 check(close(next(x for x in matched if x['vintage']=='y26' and x['term']=='rq')['estimate'],2.5323016751103142),'2026-vintage matched FE RQ mismatch')
 check(r['visibility']['N']==1522 and r['vintage']['positive_both']==1099,'Receipt mismatch')
+# Verify immutable byte identities of all published result tables and receipt.
+import hashlib
+hash_rows=list(csv.DictReader((ROOT/'RESULTS_SHA256.csv').open(encoding='utf-8',newline='')))
+check(len(hash_rows)==9,'Expected nine published frozen result artifacts')
+for item in hash_rows:
+    data=(ROOT/item['path']).read_bytes()
+    check(len(data)==int(item['bytes']),'Published result byte-length mismatch: '+item['path'])
+    check(hashlib.sha256(data).hexdigest()==item['sha256'],'Published result SHA256 mismatch: '+item['path'])
+
 print(json.dumps({'status':'PASS','scope':'aggregate identities only, not a raw-data re-estimation','published_result_files_checked':8,'n_visibility':1522,'n_matched_vintage':863},indent=2))
