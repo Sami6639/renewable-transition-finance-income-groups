@@ -1,0 +1,27 @@
+name: Public aggregate reproducibility checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  verify-public-outputs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Verify public release hashes and frozen original aggregate identities
+        run: python verify_public_release.py
+      - name: Verify revised reporting/vintage aggregate tables
+        run: python extensions/reporting_visibility_vintages/verify_aggregate_results.py
+      - name: Syntax-check new reproduction and chart scripts
+        run: |
+          python -m py_compile extensions/reporting_visibility_vintages/analyze_reporting_and_vintages.py
+          python -m py_compile extensions/reporting_visibility_vintages/verify_aggregate_results.py
+          python -m py_compile extensions/reporting_visibility_vintages/verify_frozen_inputs.py
+          python -m py_compile extensions/reporting_visibility_vintages/render_aggregate_figures.py
