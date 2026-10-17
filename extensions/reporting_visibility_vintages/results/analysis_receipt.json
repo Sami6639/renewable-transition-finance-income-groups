@@ -1,0 +1,32 @@
+{
+  "visibility": {
+    "N": 1522,
+    "countries": 163,
+    "observed": 1114,
+    "missing": 408,
+    "model": "binomial GLM, time FE and income group indicators, country clustered CR1",
+    "loglik": -578.1958672786016,
+    "pseudo_R2_mcfadden": 0.3465098733217129,
+    "scale_bank": "10 percentage points",
+    "scale_RQ": "0.1 WGI estimate point",
+    "lpm_N": 1522,
+    "lpm_clusters": 163,
+    "switching_countries": 73
+  },
+  "vintage": {
+    "grid_2015_2023": 1953,
+    "2025_observed": 1263,
+    "2026_observed": 1134,
+    "both": 1121,
+    "2025_only": 142,
+    "2026_only": 13,
+    "neither": 677,
+    "positive_both": 1099,
+    "spearman_rank_positive_both": 0.9561958257966031,
+    "positive_median_native_base_ratio": 1.0511627906976744,
+    "different_price_bases": "2025 constant 2022 USD vs 2026 constant 2023 USD; no conversion performed",
+    "2014_excluded_from_2026_overlap": true,
+    "matched_FE_sample": 863,
+    "matched_FE_countries": 116
+  }
+}
