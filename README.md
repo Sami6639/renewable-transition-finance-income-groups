@@ -1,6 +1,20 @@
 # Renewable transition finance and income groups
 
-Code and aggregate research outputs for **Financing the Renewable Energy Transition: Financial Development, Institutional Quality, and Income-Group Heterogeneity**.
+## Research extension for the revised manuscript (October 2026)
+
+The revised manuscript is **The Measurement Boundaries of Renewable-Energy Public Finance: Reporting Visibility and Institutional Associations**. In addition to the frozen 2014–2023 analyses below, its new reporting-visibility and IRENA 2025/2026-vintage comparisons are publicly documented in [extensions/reporting_visibility_vintages/](extensions/reporting_visibility_vintages/).
+
+The new extension includes the exact regression program, eight aggregate results CSV files, an analysis receipt, a code-to-table mapping, frozen input SHA256 identifiers, aggregate verifier, input-hash verifier and figure regeneration script. **Authorized underlying country-year files remain excluded**, so full end-to-end reproduction still requires obtaining the documented exact source inputs. Run:
+
+```sh
+python verify_public_release.py
+python extensions/reporting_visibility_vintages/verify_aggregate_results.py
+```
+
+These two public checks verify published aggregates and the original public release manifest, **not** the correctness of institutional source transactions or the source-dependent estimation itself.
+
+
+Code and aggregate research outputs for the original public-finance analysis and the revised measurement-boundaries manuscript. The original title is preserved in historic evidence metadata.
 
 ## What is public here
 
