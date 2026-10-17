@@ -1,0 +1,9 @@
+category,rows,maximum_absolute_difference,tolerance_1e-7,status
+Primary OLS CR2 coefficients,482,4.056310842770472e-12,1e-7,PASS
+Primary HTZ joint tests,38,4.869438186005937e-13,1e-7,PASS
+Primary restricted wild cluster bootstrap,5,0,1e-7,PASS
+Primary PPML CR1 coefficients,25,1.0915010562051464e-10,1e-7,PASS
+Secondary OLS CR2 coefficients,148,1.469935284603707e-12,1e-7,PASS
+Secondary restricted wild cluster bootstrap,4,0,1e-7,PASS
+Secondary PPML CR1 coefficients,40,9.071582374176046e-11,1e-7,PASS
+Python fsQCA solution rows,550,0,1e-7,PASS
