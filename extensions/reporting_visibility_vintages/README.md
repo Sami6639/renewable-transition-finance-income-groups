@@ -6,6 +6,8 @@
 
 ## What is deposited
 - `analyze_reporting_and_vintages.py`: original extension analysis program. It takes two authorized local inputs and writes eight aggregate result tables plus `analysis_receipt.json`.
+- `RESULTS_SHA256.csv`: SHA256 and byte-length manifest for all nine aggregate results/receipt files, validated by `verify_aggregate_results.py`.
+- `render_aggregate_figures.py`: regenerates manuscript Figures 6 and 7 directly from published aggregate tables.
 - `results/`: published **aggregate model results** for the two new research margins: presence of a 2025 IRENA recipient record and continuity between IRENA 2025/2026 source vintages.
 - `SOURCE_AND_CLAIM_MAP.md`: identification of each input, corresponding manuscript claims and limits.
 - `requirements.txt`: environment used for the frozen extension.
@@ -17,8 +19,10 @@
 **Run after verifying source rights and exact hashes**:
 ```sh
 python -m pip install -r requirements.txt
+python verify_frozen_inputs.py /authorized/four_income_group_final_dataset.csv /authorized/irena_vintage_overlap.csv
 python analyze_reporting_and_vintages.py --panel /authorized/four_income_group_final_dataset.csv --vintage /authorized/irena_vintage_overlap.csv --outdir reproduced
 python verify_aggregate_results.py
+python render_aggregate_figures.py
 ```
 `verify_aggregate_results.py` validates deposited aggregate identities only; it does **not** recalculate missing licensed source data. A genuine analysis rerun requires the two inputs above.
 
