@@ -1,8 +1,8 @@
-# Renewable transition finance and income groups
+# Renewable Energy Public Finance: Financial Development, Institutions, and Income Groups
 
 ## Research extension for the revised manuscript (October 2026)
 
-The revised manuscript is **The Measurement Boundaries of Renewable-Energy Public Finance: Reporting Visibility and Institutional Associations**. In addition to the frozen 2014–2023 analyses below, its new reporting-visibility and IRENA 2025/2026-vintage comparisons are publicly documented in [extensions/reporting_visibility_vintages/](extensions/reporting_visibility_vintages/).
+The authoritative, final manuscript title is **Renewable Energy Public Finance: Financial Development, Institutions, and Income Groups**. Earlier titles in preserved historical audit records are working titles and do not supersede this title. In addition to the frozen 2014–2023 analyses below, its new reporting-visibility and IRENA 2025/2026-vintage comparisons are publicly documented in [extensions/reporting_visibility_vintages/](extensions/reporting_visibility_vintages/).
 
 The new extension includes the exact regression program, eight aggregate results CSV files, an analysis receipt, a code-to-table mapping, frozen input SHA256 identifiers, aggregate verifier, input-hash verifier and figure regeneration script. **Authorized underlying country-year files remain excluded**, so full end-to-end reproduction still requires obtaining the documented exact source inputs. Run:
 
@@ -14,7 +14,7 @@ python extensions/reporting_visibility_vintages/verify_aggregate_results.py
 These two public checks verify published aggregates and the original public release manifest, **not** the correctness of institutional source transactions or the source-dependent estimation itself.
 
 
-Code and aggregate research outputs for the original public-finance analysis and the revised measurement-boundaries manuscript. The original title is preserved in historic evidence metadata.
+This repository supports the final manuscript named above, retaining the original 2014–2023 core panel and the exploratory reporting-visibility / data-vintage extensions. Historical artifacts may contain earlier working titles.
 
 ## What is public here
 
@@ -22,7 +22,7 @@ This repository contains research Python/R code, aggregate model coefficients an
 
 Country-year source/derived panels, country-level fuzzy memberships, estimation membership lists, model design matrices, case-support records and raw institutional downloads are intentionally omitted while their redistribution terms are reviewed. No manuscripts, personal paths, private approval text, editorial task reports or third-party source reports are included. The code is therefore not a self-contained reproduction environment.
 
-The study concerns selected public renewable-energy commitments in the frozen IRENA 2025 vintage for 2014–2023, provisionally in million constant-2022 USD. Missing financing records must not be recoded as zero; no 2026 financing values should be substituted.
+The frozen 2014–2023 outcome is selected recipient-country public-finance commitments in **million USD at 2022 prices and exchange rates**, using donor-country deflators, according to the contemporaneous [IRENASTAT 2025 finance-table metadata](https://pxweb.irena.org/pxweb/en/IRENASTAT/IRENASTAT__Finance/PUBFIN_2025_H2_PX.px/) (updated 23 July 2025; matrix PUBFIN_2025_H2_PX). The yearbook's generic note instead says *current prices*: this contradictory boilerplate is disclosed, but the dated series-specific metadata is used for the unit. The source combines OECD-DAC 2024 statistics and IRENA Public Finance Database 2025; the yearbook describes 16 major development-finance institutions in addition to OECD-DAC. The detailed provider-by-year roster is **not** verified, and the data do not constitute total national investment. Missing records are not zeros. The separate 2026 release uses **2023-price USD** and is not spliced into the 2025 sample. See [source unit and reporting-boundary record](DATA_SOURCE_SCOPE_2025.md).
 
 ## Results and organization
 
@@ -48,7 +48,7 @@ It validates MANIFEST.csv hashes and selected published-result identities. It do
 
 The separately included verify_with_local_inputs.py performs partial independent sample/OLS/calibration checks only after the required original frozen inputs are placed at their documented paths. It requires numpy, pandas and threadpoolctl. See ACQUIRE_INPUTS.md. It is expected to stop with FileNotFoundError while these inputs are absent.
 
-Earlier private preparation verified the original source archives, reconstructed the 1,104-row/137-country sample and independently reproduced baseline OLS coefficients and five fsQCA calibrations. That work is not a fresh end-to-end run of this public package. CR2, bootstrap, PPML, all minimizations, second-stage and Plan B pipelines have not been rerun after portability changes.
+Earlier private preparation verified the original source archives and reconstructed the 1,104-row/137-country sample. A **separate local independent R execution on 17 October 2026** subsequently reported 114/114 passing comparison groups for selected CR2/Satterthwaite, HTZ, Mundlak/timing, and 275 fsQCA scenarios. Those original R receipts are held locally and have **not** been released here. PPML, bootstrap, raw-to-panel construction and reporting-visibility/vintage estimators were not independently rerun in R. This public checkout does not contain the private input panels necessary to execute the entire study from raw transactions; the historical code portability adaptations were not retested end-to-end.
 
 ## Execution limitations
 

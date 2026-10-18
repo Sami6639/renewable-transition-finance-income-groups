@@ -1,6 +1,6 @@
 # Reporting visibility and IRENA 2025–2026 vintage sensitivity
 
-**Article:** *The Measurement Boundaries of Renewable-Energy Public Finance: Reporting Visibility and Institutional Associations*
+**Article:** *Renewable Energy Public Finance: Financial Development, Institutions, and Income Groups*
 
 **Scientific status:** Exploratory, post-primary extension. These analyses do not estimate causal effects or national renewable investment. Missing published records are **not** national zero-finance amounts; observed numeric zeros remain observations.
 
@@ -29,7 +29,7 @@ python render_aggregate_figures.py
 ## Scope and interpretation
 - Pooled record-visibility binomial GLM: 1,522 complete cases and 163 country clusters. Logit associations are not replicated in country-FE LPM.
 - Matched-vintage 2015–2023 reference: 1,953 cells, 1,121 in both, 142 only in 2025, 13 only in 2026, 677 in neither.
-- Two separate log(1+financing) FE sensitivity models on 863 matched cases and 116 country clusters. They use the vintages' **different price bases** (2022-price vs 2023-price USD), so coefficients are not estimates of a common dollar change.
+- Two separate log(1+financing) FE sensitivity models on 863 matched cases and 116 country clusters. The [2025 source-table metadata](https://pxweb.irena.org/pxweb/en/IRENASTAT/IRENASTAT__Finance/PUBFIN_2025_H2_PX.px/) specifies recipient commitments in **million USD at 2022 prices and exchange rates (donor-country deflators)**. The [2026 release](https://pxweb.irena.org/pxweb/en/IRENASTAT/IRENASTAT__Finance/PUBFIN_2026_H2_PX.px/) uses **2023 prices and exchange rates**. The 2025 yearbook's generic current-price note conflicts with the dated source-specific table metadata and is transparently disclosed. These vintage regressions do not estimate a common-dollar change.
 - Published rank correlation among 1,099 jointly positive records does not remedy missingness in the target population.
 - Provider-by-year rosters, transaction-level revision history and complete harmonized amounts are unavailable. Do not impute missing records or infer causal provider churn.
 

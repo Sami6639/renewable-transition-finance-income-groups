@@ -1,6 +1,6 @@
 # Source licenses and frozen-input re-analysis boundary (17 October 2026)
 
-**Article:** The Measurement Boundaries of Renewable-Energy Public Finance: Reporting Visibility and Institutional Associations.
+**Final manuscript title (18 October 2026):** Renewable Energy Public Finance: Financial Development, Institutions, and Income Groups. The former title (*The Measurement Boundaries of Renewable-Energy Public Finance: Reporting Visibility and Institutional Associations*) was a working title at the date of this historical audit.
 
 ## Re-execution verified on the author's frozen research archive
 
@@ -11,7 +11,7 @@ A local rerun (Python 3.13, frozen October 2026 country-year inputs) reproduced:
 - New reporting-visibility / 2025–2026 vintage sensitivity: 8 aggregate published tables reproduced from the frozen inputs.
 - Comparative numerical ledgers: primary OLS 482 coefficient rows, secondary OLS 148 coefficient rows, fsQCA 550 solution rows. Maximum absolute differences for inspected estimands below 1.1e-10 (and exact matching in bootstrap p-values and fuzzy solution metrics).
 
-**Scope:** These checks reproduce estimators and outputs *from the identical frozen derived panels*, **not** fresh acquisition and independent transaction-level reconstruction from institution databases. No new independent R run was conducted in this runtime (Rscript unavailable); previously archived R checks remain historical verification, not a newly rerun R audit. None of the checks resolves the source-vintage provider roster or whether the monetary figures should be interpreted as current-price or constant-2022 dollars.
+**Scope:** These checks reproduce estimators and outputs *from the identical frozen derived panels*, **not** fresh acquisition and independent transaction-level reconstruction from institution databases. No new independent R run was conducted in this runtime (Rscript unavailable); previously archived R checks remain historical verification, not a newly rerun R audit. The statistical rerun does not verify the source-vintage provider roster or any transaction-level inclusion decision. **Metadata update 18 October 2026:** the archived IRENASTAT 2025 matrix PUBFIN_2025_H2_PX explicitly resolves the operational source-unit identification as 2022-price and exchange-rate USD using donor-country deflators; the yearbook generic note saying current prices remains an unresolved textual inconsistency.
 
 ## Copyright, terms, and dataset segmentation
 
